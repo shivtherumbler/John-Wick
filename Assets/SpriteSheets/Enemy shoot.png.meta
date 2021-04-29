@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: afdd150cab306924fa90bd4cbeaf431f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8029730448823565115
+    second: Enemy shoot_0
+  - first:
+      213: -2133677717277058609
+    second: Enemy shoot_1
+  - first:
+      213: 1220456690095301393
+    second: Enemy shoot_2
+  - first:
+      213: 4472083183022139567
+    second: Enemy shoot_3
+  - first:
+      213: 5051535088078859430
+    second: Enemy shoot_4
+  - first:
+      213: 5466924702393423644
+    second: Enemy shoot_5
+  - first:
+      213: -693000178320789449
+    second: Enemy shoot_6
+  - first:
+      213: -670240689934997037
+    second: Enemy shoot_7
+  - first:
+      213: 6475162446374449843
+    second: Enemy shoot_8
+  - first:
+      213: 4040526198437286347
+    second: Enemy shoot_9
+  - first:
+      213: -2447275677134254422
+    second: Enemy shoot_10
+  - first:
+      213: -5921303461861955181
+    second: Enemy shoot_11
+  - first:
+      213: -1794878497346892597
+    second: Enemy shoot_12
+  - first:
+      213: -3667528463831413903
+    second: Enemy shoot_13
+  - first:
+      213: 4050037703721407129
+    second: Enemy shoot_14
+  - first:
+      213: -2523311853387204968
+    second: Enemy shoot_15
+  - first:
+      213: -5456780719749981238
+    second: Enemy shoot_16
+  - first:
+      213: 6473029696579489774
+    second: Enemy shoot_17
+  - first:
+      213: -553912634043538248
+    second: Enemy shoot_18
+  - first:
+      213: -4987723928154910881
+    second: Enemy shoot_19
+  - first:
+      213: -8082873304012008187
+    second: Enemy shoot_20
+  - first:
+      213: 1402020283466051613
+    second: Enemy shoot_21
+  - first:
+      213: -5496800407462829673
+    second: Enemy shoot_22
+  - first:
+      213: -3800342880412803582
+    second: Enemy shoot_23
+  - first:
+      213: -2556781820956831486
+    second: Enemy shoot_24
+  - first:
+      213: -5380400837268584849
+    second: Enemy shoot_25
+  - first:
+      213: 8913677874982368797
+    second: Enemy shoot_26
+  - first:
+      213: -2020885051048669552
+    second: Enemy shoot_27
+  - first:
+      213: -3237764410973695106
+    second: Enemy shoot_28
+  - first:
+      213: 7163930989835319782
+    second: Enemy shoot_29
+  - first:
+      213: 588326455970873238
+    second: Enemy shoot_30
+  - first:
+      213: 6802494254451730344
+    second: Enemy shoot_31
+  - first:
+      213: 4912909070699295912
+    second: Enemy shoot_32
+  - first:
+      213: 6269307605724979692
+    second: Enemy shoot_33
+  - first:
+      213: -1228630013300351369
+    second: Enemy shoot_34
+  - first:
+      213: 808727158125666958
+    second: Enemy shoot_35
+  - first:
+      213: -5978523377550092220
+    second: Enemy shoot_36
+  - first:
+      213: -6389602439891467472
+    second: Enemy shoot_37
+  - first:
+      213: -677902436169068225
+    second: Enemy shoot_38
+  - first:
+      213: 6751494741534646330
+    second: Enemy shoot_39
+  - first:
+      213: -6582947894077308600
+    second: Enemy shoot_40
+  - first:
+      213: -412266509195129556
+    second: Enemy shoot_41
+  - first:
+      213: -2141140052884532257
+    second: Enemy shoot_42
+  - first:
+      213: 3882172059267729062
+    second: Enemy shoot_43
+  - first:
+      213: 2411115832553134666
+    second: Enemy shoot_44
+  - first:
+      213: -9197612720668646488
+    second: Enemy shoot_45
+  - first:
+      213: 5024752350529207023
+    second: Enemy shoot_46
+  - first:
+      213: 2591225527069878555
+    second: Enemy shoot_47
+  - first:
+      213: 6681014664061754966
+    second: Enemy shoot_48
+  - first:
+      213: -8137644232219736500
+    second: Enemy shoot_49
+  - first:
+      213: 4206994068754247992
+    second: Enemy shoot_50
+  - first:
+      213: 5944052634053837045
+    second: Enemy shoot_51
+  - first:
+      213: -2284408776917454386
+    second: Enemy shoot_52
+  - first:
+      213: -58251153588675198
+    second: Enemy shoot_53
+  - first:
+      213: 1341866519853589362
+    second: Enemy shoot_54
+  - first:
+      213: 6689347536834050435
+    second: Enemy shoot_55
+  - first:
+      213: 3071631679968720812
+    second: Enemy shoot_56
+  - first:
+      213: 1975586468680743123
+    second: Enemy shoot_57
+  - first:
+      213: 21676634453470047
+    second: Enemy shoot_58
+  - first:
+      213: 2074780242192962975
+    second: Enemy shoot_59
+  - first:
+      213: -3522061947243714635
+    second: Enemy shoot_60
+  - first:
+      213: -2588022834819243920
+    second: Enemy shoot_61
+  - first:
+      213: -524398846129694638
+    second: Enemy shoot_62
+  - first:
+      213: 1230936057134650301
+    second: Enemy shoot_63
+  - first:
+      213: 742011756884030326
+    second: Enemy shoot_64
+  - first:
+      213: -8378362344691318460
+    second: Enemy shoot_65
+  - first:
+      213: -5064118227377137875
+    second: Enemy shoot_66
+  - first:
+      213: -5152400122066161949
+    second: Enemy shoot_67
+  - first:
+      213: 833539553278236761
+    second: Enemy shoot_68
+  - first:
+      213: -6756573258350087037
+    second: Enemy shoot_69
+  - first:
+      213: 8024043094657737054
+    second: Enemy shoot_70
+  - first:
+      213: -6065357359349277857
+    second: Enemy shoot_71
+  - first:
+      213: -5486993236864104902
+    second: Enemy shoot_72
+  - first:
+      213: -3921713360158862795
+    second: Enemy shoot_73
+  - first:
+      213: 7956466402438505755
+    second: Enemy shoot_74
+  - first:
+      213: 1535914089319106312
+    second: Enemy shoot_75
+  - first:
+      213: -4953352276250680085
+    second: Enemy shoot_76
+  - first:
+      213: 9125255141703049765
+    second: Enemy shoot_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy shoot_0
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 9923
+        width: 262
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4cbbb33baa09090800000000000000
+      internalID: -8029730448823565115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_1
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 9923
+        width: 262
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d88cbb67a362e0800000000000000
+      internalID: -2133677717277058609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_2
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 9923
+        width: 262
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11321e4b4eeefe010800000000000000
+      internalID: 1220456690095301393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_3
+      rect:
+        serializedVersion: 2
+        x: 6601
+        y: 9923
+        width: 262
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8680af5f7001e30800000000000000
+      internalID: 4472083183022139567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_4
+      rect:
+        serializedVersion: 2
+        x: 8521
+        y: 9923
+        width: 262
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acac5ff568aa1640800000000000000
+      internalID: 5051535088078859430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_5
+      rect:
+        serializedVersion: 2
+        x: 10441
+        y: 9923
+        width: 262
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17d7f34d0b6edb40800000000000000
+      internalID: 5466924702393423644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_6
+      rect:
+        serializedVersion: 2
+        x: 12361
+        y: 9923
+        width: 262
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73038ed6208f166f0800000000000000
+      internalID: -693000178320789449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_7
+      rect:
+        serializedVersion: 2
+        x: 14283
+        y: 9923
+        width: 260
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d96962c4a3d2b6f0800000000000000
+      internalID: -670240689934997037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 8843
+        width: 260
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2391720f56cd950800000000000000
+      internalID: 6475162446374449843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_9
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 8843
+        width: 260
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1938b7b25d21830800000000000000
+      internalID: 4040526198437286347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_10
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 8843
+        width: 260
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae85f4ecb7890ed0800000000000000
+      internalID: -2447275677134254422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_11
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 8843
+        width: 260
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3996d64bfdd43dda0800000000000000
+      internalID: -5921303461861955181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_12
+      rect:
+        serializedVersion: 2
+        x: 8523
+        y: 8843
+        width: 260
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccc6ae248f4717e0800000000000000
+      internalID: -1794878497346892597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_13
+      rect:
+        serializedVersion: 2
+        x: 10441
+        y: 8842
+        width: 262
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bc1b52b425a1dc0800000000000000
+      internalID: -3667528463831413903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_14
+      rect:
+        serializedVersion: 2
+        x: 12361
+        y: 8842
+        width: 262
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d04165df943830800000000000000
+      internalID: 4050037703721407129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_15
+      rect:
+        serializedVersion: 2
+        x: 14283
+        y: 8842
+        width: 260
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b2590d356bfcd0800000000000000
+      internalID: -2523311853387204968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 7762
+        width: 260
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb1a1eb8de9544b0800000000000000
+      internalID: -5456780719749981238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_17
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 7762
+        width: 260
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefcc25a632d4d950800000000000000
+      internalID: 6473029696579489774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_18
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 7762
+        width: 260
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4eb33e46b1058f0800000000000000
+      internalID: -553912634043538248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_19
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 7762
+        width: 260
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4c90738b08cab0800000000000000
+      internalID: -4987723928154910881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_20
+      rect:
+        serializedVersion: 2
+        x: 8523
+        y: 7762
+        width: 260
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50550ed0e8dd3df80800000000000000
+      internalID: -8082873304012008187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_21
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 7762
+        width: 260
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f2e3050af47310800000000000000
+      internalID: 1402020283466051613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_22
+      rect:
+        serializedVersion: 2
+        x: 12363
+        y: 7762
+        width: 260
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a4f7172177b3b0800000000000000
+      internalID: -5496800407462829673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_23
+      rect:
+        serializedVersion: 2
+        x: 14283
+        y: 7762
+        width: 260
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e5f4c0948724bc0800000000000000
+      internalID: -3800342880412803582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_24
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 6682
+        width: 260
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20111b1fa7c748cd0800000000000000
+      internalID: -2556781820956831486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_25
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 6682
+        width: 260
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664461f1f9f455b0800000000000000
+      internalID: -5380400837268584849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_26
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 6682
+        width: 260
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d163594fcceb3bb70800000000000000
+      internalID: 8913677874982368797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_27
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 6682
+        width: 260
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ec850d0cf54f3e0800000000000000
+      internalID: -2020885051048669552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_28
+      rect:
+        serializedVersion: 2
+        x: 8523
+        y: 6682
+        width: 260
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d2813c662113d0800000000000000
+      internalID: -3237764410973695106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_29
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 6682
+        width: 272
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9fb8477456b6360800000000000000
+      internalID: 7163930989835319782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_30
+      rect:
+        serializedVersion: 2
+        x: 12363
+        y: 6682
+        width: 300
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fbb1c6bc72a2800800000000000000
+      internalID: 588326455970873238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_31
+      rect:
+        serializedVersion: 2
+        x: 14283
+        y: 6682
+        width: 326
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a72b37bb70576e50800000000000000
+      internalID: 6802494254451730344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_32
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 5602
+        width: 350
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a473d425c82e2440800000000000000
+      internalID: 4912909070699295912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_33
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 5602
+        width: 371
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce164ea1d0e010750800000000000000
+      internalID: 6269307605724979692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_34
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 5602
+        width: 390
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e59d0338703fee0800000000000000
+      internalID: -1228630013300351369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_35
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 5603
+        width: 403
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82aa44c01d293b00800000000000000
+      internalID: 808727158125666958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_36
+      rect:
+        serializedVersion: 2
+        x: 8523
+        y: 5602
+        width: 412
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44812c7e9a4080da0800000000000000
+      internalID: -5978523377550092220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_37
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 5603
+        width: 418
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cc4a3f629357a0800000000000000
+      internalID: -6389602439891467472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_38
+      rect:
+        serializedVersion: 2
+        x: 12363
+        y: 5602
+        width: 420
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3155c3735b9796f0800000000000000
+      internalID: -677902436169068225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_39
+      rect:
+        serializedVersion: 2
+        x: 14283
+        y: 5602
+        width: 420
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30271c42b022bd50800000000000000
+      internalID: 6751494741534646330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_40
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 4522
+        width: 420
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cd9ea4cba4a4a0800000000000000
+      internalID: -6582947894077308600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_41
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 4522
+        width: 420
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d42ae4bc5574af0800000000000000
+      internalID: -412266509195129556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_42
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 4522
+        width: 420
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3d47557742942e0800000000000000
+      internalID: -2141140052884532257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_43
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 4522
+        width: 420
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a689955bee30e530800000000000000
+      internalID: 3882172059267729062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_44
+      rect:
+        serializedVersion: 2
+        x: 8523
+        y: 4522
+        width: 420
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a56a73311067120800000000000000
+      internalID: 2411115832553134666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_45
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 4522
+        width: 420
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a36eea26f38b5080800000000000000
+      internalID: -9197612720668646488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_46
+      rect:
+        serializedVersion: 2
+        x: 12363
+        y: 4522
+        width: 422
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3a99f3a18bb540800000000000000
+      internalID: 5024752350529207023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_47
+      rect:
+        serializedVersion: 2
+        x: 14283
+        y: 4522
+        width: 420
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19ace153e1e5f320800000000000000
+      internalID: 2591225527069878555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_48
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3442
+        width: 410
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e939e707bb7bc50800000000000000
+      internalID: 6681014664061754966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_49
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 3442
+        width: 380
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4649069fa7411f80800000000000000
+      internalID: -8137644232219736500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_50
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 3442
+        width: 319
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b540e0de326a30800000000000000
+      internalID: 4206994068754247992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_51
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 3442
+        width: 260
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f00103b0648d7250800000000000000
+      internalID: 5944052634053837045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_52
+      rect:
+        serializedVersion: 2
+        x: 8523
+        y: 3443
+        width: 260
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1fc0a12562c40e0800000000000000
+      internalID: -2284408776917454386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_53
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 3443
+        width: 260
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d179a62ec013ff0800000000000000
+      internalID: -58251153588675198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_54
+      rect:
+        serializedVersion: 2
+        x: 12363
+        y: 3443
+        width: 260
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273ecd38d744f9210800000000000000
+      internalID: 1341866519853589362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_55
+      rect:
+        serializedVersion: 2
+        x: 14281
+        y: 3443
+        width: 262
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b020a42655dc50800000000000000
+      internalID: 6689347536834050435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_56
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2363
+        width: 275
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73f5d1db0a0aa20800000000000000
+      internalID: 3071631679968720812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_57
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 2363
+        width: 288
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8b8c81d61ba6b10800000000000000
+      internalID: 1975586468680743123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_58
+      rect:
+        serializedVersion: 2
+        x: 4647
+        y: 2363
+        width: 296
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b6680c8c20d4000800000000000000
+      internalID: 21676634453470047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_59
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 2363
+        width: 298
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9519ea33a91bcc10800000000000000
+      internalID: 2074780242192962975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_60
+      rect:
+        serializedVersion: 2
+        x: 8487
+        y: 2363
+        width: 296
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b72e95d15f1f1fc0800000000000000
+      internalID: -3522061947243714635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_61
+      rect:
+        serializedVersion: 2
+        x: 10415
+        y: 2363
+        width: 288
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070eff391fe751cd0800000000000000
+      internalID: -2588022834819243920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_62
+      rect:
+        serializedVersion: 2
+        x: 12340
+        y: 2363
+        width: 283
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25890df1706f8b8f0800000000000000
+      internalID: -524398846129694638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_63
+      rect:
+        serializedVersion: 2
+        x: 14260
+        y: 2363
+        width: 283
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31bba72d9251110800000000000000
+      internalID: 1230936057134650301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_64
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1283
+        width: 283
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737c34f2c72c4a00800000000000000
+      internalID: 742011756884030326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_65
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1283
+        width: 283
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4414a2586d31abb80800000000000000
+      internalID: -8378362344691318460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_66
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 1283
+        width: 281
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27da949d43a8b9b0800000000000000
+      internalID: -5064118227377137875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_67
+      rect:
+        serializedVersion: 2
+        x: 6585
+        y: 1283
+        width: 278
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2197336ffe78b0800000000000000
+      internalID: -5152400122066161949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_68
+      rect:
+        serializedVersion: 2
+        x: 8508
+        y: 1283
+        width: 275
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9581363bec3519b00800000000000000
+      internalID: 833539553278236761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_69
+      rect:
+        serializedVersion: 2
+        x: 10432
+        y: 1283
+        width: 271
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b32d5b64db32a0800000000000000
+      internalID: -6756573258350087037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_70
+      rect:
+        serializedVersion: 2
+        x: 12357
+        y: 1283
+        width: 266
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51208f6ea02b5f60800000000000000
+      internalID: 8024043094657737054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_71
+      rect:
+        serializedVersion: 2
+        x: 14283
+        y: 1283
+        width: 260
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5f280e9583dba0800000000000000
+      internalID: -6065357359349277857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_72
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 203
+        width: 260
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368ebfe8b84ad3b0800000000000000
+      internalID: -5486993236864104902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_73
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 203
+        width: 262
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d3d02a764399c0800000000000000
+      internalID: -3921713360158862795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_74
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 203
+        width: 262
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b156da0b90c0b6e60800000000000000
+      internalID: 7956466402438505755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_75
+      rect:
+        serializedVersion: 2
+        x: 6601
+        y: 203
+        width: 262
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80702630ab9a05510800000000000000
+      internalID: 1535914089319106312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_76
+      rect:
+        serializedVersion: 2
+        x: 8521
+        y: 203
+        width: 262
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a4b64958224bb0800000000000000
+      internalID: -4953352276250680085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy shoot_77
+      rect:
+        serializedVersion: 2
+        x: 10441
+        y: 203
+        width: 262
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5226406243b63ae70800000000000000
+      internalID: 9125255141703049765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

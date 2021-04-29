@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 4a38a5efd188b6e4bba79ba895878967
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2185507804271798894
+    second: rifle walk_0
+  - first:
+      213: -7558765231320072798
+    second: rifle walk_1
+  - first:
+      213: -1920369396818968420
+    second: rifle walk_2
+  - first:
+      213: 2765338146448369935
+    second: rifle walk_3
+  - first:
+      213: -7402901928317893957
+    second: rifle walk_4
+  - first:
+      213: -8632782727190205089
+    second: rifle walk_5
+  - first:
+      213: -2152433735529365393
+    second: rifle walk_6
+  - first:
+      213: 4577909826247646740
+    second: rifle walk_7
+  - first:
+      213: -6690894596106253895
+    second: rifle walk_8
+  - first:
+      213: -7327165124718004481
+    second: rifle walk_9
+  - first:
+      213: -7968554724638784368
+    second: rifle walk_10
+  - first:
+      213: 1457957256695774180
+    second: rifle walk_11
+  - first:
+      213: -590730310779003400
+    second: rifle walk_12
+  - first:
+      213: 4907988374837447822
+    second: rifle walk_13
+  - first:
+      213: -5354511696432118140
+    second: rifle walk_14
+  - first:
+      213: -4583637316068107952
+    second: rifle walk_15
+  - first:
+      213: 5803856604148479769
+    second: rifle walk_16
+  - first:
+      213: 5365429712874889033
+    second: rifle walk_17
+  - first:
+      213: 6875817898776850628
+    second: rifle walk_18
+  - first:
+      213: 332647792558006685
+    second: rifle walk_19
+  - first:
+      213: -7192762392763460831
+    second: rifle walk_20
+  - first:
+      213: -247210625692137921
+    second: rifle walk_21
+  - first:
+      213: -4946078516671917745
+    second: rifle walk_22
+  - first:
+      213: -4796360849026562958
+    second: rifle walk_23
+  - first:
+      213: -4037159752635692927
+    second: rifle walk_24
+  - first:
+      213: 3321122854716727357
+    second: rifle walk_25
+  - first:
+      213: -8048950546324657235
+    second: rifle walk_26
+  - first:
+      213: -4601198527435969918
+    second: rifle walk_27
+  - first:
+      213: -6060815177745244486
+    second: rifle walk_28
+  - first:
+      213: -4892563552698533074
+    second: rifle walk_29
+  - first:
+      213: -64750242976191109
+    second: rifle walk_30
+  - first:
+      213: -1708575961801154382
+    second: rifle walk_31
+  - first:
+      213: -7594254320409856934
+    second: rifle walk_32
+  - first:
+      213: -3071970495147766150
+    second: rifle walk_33
+  - first:
+      213: 9101149225223390351
+    second: rifle walk_34
+  - first:
+      213: -2220825747533504938
+    second: rifle walk_35
+  - first:
+      213: 8285635406088902831
+    second: rifle walk_36
+  - first:
+      213: 6865603406343918236
+    second: rifle walk_37
+  - first:
+      213: 5163699783313673815
+    second: rifle walk_38
+  - first:
+      213: -2788981904706738898
+    second: rifle walk_39
+  - first:
+      213: -33252569368686131
+    second: rifle walk_40
+  - first:
+      213: -8922864909471055930
+    second: rifle walk_41
+  - first:
+      213: -418583710164457839
+    second: rifle walk_42
+  - first:
+      213: -154196644141049229
+    second: rifle walk_43
+  - first:
+      213: 4330488206559358594
+    second: rifle walk_44
+  - first:
+      213: -1228195505177249548
+    second: rifle walk_45
+  - first:
+      213: 2276706672471881902
+    second: rifle walk_46
+  - first:
+      213: -1261778732909265571
+    second: rifle walk_47
+  - first:
+      213: 2483292814325259781
+    second: rifle walk_48
+  - first:
+      213: -9099702073886190000
+    second: rifle walk_49
+  - first:
+      213: -4994994917422498590
+    second: rifle walk_50
+  - first:
+      213: 8498013400854647965
+    second: rifle walk_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rifle walk_0
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 6689
+        width: 307
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29519883b348ba1e0800000000000000
+      internalID: -2185507804271798894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_1
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 6689
+        width: 278
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adf796f11fd91790800000000000000
+      internalID: -7558765231320072798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_2
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 6689
+        width: 270
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c900319453a7955e0800000000000000
+      internalID: -1920369396818968420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_3
+      rect:
+        serializedVersion: 2
+        x: 6622
+        y: 6687
+        width: 301
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0964ee8464706620800000000000000
+      internalID: 2765338146448369935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_4
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 6681
+        width: 335
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ce8f1beb934990800000000000000
+      internalID: -7402901928317893957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_5
+      rect:
+        serializedVersion: 2
+        x: 10405
+        y: 6676
+        width: 364
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d23ba19d1323880800000000000000
+      internalID: -8632782727190205089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_6
+      rect:
+        serializedVersion: 2
+        x: 12305
+        y: 6670
+        width: 388
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60843febe40122e0800000000000000
+      internalID: -2152433735529365393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_7
+      rect:
+        serializedVersion: 2
+        x: 14225
+        y: 6674
+        width: 393
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed24f6bb0088f30800000000000000
+      internalID: 4577909826247646740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 5613
+        width: 358
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9818190da2523a0800000000000000
+      internalID: -6690894596106253895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_9
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 5617
+        width: 322
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67d8ad32ea05a90800000000000000
+      internalID: -7327165124718004481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_10
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 5615
+        width: 283
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09405a872b10a6190800000000000000
+      internalID: -7968554724638784368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_11
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 5617
+        width: 298
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebfd0f7664bb3410800000000000000
+      internalID: 1457957256695774180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_12
+      rect:
+        serializedVersion: 2
+        x: 8532
+        y: 5618
+        width: 321
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd16f389ed4dc7f0800000000000000
+      internalID: -590730310779003400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_13
+      rect:
+        serializedVersion: 2
+        x: 10422
+        y: 5613
+        width: 347
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cceeb5c6dac1440800000000000000
+      internalID: 4907988374837447822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_14
+      rect:
+        serializedVersion: 2
+        x: 12313
+        y: 5605
+        width: 374
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864d744bf3f0b5b0800000000000000
+      internalID: -5354511696432118140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_15
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 5598
+        width: 388
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059198c6526a360c0800000000000000
+      internalID: -4583637316068107952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 4529
+        width: 370
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173391d4d07b8050800000000000000
+      internalID: 5803856604148479769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_17
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 4528
+        width: 334
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fdb3785e5d57a40800000000000000
+      internalID: 5365429712874889033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_18
+      rect:
+        serializedVersion: 2
+        x: 4705
+        y: 4528
+        width: 283
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0fdd403ffcb6f50800000000000000
+      internalID: 6875817898776850628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_19
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 4528
+        width: 248
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91ecb6a76dcd9400800000000000000
+      internalID: 332647792558006685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_20
+      rect:
+        serializedVersion: 2
+        x: 8551
+        y: 4527
+        width: 279
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1239b8176bc2e2c90800000000000000
+      internalID: -7192762392763460831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_21
+      rect:
+        serializedVersion: 2
+        x: 10439
+        y: 4527
+        width: 319
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f360be6ee3bb19cf0800000000000000
+      internalID: -247210625692137921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_22
+      rect:
+        serializedVersion: 2
+        x: 12331
+        y: 4522
+        width: 354
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4154966bcffb5bb0800000000000000
+      internalID: -4946078516671917745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_23
+      rect:
+        serializedVersion: 2
+        x: 14227
+        y: 4512
+        width: 388
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2744e235837ef6db0800000000000000
+      internalID: -4796360849026562958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_24
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3430
+        width: 401
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18845a2489029f7c0800000000000000
+      internalID: -4037159752635692927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_25
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 3443
+        width: 373
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3062dae3aff61e20800000000000000
+      internalID: 3321122854716727357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_26
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 3451
+        width: 334
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe1af8f126c4090800000000000000
+      internalID: -8048950546324657235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_27
+      rect:
+        serializedVersion: 2
+        x: 6668
+        y: 3453
+        width: 291
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae02741524520c0800000000000000
+      internalID: -4601198527435969918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_28
+      rect:
+        serializedVersion: 2
+        x: 8562
+        y: 3457
+        width: 317
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed23915b8a3eba0800000000000000
+      internalID: -6060815177745244486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_29
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 3457
+        width: 343
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b7168ee5f1a1cb0800000000000000
+      internalID: -4892563552698533074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_30
+      rect:
+        serializedVersion: 2
+        x: 12342
+        y: 3447
+        width: 368
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7da8404ff5f91ff0800000000000000
+      internalID: -64750242976191109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_31
+      rect:
+        serializedVersion: 2
+        x: 14240
+        y: 3440
+        width: 386
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02215173be948e0800000000000000
+      internalID: -1708575961801154382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_32
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2356
+        width: 392
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54bef18ee9cb9690800000000000000
+      internalID: -7594254320409856934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_33
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2369
+        width: 381
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e8c345c1b2e55d0800000000000000
+      internalID: -3071970495147766150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_34
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 2369
+        width: 335
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8403491007cd4e70800000000000000
+      internalID: 9101149225223390351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_35
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 2369
+        width: 276
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e5932cfba0e21e0800000000000000
+      internalID: -2220825747533504938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_36
+      rect:
+        serializedVersion: 2
+        x: 8560
+        y: 2367
+        width: 285
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8145ea08d7cf270800000000000000
+      internalID: 8285635406088902831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_37
+      rect:
+        serializedVersion: 2
+        x: 10450
+        y: 2367
+        width: 323
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9257db2ce5874f50800000000000000
+      internalID: 6865603406343918236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_38
+      rect:
+        serializedVersion: 2
+        x: 12342
+        y: 2362
+        width: 353
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4c2f289529a740800000000000000
+      internalID: 5163699783313673815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_39
+      rect:
+        serializedVersion: 2
+        x: 14236
+        y: 2356
+        width: 379
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2566fcfbbb8b49d0800000000000000
+      internalID: -2788981904706738898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_40
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1268
+        width: 400
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc119eed6fcd98ff0800000000000000
+      internalID: -33252569368686131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_41
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1280
+        width: 388
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cffd24e3ad9b2480800000000000000
+      internalID: -8922864909471055930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_42
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 1291
+        width: 347
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e1e65554e03af0800000000000000
+      internalID: -418583710164457839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_43
+      rect:
+        serializedVersion: 2
+        x: 6643
+        y: 1285
+        width: 303
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5a6818fe2cddf0800000000000000
+      internalID: -154196644141049229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_44
+      rect:
+        serializedVersion: 2
+        x: 8572
+        y: 1285
+        width: 296
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2df7741cf81c30800000000000000
+      internalID: 4330488206559358594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_45
+      rect:
+        serializedVersion: 2
+        x: 10463
+        y: 1297
+        width: 325
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8bd2ff1b294fee0800000000000000
+      internalID: -1228195505177249548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_46
+      rect:
+        serializedVersion: 2
+        x: 12353
+        y: 1297
+        width: 353
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b276f7ac789f10800000000000000
+      internalID: 2276706672471881902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_47
+      rect:
+        serializedVersion: 2
+        x: 14245
+        y: 1288
+        width: 377
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dfcc77de24d7ee0800000000000000
+      internalID: -1261778732909265571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_48
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 198
+        width: 393
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e132758ad667220800000000000000
+      internalID: 2483292814325259781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_49
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 200
+        width: 371
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d0241d2d57b180800000000000000
+      internalID: -9099702073886190000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_50
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 209
+        width: 335
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec762456963eaab0800000000000000
+      internalID: -4994994917422498590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rifle walk_51
+      rect:
+        serializedVersion: 2
+        x: 6612
+        y: 209
+        width: 311
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d945376e9220fe570800000000000000
+      internalID: 8498013400854647965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

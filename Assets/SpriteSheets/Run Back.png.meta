@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: baef687498a5de8449c8016a711823e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7477508043485450909
+    second: Run Back_0
+  - first:
+      213: 1324685433695437220
+    second: Run Back_1
+  - first:
+      213: 8202795237006103435
+    second: Run Back_2
+  - first:
+      213: 8125503570728480234
+    second: Run Back_3
+  - first:
+      213: 3683392560171160852
+    second: Run Back_4
+  - first:
+      213: -6871195146779043627
+    second: Run Back_5
+  - first:
+      213: -7143662094805710839
+    second: Run Back_6
+  - first:
+      213: 6029982445602166969
+    second: Run Back_7
+  - first:
+      213: -3363599798103396943
+    second: Run Back_8
+  - first:
+      213: 1156323428265066037
+    second: Run Back_9
+  - first:
+      213: 8326809395561338967
+    second: Run Back_10
+  - first:
+      213: -7008901863449252670
+    second: Run Back_11
+  - first:
+      213: 408368954420005388
+    second: Run Back_12
+  - first:
+      213: -1024768015409198193
+    second: Run Back_13
+  - first:
+      213: -3491729698311150549
+    second: Run Back_14
+  - first:
+      213: 3769633380504979576
+    second: Run Back_15
+  - first:
+      213: 8490227578907640243
+    second: Run Back_16
+  - first:
+      213: 5168816876539756821
+    second: Run Back_17
+  - first:
+      213: 5381790803120572878
+    second: Run Back_18
+  - first:
+      213: -6808824285510257025
+    second: Run Back_19
+  - first:
+      213: 352131454788320323
+    second: Run Back_20
+  - first:
+      213: 8778029947710617977
+    second: Run Back_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run Back_0
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3450
+        width: 254
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d6cee4d0e8a3890800000000000000
+      internalID: -7477508043485450909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_1
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 3443
+        width: 244
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a10d8a226a326210800000000000000
+      internalID: 1324685433695437220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_2
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 3445
+        width: 245
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d30bcece26d170800000000000000
+      internalID: 8202795237006103435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_3
+      rect:
+        serializedVersion: 2
+        x: 6592
+        y: 3428
+        width: 242
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed6072627693c070800000000000000
+      internalID: 8125503570728480234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_4
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 3425
+        width: 241
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415915d940a0e1330800000000000000
+      internalID: 3683392560171160852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_5
+      rect:
+        serializedVersion: 2
+        x: 10434
+        y: 3450
+        width: 242
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8d8dd4b6c94a0a0800000000000000
+      internalID: -6871195146779043627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_6
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2403
+        width: 246
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ceab6c2d9cdc90800000000000000
+      internalID: -7143662094805710839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_7
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2398
+        width: 250
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b855f7061dcea350800000000000000
+      internalID: 6029982445602166969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_8
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 2384
+        width: 249
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bda8730ec71251d0800000000000000
+      internalID: -3363599798103396943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_9
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 2379
+        width: 254
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e733318061c0010800000000000000
+      internalID: 1156323428265066037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_10
+      rect:
+        serializedVersion: 2
+        x: 8530
+        y: 2372
+        width: 244
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75891d62705ce8370800000000000000
+      internalID: 8326809395561338967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_11
+      rect:
+        serializedVersion: 2
+        x: 10467
+        y: 2366
+        width: 228
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca883d3e06bbe90800000000000000
+      internalID: -7008901863449252670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_12
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1280
+        width: 217
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a80818661daa500800000000000000
+      internalID: 408368954420005388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_13
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1276
+        width: 207
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4a506bea47c1f0800000000000000
+      internalID: -1024768015409198193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_14
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 1264
+        width: 203
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b246b70e652ea8fc0800000000000000
+      internalID: -3491729698311150549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_15
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 1283
+        width: 208
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8784472569d605430800000000000000
+      internalID: 3769633380504979576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_16
+      rect:
+        serializedVersion: 2
+        x: 8547
+        y: 1316
+        width: 216
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c307fff853d570800000000000000
+      internalID: 8490227578907640243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_17
+      rect:
+        serializedVersion: 2
+        x: 10460
+        y: 1323
+        width: 230
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511423b40935bb740800000000000000
+      internalID: 5168816876539756821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_18
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 229
+        width: 243
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94773b836ffaa40800000000000000
+      internalID: 5381790803120572878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_19
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 221
+        width: 248
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76bb1413623281a0800000000000000
+      internalID: -6808824285510257025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_20
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 216
+        width: 259
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c36e441b503e400800000000000000
+      internalID: 352131454788320323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Back_21
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 210
+        width: 254
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979380dbab3d1d970800000000000000
+      internalID: 8778029947710617977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

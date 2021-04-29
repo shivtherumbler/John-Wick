@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 5dfc5b4e9f2264d46b7991a001074874
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -699489723501180823
+    second: Crouch Rifle Idle_0
+  - first:
+      213: 6951436881050561439
+    second: Crouch Rifle Idle_1
+  - first:
+      213: -6465780656241407300
+    second: Crouch Rifle Idle_2
+  - first:
+      213: 6635748954510250157
+    second: Crouch Rifle Idle_3
+  - first:
+      213: 8438921898752612994
+    second: Crouch Rifle Idle_4
+  - first:
+      213: 1415426208499777268
+    second: Crouch Rifle Idle_5
+  - first:
+      213: 4023605843001173045
+    second: Crouch Rifle Idle_6
+  - first:
+      213: -8370362923972782048
+    second: Crouch Rifle Idle_7
+  - first:
+      213: -7084183107290506358
+    second: Crouch Rifle Idle_8
+  - first:
+      213: 55490167308080501
+    second: Crouch Rifle Idle_9
+  - first:
+      213: -5791495236235473698
+    second: Crouch Rifle Idle_10
+  - first:
+      213: 4755228018025622950
+    second: Crouch Rifle Idle_11
+  - first:
+      213: 6750298493764187689
+    second: Crouch Rifle Idle_12
+  - first:
+      213: -73850049554080356
+    second: Crouch Rifle Idle_13
+  - first:
+      213: 1321579374782416365
+    second: Crouch Rifle Idle_14
+  - first:
+      213: -7041129941336109302
+    second: Crouch Rifle Idle_15
+  - first:
+      213: 7402464137188813407
+    second: Crouch Rifle Idle_16
+  - first:
+      213: -4182930910168524229
+    second: Crouch Rifle Idle_17
+  - first:
+      213: -8522778065757082432
+    second: Crouch Rifle Idle_18
+  - first:
+      213: 1465181709618984676
+    second: Crouch Rifle Idle_19
+  - first:
+      213: 4415189502354182345
+    second: Crouch Rifle Idle_20
+  - first:
+      213: 1596123384677283258
+    second: Crouch Rifle Idle_21
+  - first:
+      213: -3783792466954511467
+    second: Crouch Rifle Idle_22
+  - first:
+      213: 8973580186812243189
+    second: Crouch Rifle Idle_23
+  - first:
+      213: 7918034056388605463
+    second: Crouch Rifle Idle_24
+  - first:
+      213: 4554272935211536277
+    second: Crouch Rifle Idle_25
+  - first:
+      213: 7204155892271990895
+    second: Crouch Rifle Idle_26
+  - first:
+      213: 8870622314729684775
+    second: Crouch Rifle Idle_27
+  - first:
+      213: 2814169736671732851
+    second: Crouch Rifle Idle_28
+  - first:
+      213: 4611348131953452257
+    second: Crouch Rifle Idle_29
+  - first:
+      213: 4144959076647275176
+    second: Crouch Rifle Idle_30
+  - first:
+      213: 6506523291699422293
+    second: Crouch Rifle Idle_31
+  - first:
+      213: -7312859033084459626
+    second: Crouch Rifle Idle_32
+  - first:
+      213: 4974898128333132660
+    second: Crouch Rifle Idle_33
+  - first:
+      213: -1124365392402349942
+    second: Crouch Rifle Idle_34
+  - first:
+      213: -861993099355640314
+    second: Crouch Rifle Idle_35
+  - first:
+      213: 8883425483955227428
+    second: Crouch Rifle Idle_36
+  - first:
+      213: 8165638176150299028
+    second: Crouch Rifle Idle_37
+  - first:
+      213: -50371604402648288
+    second: Crouch Rifle Idle_38
+  - first:
+      213: 9145291181140073933
+    second: Crouch Rifle Idle_39
+  - first:
+      213: 1501302371749526931
+    second: Crouch Rifle Idle_40
+  - first:
+      213: 4628992903989241368
+    second: Crouch Rifle Idle_41
+  - first:
+      213: 183401940745443563
+    second: Crouch Rifle Idle_42
+  - first:
+      213: -4185494436971321529
+    second: Crouch Rifle Idle_43
+  - first:
+      213: 2205760490514936347
+    second: Crouch Rifle Idle_44
+  - first:
+      213: -6755903658225987038
+    second: Crouch Rifle Idle_45
+  - first:
+      213: 3365391590781780808
+    second: Crouch Rifle Idle_46
+  - first:
+      213: -4594359895764562266
+    second: Crouch Rifle Idle_47
+  - first:
+      213: 379882232725169440
+    second: Crouch Rifle Idle_48
+  - first:
+      213: -5938572295280131739
+    second: Crouch Rifle Idle_49
+  - first:
+      213: -3106408044914975234
+    second: Crouch Rifle Idle_50
+  - first:
+      213: -1514913473004957312
+    second: Crouch Rifle Idle_51
+  - first:
+      213: -1329513554336661765
+    second: Crouch Rifle Idle_52
+  - first:
+      213: 796059777278650380
+    second: Crouch Rifle Idle_53
+  - first:
+      213: -6412091845978936254
+    second: Crouch Rifle Idle_54
+  - first:
+      213: -7833112414597270177
+    second: Crouch Rifle Idle_55
+  - first:
+      213: -3181436045711118679
+    second: Crouch Rifle Idle_56
+  - first:
+      213: -1744273250214742005
+    second: Crouch Rifle Idle_57
+  - first:
+      213: -4309957132785034566
+    second: Crouch Rifle Idle_58
+  - first:
+      213: 3102735465945684643
+    second: Crouch Rifle Idle_59
+  - first:
+      213: 5970369568969233315
+    second: Crouch Rifle Idle_60
+  - first:
+      213: -931308181466924108
+    second: Crouch Rifle Idle_61
+  - first:
+      213: -5239297890166414267
+    second: Crouch Rifle Idle_62
+  - first:
+      213: 2715891854201265391
+    second: Crouch Rifle Idle_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_0
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7756
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9680da27dc9ea46f0800000000000000
+      internalID: -699489723501180823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_1
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 7756
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b61955307787060800000000000000
+      internalID: 6951436881050561439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_2
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 7756
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba832510cee446a0800000000000000
+      internalID: -6465780656241407300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_3
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 7756
+        width: 518
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d044348ae61c50800000000000000
+      internalID: 6635748954510250157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_4
+      rect:
+        serializedVersion: 2
+        x: 8457
+        y: 7756
+        width: 518
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a1a6e61c21d1570800000000000000
+      internalID: 8438921898752612994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_5
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 7756
+        width: 518
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe386b23aa94a310800000000000000
+      internalID: 1415426208499777268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_6
+      rect:
+        serializedVersion: 2
+        x: 12297
+        y: 7756
+        width: 518
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534654c3238b6d730800000000000000
+      internalID: 4023605843001173045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_7
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 7756
+        width: 518
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028908bc44f76db80800000000000000
+      internalID: -8370362923972782048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_8
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 6676
+        width: 518
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b502e5ffcefad90800000000000000
+      internalID: -7084183107290506358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 6676
+        width: 518
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575dcee530425c000800000000000000
+      internalID: 55490167308080501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_10
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 6676
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc41dd64c970afa0800000000000000
+      internalID: -5791495236235473698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_11
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 6676
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ade66820b6fdf140800000000000000
+      internalID: 4755228018025622950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_12
+      rect:
+        serializedVersion: 2
+        x: 8457
+        y: 6676
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9263ba827b0edad50800000000000000
+      internalID: 6750298493764187689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_13
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 6676
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d1fad65c1a9fef0800000000000000
+      internalID: -73850049554080356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_14
+      rect:
+        serializedVersion: 2
+        x: 12297
+        y: 6676
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de583687071375210800000000000000
+      internalID: 1321579374782416365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_15
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 6676
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4b45bf91e84e90800000000000000
+      internalID: -7041129941336109302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 5596
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a25bfa9e5dab660800000000000000
+      internalID: 7402464137188813407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 5596
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5763df7e33f5c0800000000000000
+      internalID: -4182930910168524229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 5596
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccee0b318209b980800000000000000
+      internalID: -8522778065757082432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_19
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 5596
+        width: 520
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e63d35800f555410800000000000000
+      internalID: 1465181709618984676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_20
+      rect:
+        serializedVersion: 2
+        x: 8457
+        y: 5596
+        width: 520
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0dadfa577e54d30800000000000000
+      internalID: 4415189502354182345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_21
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 5596
+        width: 520
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5326103c1962610800000000000000
+      internalID: 1596123384677283258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_22
+      rect:
+        serializedVersion: 2
+        x: 12297
+        y: 5596
+        width: 520
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b90677cc44d7bc0800000000000000
+      internalID: -3783792466954511467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_23
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 5596
+        width: 520
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5d66c2af888c70800000000000000
+      internalID: 8973580186812243189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_24
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 4516
+        width: 520
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716fc72d50282ed60800000000000000
+      internalID: 7918034056388605463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_25
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 4516
+        width: 520
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8571ea17043f30800000000000000
+      internalID: 4554272935211536277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_26
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 4516
+        width: 520
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c8616d9d4af360800000000000000
+      internalID: 7204155892271990895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_27
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 4516
+        width: 520
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fbd162ff7ca1b70800000000000000
+      internalID: 8870622314729684775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_28
+      rect:
+        serializedVersion: 2
+        x: 8457
+        y: 4516
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37429f32770fd0720800000000000000
+      internalID: 2814169736671732851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_29
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 4516
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42fbca1bcceff30800000000000000
+      internalID: 4611348131953452257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_30
+      rect:
+        serializedVersion: 2
+        x: 12297
+        y: 4516
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa871cb15ad58930800000000000000
+      internalID: 4144959076647275176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_31
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 4516
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554ac84f570db4a50800000000000000
+      internalID: 6506523291699422293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_32
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 3436
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6958e706471838a90800000000000000
+      internalID: -7312859033084459626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_33
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 3436
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4735d055d736a0540800000000000000
+      internalID: 4974898128333132660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_34
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 3436
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a808d1cf1a37560f0800000000000000
+      internalID: -1124365392402349942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_35
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 3436
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea11ad7d59904f0800000000000000
+      internalID: -861993099355640314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_36
+      rect:
+        serializedVersion: 2
+        x: 8457
+        y: 3436
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bcdc74964484b70800000000000000
+      internalID: 8883425483955227428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_37
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 3436
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491aec568ac225170800000000000000
+      internalID: 8165638176150299028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_38
+      rect:
+        serializedVersion: 2
+        x: 12297
+        y: 3436
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b40dcea4b0d4ff0800000000000000
+      internalID: -50371604402648288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_39
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 3436
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcddd5b10e99aee70800000000000000
+      internalID: 9145291181140073933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_40
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2356
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df4988d82b5d410800000000000000
+      internalID: 1501302371749526931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_41
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2356
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816251e458c7d3040800000000000000
+      internalID: 4628992903989241368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_42
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 2356
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8df39e7139b8200800000000000000
+      internalID: 183401940745443563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_43
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 2356
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74763fa3cf22ae5c0800000000000000
+      internalID: -4185494436971321529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_44
+      rect:
+        serializedVersion: 2
+        x: 8457
+        y: 2356
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12fbb0ca7f6c9e10800000000000000
+      internalID: 2205760490514936347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_45
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 2356
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2229daaca653e32a0800000000000000
+      internalID: -6755903658225987038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_46
+      rect:
+        serializedVersion: 2
+        x: 12297
+        y: 2356
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84382aa32d544be20800000000000000
+      internalID: 3365391590781780808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_47
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 2356
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae07aa440e8d30c0800000000000000
+      internalID: -4594359895764562266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_48
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1276
+        width: 520
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e012c0ec954500800000000000000
+      internalID: 379882232725169440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_49
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 1276
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610ada16f3f59da0800000000000000
+      internalID: -5938572295280131739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_50
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 1276
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd5d637752d3e4d0800000000000000
+      internalID: -3106408044914975234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_51
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 1276
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08116100932f9fae0800000000000000
+      internalID: -1514913473004957312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_52
+      rect:
+        serializedVersion: 2
+        x: 8457
+        y: 1276
+        width: 520
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe32b5677e9c8de0800000000000000
+      internalID: -1329513554336661765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_53
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 1276
+        width: 520
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08aba4562c2c0b00800000000000000
+      internalID: 796059777278650380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_54
+      rect:
+        serializedVersion: 2
+        x: 12297
+        y: 1276
+        width: 520
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c2f35507ca307a0800000000000000
+      internalID: -6412091845978936254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_55
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 1276
+        width: 518
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553a32b2c13b4390800000000000000
+      internalID: -7833112414597270177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_56
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 196
+        width: 518
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee3cbb5c449d3d0800000000000000
+      internalID: -3181436045711118679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_57
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 196
+        width: 518
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08fbb178b81bc7e0800000000000000
+      internalID: -1744273250214742005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_58
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 196
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abadf27a2d4ff24c0800000000000000
+      internalID: -4309957132785034566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_59
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 196
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad2bf97712f0b20800000000000000
+      internalID: 3102735465945684643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_60
+      rect:
+        serializedVersion: 2
+        x: 8457
+        y: 196
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a396389d730bd250800000000000000
+      internalID: 5970369568969233315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_61
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 196
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbbf3ba4245313f0800000000000000
+      internalID: -931308181466924108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_62
+      rect:
+        serializedVersion: 2
+        x: 12297
+        y: 196
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5446d20f3564a47b0800000000000000
+      internalID: -5239297890166414267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Rifle Idle_63
+      rect:
+        serializedVersion: 2
+        x: 14217
+        y: 196
+        width: 518
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec1b028049c0b520800000000000000
+      internalID: 2715891854201265391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

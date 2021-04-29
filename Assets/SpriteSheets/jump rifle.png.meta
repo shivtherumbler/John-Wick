@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: c9dbe91ba428834448e2bc779015204f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7380805990010846618
+    second: jump rifle_0
+  - first:
+      213: -7347633795419145600
+    second: jump rifle_1
+  - first:
+      213: 4522749780139940295
+    second: jump rifle_2
+  - first:
+      213: 6103694559892051620
+    second: jump rifle_3
+  - first:
+      213: -1419063260285287419
+    second: jump rifle_4
+  - first:
+      213: -1690958863583078006
+    second: jump rifle_5
+  - first:
+      213: -118056406499169536
+    second: jump rifle_6
+  - first:
+      213: 3351169905640336637
+    second: jump rifle_7
+  - first:
+      213: -2821586975331112844
+    second: jump rifle_8
+  - first:
+      213: -344498739349004333
+    second: jump rifle_9
+  - first:
+      213: 9156405220498946192
+    second: jump rifle_10
+  - first:
+      213: -5768619858719996979
+    second: jump rifle_11
+  - first:
+      213: 9150933682969782529
+    second: jump rifle_12
+  - first:
+      213: 1158375764457593790
+    second: jump rifle_13
+  - first:
+      213: 7120540971077664627
+    second: jump rifle_14
+  - first:
+      213: 3072552366639119982
+    second: jump rifle_15
+  - first:
+      213: -5521627564778306498
+    second: jump rifle_16
+  - first:
+      213: 411192494847244439
+    second: jump rifle_17
+  - first:
+      213: 137996824472736736
+    second: jump rifle_18
+  - first:
+      213: -5268808860995013472
+    second: jump rifle_19
+  - first:
+      213: 2380325215625244798
+    second: jump rifle_20
+  - first:
+      213: -752169960846477347
+    second: jump rifle_21
+  - first:
+      213: 1839239355080155433
+    second: jump rifle_22
+  - first:
+      213: 3143881580026958427
+    second: jump rifle_23
+  - first:
+      213: 1606016669899406290
+    second: jump rifle_24
+  - first:
+      213: 6981481902031707965
+    second: jump rifle_25
+  - first:
+      213: -5165189375213703603
+    second: jump rifle_26
+  - first:
+      213: 6377726015348862685
+    second: jump rifle_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump rifle_0
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4529
+        width: 531
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6620459ae0c129990800000000000000
+      internalID: -7380805990010846618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_1
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 4527
+        width: 532
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af2641ef5f70a90800000000000000
+      internalID: -7347633795419145600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_2
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 4520
+        width: 538
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9973566f804ce30800000000000000
+      internalID: 4522749780139940295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_3
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 4515
+        width: 530
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a699db0ddda4b450800000000000000
+      internalID: 6103694559892051620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_4
+      rect:
+        serializedVersion: 2
+        x: 8482
+        y: 4544
+        width: 512
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50443e8bb797e4ce0800000000000000
+      internalID: -1419063260285287419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_5
+      rect:
+        serializedVersion: 2
+        x: 10410
+        y: 4585
+        width: 495
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8915566fd18888e0800000000000000
+      internalID: -1690958863583078006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3537
+        width: 499
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b6823e2549c5ef0800000000000000
+      internalID: -118056406499169536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_7
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 3570
+        width: 500
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcebaf164fb18e20800000000000000
+      internalID: 3351169905640336637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_8
+      rect:
+        serializedVersion: 2
+        x: 4646
+        y: 3609
+        width: 492
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47825886895b7d8d0800000000000000
+      internalID: -2821586975331112844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_9
+      rect:
+        serializedVersion: 2
+        x: 6581
+        y: 3647
+        width: 480
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df5887c838183bf0800000000000000
+      internalID: -344498739349004333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_10
+      rect:
+        serializedVersion: 2
+        x: 8524
+        y: 3665
+        width: 463
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0983f5b0906121f70800000000000000
+      internalID: 9156405220498946192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_11
+      rect:
+        serializedVersion: 2
+        x: 10468
+        y: 3636
+        width: 442
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc30bbc4dceb1ffa0800000000000000
+      internalID: -5768619858719996979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_12
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2525
+        width: 436
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109229073b5aefe70800000000000000
+      internalID: 9150933682969782529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_13
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 2494
+        width: 439
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9ae4de90631010800000000000000
+      internalID: 1158375764457593790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_14
+      rect:
+        serializedVersion: 2
+        x: 4727
+        y: 2463
+        width: 442
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff2b5794e31d260800000000000000
+      internalID: 7120540971077664627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_15
+      rect:
+        serializedVersion: 2
+        x: 6649
+        y: 2425
+        width: 448
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e7f4f2916e3aa20800000000000000
+      internalID: 3072552366639119982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_16
+      rect:
+        serializedVersion: 2
+        x: 8580
+        y: 2391
+        width: 450
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3442631cfc3f53b0800000000000000
+      internalID: -5521627564778306498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_17
+      rect:
+        serializedVersion: 2
+        x: 10514
+        y: 2377
+        width: 453
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7983dad3569d4b500800000000000000
+      internalID: 411192494847244439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_18
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1297
+        width: 458
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e354d671634ae100800000000000000
+      internalID: 137996824472736736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_19
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1297
+        width: 513
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a436fa914e61e6b0800000000000000
+      internalID: -5268808860995013472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_20
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 1296
+        width: 562
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e707f3f0c2d980120800000000000000
+      internalID: 2380325215625244798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_21
+      rect:
+        serializedVersion: 2
+        x: 6583
+        y: 1289
+        width: 609
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b601e761cf85f0800000000000000
+      internalID: -752169960846477347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_22
+      rect:
+        serializedVersion: 2
+        x: 8489
+        y: 1278
+        width: 634
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921a870e27a468910800000000000000
+      internalID: 1839239355080155433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_23
+      rect:
+        serializedVersion: 2
+        x: 10417
+        y: 1289
+        width: 621
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529669d3af41ab20800000000000000
+      internalID: 3143881580026958427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_24
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 209
+        width: 586
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb5b8f6a7b94610800000000000000
+      internalID: 1606016669899406290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_25
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 209
+        width: 557
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f1b68ecc433e060800000000000000
+      internalID: 6981481902031707965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_26
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 209
+        width: 544
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee3cc21af8158b0800000000000000
+      internalID: -5165189375213703603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump rifle_27
+      rect:
+        serializedVersion: 2
+        x: 6612
+        y: 209
+        width: 531
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee2a3350c328850800000000000000
+      internalID: 6377726015348862685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

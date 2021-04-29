@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 24197a311318db245b1839413feaa89d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4896937930651894405
+    second: idle rifle_0
+  - first:
+      213: 2804962294175904727
+    second: idle rifle_1
+  - first:
+      213: 7828073486192220714
+    second: idle rifle_2
+  - first:
+      213: -2808998884741942558
+    second: idle rifle_3
+  - first:
+      213: 8569706804986743496
+    second: idle rifle_4
+  - first:
+      213: -1833636138404690650
+    second: idle rifle_5
+  - first:
+      213: 4222932172404246656
+    second: idle rifle_6
+  - first:
+      213: 2564883202005038433
+    second: idle rifle_7
+  - first:
+      213: 5342331107937497948
+    second: idle rifle_8
+  - first:
+      213: 3205064224834478790
+    second: idle rifle_9
+  - first:
+      213: 2039041126871492634
+    second: idle rifle_10
+  - first:
+      213: 791810275194164989
+    second: idle rifle_11
+  - first:
+      213: 8036119826361676068
+    second: idle rifle_12
+  - first:
+      213: 6948753373768516825
+    second: idle rifle_13
+  - first:
+      213: -8645372981083497243
+    second: idle rifle_14
+  - first:
+      213: -8611271616065004016
+    second: idle rifle_15
+  - first:
+      213: -7252925632812253462
+    second: idle rifle_16
+  - first:
+      213: 698959897299089462
+    second: idle rifle_17
+  - first:
+      213: 3976964084991507830
+    second: idle rifle_18
+  - first:
+      213: -613172187467582549
+    second: idle rifle_19
+  - first:
+      213: 5094399871500895310
+    second: idle rifle_20
+  - first:
+      213: 842942451745152445
+    second: idle rifle_21
+  - first:
+      213: 7755183133794684135
+    second: idle rifle_22
+  - first:
+      213: 8974900213224870091
+    second: idle rifle_23
+  - first:
+      213: 9214902241046494676
+    second: idle rifle_24
+  - first:
+      213: 1779765340806739847
+    second: idle rifle_25
+  - first:
+      213: -4580783672010023106
+    second: idle rifle_26
+  - first:
+      213: 7542320440480805169
+    second: idle rifle_27
+  - first:
+      213: -7577152855699922639
+    second: idle rifle_28
+  - first:
+      213: -5458068984635143099
+    second: idle rifle_29
+  - first:
+      213: 1431830997089360620
+    second: idle rifle_30
+  - first:
+      213: 2675958663609036532
+    second: idle rifle_31
+  - first:
+      213: 3013990476064406346
+    second: idle rifle_32
+  - first:
+      213: 3093926650644422550
+    second: idle rifle_33
+  - first:
+      213: -2699400676259430344
+    second: idle rifle_34
+  - first:
+      213: 8347926318495113672
+    second: idle rifle_35
+  - first:
+      213: 3822019345687529779
+    second: idle rifle_36
+  - first:
+      213: 5366080436691014035
+    second: idle rifle_37
+  - first:
+      213: -979850623220408696
+    second: idle rifle_38
+  - first:
+      213: 5409645408081310598
+    second: idle rifle_39
+  - first:
+      213: 3624400535007447667
+    second: idle rifle_40
+  - first:
+      213: 7959823466888325224
+    second: idle rifle_41
+  - first:
+      213: -6803753638864653252
+    second: idle rifle_42
+  - first:
+      213: -9109196825734689715
+    second: idle rifle_43
+  - first:
+      213: 1246836884664383461
+    second: idle rifle_44
+  - first:
+      213: -5198393944416585755
+    second: idle rifle_45
+  - first:
+      213: -5945552002795771245
+    second: idle rifle_46
+  - first:
+      213: -173959740229673746
+    second: idle rifle_47
+  - first:
+      213: -7217821198146146990
+    second: idle rifle_48
+  - first:
+      213: 1746242738504499667
+    second: idle rifle_49
+  - first:
+      213: 3273227946558758664
+    second: idle rifle_50
+  - first:
+      213: -4549909780655453619
+    second: idle rifle_51
+  - first:
+      213: -1010141800911018368
+    second: idle rifle_52
+  - first:
+      213: 3586373224719232322
+    second: idle rifle_53
+  - first:
+      213: 5489119771703502319
+    second: idle rifle_54
+  - first:
+      213: 3516310345704367186
+    second: idle rifle_55
+  - first:
+      213: -1515038903961653032
+    second: idle rifle_56
+  - first:
+      213: -3139573610624949730
+    second: idle rifle_57
+  - first:
+      213: 1197951843099846485
+    second: idle rifle_58
+  - first:
+      213: -4901327031453533026
+    second: idle rifle_59
+  - first:
+      213: 7094379309764269047
+    second: idle rifle_60
+  - first:
+      213: -4542836708120940908
+    second: idle rifle_61
+  - first:
+      213: 1992505063661945290
+    second: idle rifle_62
+  - first:
+      213: 8671041642558121939
+    second: idle rifle_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle rifle_0
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 7765
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58284a35a1b65f340800000000000000
+      internalID: 4896937930651894405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_1
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 7765
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d338b0685a3de620800000000000000
+      internalID: 2804962294175904727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_2
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 7765
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a142c5c57e2ac60800000000000000
+      internalID: 7828073486192220714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_3
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 7765
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2fc74a56e6409d0800000000000000
+      internalID: -2808998884741942558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_4
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 7765
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca8b745fe6bde670800000000000000
+      internalID: 8569706804986743496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_5
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 7765
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c11ba5ad9d86e0800000000000000
+      internalID: -1833636138404690650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_6
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 7765
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08849becf6eda9a30800000000000000
+      internalID: 4222932172404246656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_7
+      rect:
+        serializedVersion: 2
+        x: 14296
+        y: 7765
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16570e1deab489320800000000000000
+      internalID: 2564883202005038433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 6685
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53322976d5c32a40800000000000000
+      internalID: 5342331107937497948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_9
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 6685
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2629b6eecaa7c20800000000000000
+      internalID: 3205064224834478790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_10
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 6685
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1866910a112c4c10800000000000000
+      internalID: 2039041126871492634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_11
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 6685
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d37600431dfa00800000000000000
+      internalID: 791810275194164989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_12
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 6685
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421f2c6a768068f60800000000000000
+      internalID: 8036119826361676068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_13
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 6685
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4054b906eee6060800000000000000
+      internalID: 6948753373768516825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_14
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 6685
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec12cf2417750880800000000000000
+      internalID: -8645372981083497243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_15
+      rect:
+        serializedVersion: 2
+        x: 14296
+        y: 6685
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e9a04f61e9e7880800000000000000
+      internalID: -8611271616065004016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_16
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 5605
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee76e9809e685b90800000000000000
+      internalID: -7252925632812253462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_17
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 5605
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63871c6c25433b900800000000000000
+      internalID: 698959897299089462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_18
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 5605
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67db762b3c3013730800000000000000
+      internalID: 3976964084991507830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_19
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 5605
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba378dbe4239d77f0800000000000000
+      internalID: -613172187467582549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_20
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 5605
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444b9c11b1f2b640800000000000000
+      internalID: 5094399871500895310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_21
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 5605
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbddd5a91bbb2bb00800000000000000
+      internalID: 842942451745152445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_22
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 5605
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eccee1b8f1ff9b60800000000000000
+      internalID: 7755183133794684135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_23
+      rect:
+        serializedVersion: 2
+        x: 14296
+        y: 5605
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc098df51304d8c70800000000000000
+      internalID: 8974900213224870091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_24
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 4525
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf68df3c8e1ef70800000000000000
+      internalID: 9214902241046494676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_25
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 4525
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787765ad52ff2b810800000000000000
+      internalID: 1779765340806739847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_26
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 4525
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fdee43589cd60c0800000000000000
+      internalID: -4580783672010023106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_27
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 4525
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b60dca74bba860800000000000000
+      internalID: 7542320440480805169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_28
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 4525
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1316b2b8f9b88d690800000000000000
+      internalID: -7577152855699922639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_29
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 4525
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cce333d2b0144b0800000000000000
+      internalID: -5458068984635143099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_30
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 4525
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea97e7a4b2eed310800000000000000
+      internalID: 1431830997089360620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_31
+      rect:
+        serializedVersion: 2
+        x: 14296
+        y: 4525
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feab0a0a3ae22520800000000000000
+      internalID: 2675958663609036532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_32
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3445
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bba328e58d3d920800000000000000
+      internalID: 3013990476064406346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_33
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 3445
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f56cc75e5dfea20800000000000000
+      internalID: 3093926650644422550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_34
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 3445
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8308b11136dc98ad0800000000000000
+      internalID: -2699400676259430344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_35
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 3445
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c12909e1cac9d370800000000000000
+      internalID: 8347926318495113672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_36
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 3445
+        width: 412
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394060585a8a0530800000000000000
+      internalID: 3822019345687529779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_37
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 3445
+        width: 412
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3911429f9b5287a40800000000000000
+      internalID: 5366080436691014035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_38
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 3445
+        width: 412
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9006bc0fd662f0800000000000000
+      internalID: -979850623220408696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_39
+      rect:
+        serializedVersion: 2
+        x: 14296
+        y: 3445
+        width: 412
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683728d46dbe21b40800000000000000
+      internalID: 5409645408081310598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_40
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2365
+        width: 412
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37acadc65157c4230800000000000000
+      internalID: 3624400535007447667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_41
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 2365
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86862ba2549f67e60800000000000000
+      internalID: 7959823466888325224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_42
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 2365
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3473300d163491a0800000000000000
+      internalID: -6803753638864653252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_43
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 2365
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cc7f4efb1a59180800000000000000
+      internalID: -9109196825734689715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_44
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 2365
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e776436a87ad4110800000000000000
+      internalID: 1246836884664383461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_45
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 2365
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7f184ff389bd7b0800000000000000
+      internalID: -5198393944416585755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_46
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 2365
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aeebf44f72d7da0800000000000000
+      internalID: -5945552002795771245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_47
+      rect:
+        serializedVersion: 2
+        x: 14296
+        y: 2365
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec1466b988f59df0800000000000000
+      internalID: -173959740229673746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_48
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1285
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25de638acd525db90800000000000000
+      internalID: -7217821198146146990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_49
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1285
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d18a28c486eb3810800000000000000
+      internalID: 1746242738504499667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_50
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 1285
+        width: 412
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f148f9977dc6d20800000000000000
+      internalID: 3273227946558758664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_51
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 1285
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ac4f339297bd0c0800000000000000
+      internalID: -4549909780655453619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_52
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 1285
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ecef42614bf1f0800000000000000
+      internalID: -1010141800911018368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_53
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 1285
+        width: 412
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dac5b427b55c130800000000000000
+      internalID: 3586373224719232322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_54
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 1285
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e5f989554d2c40800000000000000
+      internalID: 5489119771703502319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_55
+      rect:
+        serializedVersion: 2
+        x: 14296
+        y: 1285
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2546db311a17cc030800000000000000
+      internalID: 3516310345704367186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_56
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 205
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0f774d42089fae0800000000000000
+      internalID: -1515038903961653032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_57
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 205
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1262807f6efd64d0800000000000000
+      internalID: -3139573610624949730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_58
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 205
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557adf1badaff9010800000000000000
+      internalID: 1197951843099846485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_59
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 205
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c3132880dfafbb0800000000000000
+      internalID: -4901327031453533026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_60
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 205
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f35164056c447260800000000000000
+      internalID: 7094379309764269047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_61
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 205
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea8db351a94f0c0800000000000000
+      internalID: -4542836708120940908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_62
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 205
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ccb47cccc6ab10800000000000000
+      internalID: 1992505063661945290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rifle_63
+      rect:
+        serializedVersion: 2
+        x: 14296
+        y: 205
+        width: 411
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7eb49ce6ab55870800000000000000
+      internalID: 8671041642558121939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 198ba151729bf6c478b4c7971c240ccb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4395631511190783078
+    second: crouch rifle walk_0
+  - first:
+      213: 8718246342895361235
+    second: crouch rifle walk_1
+  - first:
+      213: 2851495759059568783
+    second: crouch rifle walk_2
+  - first:
+      213: -5765206417584706630
+    second: crouch rifle walk_3
+  - first:
+      213: 7777003782742260477
+    second: crouch rifle walk_4
+  - first:
+      213: 538991845652913642
+    second: crouch rifle walk_5
+  - first:
+      213: 5778268066127526685
+    second: crouch rifle walk_6
+  - first:
+      213: -2468673007175895262
+    second: crouch rifle walk_7
+  - first:
+      213: -6472593550077284417
+    second: crouch rifle walk_8
+  - first:
+      213: 8485048373897290209
+    second: crouch rifle walk_9
+  - first:
+      213: 1480214391381951332
+    second: crouch rifle walk_10
+  - first:
+      213: 4399120585105848091
+    second: crouch rifle walk_11
+  - first:
+      213: -6885333483385122893
+    second: crouch rifle walk_12
+  - first:
+      213: 2074756318491898365
+    second: crouch rifle walk_13
+  - first:
+      213: -1895190515413901247
+    second: crouch rifle walk_14
+  - first:
+      213: 2228354304257974751
+    second: crouch rifle walk_15
+  - first:
+      213: -3033735988717428994
+    second: crouch rifle walk_16
+  - first:
+      213: 4831710707990544473
+    second: crouch rifle walk_17
+  - first:
+      213: -4239465632156272979
+    second: crouch rifle walk_18
+  - first:
+      213: 2899747674169922656
+    second: crouch rifle walk_19
+  - first:
+      213: -8999875248381153044
+    second: crouch rifle walk_20
+  - first:
+      213: -7485144088358960607
+    second: crouch rifle walk_21
+  - first:
+      213: -3472607142439700335
+    second: crouch rifle walk_22
+  - first:
+      213: -7477951670075280221
+    second: crouch rifle walk_23
+  - first:
+      213: 7126124857356123950
+    second: crouch rifle walk_24
+  - first:
+      213: 4107303135310150436
+    second: crouch rifle walk_25
+  - first:
+      213: -5900532176654738208
+    second: crouch rifle walk_26
+  - first:
+      213: -4188602926612538630
+    second: crouch rifle walk_27
+  - first:
+      213: -1959550021994892194
+    second: crouch rifle walk_28
+  - first:
+      213: 2939959961256685615
+    second: crouch rifle walk_29
+  - first:
+      213: 6069155445367938023
+    second: crouch rifle walk_30
+  - first:
+      213: -2627956806640110013
+    second: crouch rifle walk_31
+  - first:
+      213: -6018427897688694614
+    second: crouch rifle walk_32
+  - first:
+      213: -5744158852789888203
+    second: crouch rifle walk_33
+  - first:
+      213: 6397459222554745083
+    second: crouch rifle walk_34
+  - first:
+      213: -2468547241862517709
+    second: crouch rifle walk_35
+  - first:
+      213: 4086261993938761226
+    second: crouch rifle walk_36
+  - first:
+      213: 4563328214490479683
+    second: crouch rifle walk_37
+  - first:
+      213: -6762970320855397641
+    second: crouch rifle walk_38
+  - first:
+      213: 3192714295407249377
+    second: crouch rifle walk_39
+  - first:
+      213: 2455963812414114896
+    second: crouch rifle walk_40
+  - first:
+      213: 7949202432195753874
+    second: crouch rifle walk_41
+  - first:
+      213: 6690958355879788610
+    second: crouch rifle walk_42
+  - first:
+      213: 1901052410258157218
+    second: crouch rifle walk_43
+  - first:
+      213: 7136154504746545686
+    second: crouch rifle walk_44
+  - first:
+      213: 4603588683212934405
+    second: crouch rifle walk_45
+  - first:
+      213: -2861022630455532898
+    second: crouch rifle walk_46
+  - first:
+      213: 8152424418289315068
+    second: crouch rifle walk_47
+  - first:
+      213: -1933208453235838683
+    second: crouch rifle walk_48
+  - first:
+      213: -5439045640906902478
+    second: crouch rifle walk_49
+  - first:
+      213: 8861315148199022701
+    second: crouch rifle walk_50
+  - first:
+      213: 7198260846803011412
+    second: crouch rifle walk_51
+  - first:
+      213: -4801742504680264051
+    second: crouch rifle walk_52
+  - first:
+      213: 2068511925897050144
+    second: crouch rifle walk_53
+  - first:
+      213: 6659184713339047983
+    second: crouch rifle walk_54
+  - first:
+      213: -8663394736167383676
+    second: crouch rifle walk_55
+  - first:
+      213: 868668960522907683
+    second: crouch rifle walk_56
+  - first:
+      213: 3936425592319483835
+    second: crouch rifle walk_57
+  - first:
+      213: -6575140707821831793
+    second: crouch rifle walk_58
+  - first:
+      213: 1275999368079602302
+    second: crouch rifle walk_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crouch rifle walk_0
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 8856
+        width: 329
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb5fbfd649ff2c0800000000000000
+      internalID: -4395631511190783078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_1
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 8856
+        width: 328
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc50ac8bde6df870800000000000000
+      internalID: 8718246342895361235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_2
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 8856
+        width: 328
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f884745f84c829720800000000000000
+      internalID: 2851495759059568783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_3
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 8856
+        width: 328
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbaf0ffe4fddffa0800000000000000
+      internalID: -5765206417584706630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_4
+      rect:
+        serializedVersion: 2
+        x: 8573
+        y: 8856
+        width: 328
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab83f6cb77deb60800000000000000
+      internalID: 7777003782742260477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_5
+      rect:
+        serializedVersion: 2
+        x: 10491
+        y: 8856
+        width: 330
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed59f85a32ea7700800000000000000
+      internalID: 538991845652913642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_6
+      rect:
+        serializedVersion: 2
+        x: 12411
+        y: 8856
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bb38a0138803050800000000000000
+      internalID: 5778268066127526685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 7777
+        width: 328
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2277fa4caf28dbdd0800000000000000
+      internalID: -2468673007175895262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_8
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 7777
+        width: 328
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa820a57abc26a0800000000000000
+      internalID: -6472593550077284417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_9
+      rect:
+        serializedVersion: 2
+        x: 4729
+        y: 7777
+        width: 328
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e167245a82f0c570800000000000000
+      internalID: 8485048373897290209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_10
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 7777
+        width: 336
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4630ebd7527ca8410800000000000000
+      internalID: 1480214391381951332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_11
+      rect:
+        serializedVersion: 2
+        x: 8555
+        y: 7777
+        width: 343
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b7575dd0dc0d30800000000000000
+      internalID: 4399120585105848091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_12
+      rect:
+        serializedVersion: 2
+        x: 10468
+        y: 7777
+        width: 349
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf0aba4da16270a0800000000000000
+      internalID: -6885333483385122893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_13
+      rect:
+        serializedVersion: 2
+        x: 12382
+        y: 7777
+        width: 357
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f43f01e30bcc10800000000000000
+      internalID: 2074756318491898365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 6696
+        width: 363
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a013744ee2b5e0800000000000000
+      internalID: -1895190515413901247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_15
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 6696
+        width: 370
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16203fe64bcee10800000000000000
+      internalID: 2228354304257974751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_16
+      rect:
+        serializedVersion: 2
+        x: 4682
+        y: 6694
+        width: 378
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efedd22113106e5d0800000000000000
+      internalID: -3033735988717428994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_17
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 6694
+        width: 387
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9504a371a4fad0340800000000000000
+      internalID: 4831710707990544473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_18
+      rect:
+        serializedVersion: 2
+        x: 8509
+        y: 6692
+        width: 394
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da639dd18746a25c0800000000000000
+      internalID: -4239465632156272979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_19
+      rect:
+        serializedVersion: 2
+        x: 10422
+        y: 6691
+        width: 402
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064d9296529fd3820800000000000000
+      internalID: 2899747674169922656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_20
+      rect:
+        serializedVersion: 2
+        x: 12338
+        y: 6690
+        width: 407
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0396d15250a1380800000000000000
+      internalID: -8999875248381153044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_21
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5608
+        width: 410
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122cfb01c1d6f1890800000000000000
+      internalID: -7485144088358960607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_22
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 5605
+        width: 413
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b56ed332decfc0800000000000000
+      internalID: -3472607142439700335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_23
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 5603
+        width: 415
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4bf91739af83890800000000000000
+      internalID: -7477951670075280221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_24
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 5600
+        width: 417
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ffacb4dc415e260800000000000000
+      internalID: 7126124857356123950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_25
+      rect:
+        serializedVersion: 2
+        x: 8498
+        y: 5598
+        width: 416
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b720da072100930800000000000000
+      internalID: 4107303135310150436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_26
+      rect:
+        serializedVersion: 2
+        x: 10422
+        y: 5597
+        width: 415
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5bb86f391d1ea0800000000000000
+      internalID: -5900532176654738208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_27
+      rect:
+        serializedVersion: 2
+        x: 12347
+        y: 5595
+        width: 411
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa191694d71fd5c0800000000000000
+      internalID: -4188602926612538630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_28
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 4514
+        width: 406
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54b26b13a74ec4e0800000000000000
+      internalID: -1959550021994892194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_29
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 4514
+        width: 401
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2073981206dcc820800000000000000
+      internalID: 2939959961256685615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_30
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 4516
+        width: 394
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb98c7c8b8f93450800000000000000
+      internalID: 6069155445367938023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_31
+      rect:
+        serializedVersion: 2
+        x: 6621
+        y: 4514
+        width: 382
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3467527353f978bd0800000000000000
+      internalID: -2627956806640110013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_32
+      rect:
+        serializedVersion: 2
+        x: 8559
+        y: 4516
+        width: 362
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0e6fbc6bf3a7ca0800000000000000
+      internalID: -6018427897688694614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_33
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 4519
+        width: 344
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b1b0e05f5a840b0800000000000000
+      internalID: -5744158852789888203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_34
+      rect:
+        serializedVersion: 2
+        x: 12415
+        y: 4524
+        width: 345
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81c69844758c850800000000000000
+      internalID: 6397459222554745083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_35
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 3448
+        width: 344
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca389cc55fdbdd0800000000000000
+      internalID: -2468547241862517709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_36
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 3454
+        width: 342
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0636ef22a155b830800000000000000
+      internalID: 4086261993938761226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_37
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 3459
+        width: 345
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf83265d2345f30800000000000000
+      internalID: 4563328214490479683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_38
+      rect:
+        serializedVersion: 2
+        x: 6645
+        y: 3462
+        width: 350
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa87ee235a1522a0800000000000000
+      internalID: -6762970320855397641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_39
+      rect:
+        serializedVersion: 2
+        x: 8558
+        y: 3462
+        width: 356
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78f076cbcce4c20800000000000000
+      internalID: 3192714295407249377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_40
+      rect:
+        serializedVersion: 2
+        x: 10471
+        y: 3462
+        width: 361
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c482c3316551220800000000000000
+      internalID: 2455963812414114896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_41
+      rect:
+        serializedVersion: 2
+        x: 12384
+        y: 3462
+        width: 368
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f2b2de7d315e60800000000000000
+      internalID: 7949202432195753874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_42
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2382
+        width: 374
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408529ac2f0bdc50800000000000000
+      internalID: 6690958355879788610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_43
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2381
+        width: 381
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae66dc4815e16a10800000000000000
+      internalID: 1901052410258157218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_44
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 2381
+        width: 387
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b8bd86b6b80360800000000000000
+      internalID: 7136154504746545686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_45
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 2381
+        width: 395
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d4aea348b33ef30800000000000000
+      internalID: 4603588683212934405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_46
+      rect:
+        serializedVersion: 2
+        x: 8509
+        y: 2381
+        width: 404
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e922851731b9b48d0800000000000000
+      internalID: -2861022630455532898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_47
+      rect:
+        serializedVersion: 2
+        x: 10424
+        y: 2378
+        width: 410
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcea56a0da332170800000000000000
+      internalID: 8152424418289315068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_48
+      rect:
+        serializedVersion: 2
+        x: 12339
+        y: 2376
+        width: 416
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5217814872ddb25e0800000000000000
+      internalID: -1933208453235838683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_49
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1294
+        width: 420
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347b909ec0a484b0800000000000000
+      internalID: -5439045640906902478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_50
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1289
+        width: 421
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d0339d27b9fa70800000000000000
+      internalID: 8861315148199022701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_51
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 1284
+        width: 417
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457cb462a1c55e360800000000000000
+      internalID: 7198260846803011412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_52
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 1284
+        width: 408
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e63a9f1a8cc5db0800000000000000
+      internalID: -4801742504680264051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_53
+      rect:
+        serializedVersion: 2
+        x: 8516
+        y: 1289
+        width: 400
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b0cc13a4d4bc10800000000000000
+      internalID: 2068511925897050144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_54
+      rect:
+        serializedVersion: 2
+        x: 10444
+        y: 1294
+        width: 391
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f201944073d2a6c50800000000000000
+      internalID: 6659184713339047983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_55
+      rect:
+        serializedVersion: 2
+        x: 12374
+        y: 1297
+        width: 379
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d01c9536075c780800000000000000
+      internalID: -8663394736167383676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_56
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 217
+        width: 362
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320306331d12e0c00800000000000000
+      internalID: 868668960522907683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_57
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 217
+        width: 346
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf95fa583ef0a630800000000000000
+      internalID: 3936425592319483835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_58
+      rect:
+        serializedVersion: 2
+        x: 4741
+        y: 217
+        width: 329
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89b112ec5860c4a0800000000000000
+      internalID: -6575140707821831793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch rifle walk_59
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 217
+        width: 329
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72f10c2aa245b110800000000000000
+      internalID: 1275999368079602302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: f925863c67093a84db4e921d335c60f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4922051164041016582
+    second: briefcase walk_0
+  - first:
+      213: 1925354924689546993
+    second: briefcase walk_1
+  - first:
+      213: -5920194923172303784
+    second: briefcase walk_2
+  - first:
+      213: 3686801554005682238
+    second: briefcase walk_3
+  - first:
+      213: -5013713204002868412
+    second: briefcase walk_4
+  - first:
+      213: 2352188366264058060
+    second: briefcase walk_5
+  - first:
+      213: 4295908513663777984
+    second: briefcase walk_6
+  - first:
+      213: -974363469032426598
+    second: briefcase walk_7
+  - first:
+      213: -3755106806539734238
+    second: briefcase walk_8
+  - first:
+      213: 8276651469158959424
+    second: briefcase walk_9
+  - first:
+      213: 4763051698202304469
+    second: briefcase walk_10
+  - first:
+      213: -5979782273513345325
+    second: briefcase walk_11
+  - first:
+      213: -5546602350176116095
+    second: briefcase walk_12
+  - first:
+      213: 3109656038061078970
+    second: briefcase walk_13
+  - first:
+      213: -3289358546048205636
+    second: briefcase walk_14
+  - first:
+      213: -4695131023228209729
+    second: briefcase walk_15
+  - first:
+      213: 8941784879664436237
+    second: briefcase walk_16
+  - first:
+      213: 7378351843184319611
+    second: briefcase walk_17
+  - first:
+      213: 4916400871653213291
+    second: briefcase walk_18
+  - first:
+      213: -8304758668948535330
+    second: briefcase walk_19
+  - first:
+      213: 7415272946487227706
+    second: briefcase walk_20
+  - first:
+      213: -2277533447189819256
+    second: briefcase walk_21
+  - first:
+      213: 647705967100466874
+    second: briefcase walk_22
+  - first:
+      213: -518487407820191114
+    second: briefcase walk_23
+  - first:
+      213: 7623396437993196627
+    second: briefcase walk_24
+  - first:
+      213: 296450397631113381
+    second: briefcase walk_25
+  - first:
+      213: 5954389145205519630
+    second: briefcase walk_26
+  - first:
+      213: 4542528327420744136
+    second: briefcase walk_27
+  - first:
+      213: -7024573963589550021
+    second: briefcase walk_28
+  - first:
+      213: 7701094536525657186
+    second: briefcase walk_29
+  - first:
+      213: -3015507619510226094
+    second: briefcase walk_30
+  - first:
+      213: 4430906916560687588
+    second: briefcase walk_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: briefcase walk_0
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 4530
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa89016b8c51bbb0800000000000000
+      internalID: -4922051164041016582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_1
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 4530
+        width: 228
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe5ba06a1c38ba10800000000000000
+      internalID: 1925354924689546993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_2
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 4530
+        width: 231
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6e3b751e37dda0800000000000000
+      internalID: -5920194923172303784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_3
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 4530
+        width: 258
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38edd7da762a2330800000000000000
+      internalID: 3686801554005682238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_4
+      rect:
+        serializedVersion: 2
+        x: 8522
+        y: 4530
+        width: 304
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44339bd9766bb6ab0800000000000000
+      internalID: -5013713204002868412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_5
+      rect:
+        serializedVersion: 2
+        x: 10424
+        y: 4530
+        width: 344
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0c9ff4bd6a4a020800000000000000
+      internalID: 2352188366264058060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_6
+      rect:
+        serializedVersion: 2
+        x: 12327
+        y: 4530
+        width: 369
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc718058022e9b30800000000000000
+      internalID: 4295908513663777984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_7
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3448
+        width: 387
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93743a569d5a72f0800000000000000
+      internalID: -974363469032426598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_8
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 3445
+        width: 395
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2233c8e314e23ebc0800000000000000
+      internalID: -3755106806539734238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_9
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 3438
+        width: 393
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0494fecd8a29cd270800000000000000
+      internalID: 8276651469158959424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_10
+      rect:
+        serializedVersion: 2
+        x: 6519
+        y: 3431
+        width: 377
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df5b26a842c91240800000000000000
+      internalID: 4763051698202304469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_11
+      rect:
+        serializedVersion: 2
+        x: 8455
+        y: 3434
+        width: 354
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2f0954bb830da0800000000000000
+      internalID: -5979782273513345325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_12
+      rect:
+        serializedVersion: 2
+        x: 10394
+        y: 3443
+        width: 325
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e767bc828603b0800000000000000
+      internalID: -5546602350176116095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_13
+      rect:
+        serializedVersion: 2
+        x: 12337
+        y: 3445
+        width: 292
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab97742e0b7b72b20800000000000000
+      internalID: 3109656038061078970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2364
+        width: 256
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb6e384d9d952d0800000000000000
+      internalID: -3289358546048205636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_15
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2362
+        width: 246
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5f092d53b87deb0800000000000000
+      internalID: -4695131023228209729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_16
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 2362
+        width: 241
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d049b52f8f9971c70800000000000000
+      internalID: 8941784879664436237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_17
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 2369
+        width: 240
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c99d0c8eb256660800000000000000
+      internalID: 7378351843184319611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_18
+      rect:
+        serializedVersion: 2
+        x: 8503
+        y: 2377
+        width: 272
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648f486b809a3440800000000000000
+      internalID: 4916400871653213291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_19
+      rect:
+        serializedVersion: 2
+        x: 10419
+        y: 2375
+        width: 313
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed70af7bdf19fbc80800000000000000
+      internalID: -8304758668948535330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_20
+      rect:
+        serializedVersion: 2
+        x: 12336
+        y: 2375
+        width: 344
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357feff47758e660800000000000000
+      internalID: 7415272946487227706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_21
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1294
+        width: 367
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801e2c85639460e0800000000000000
+      internalID: -2277533447189819256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_22
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 1292
+        width: 380
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69ce7352d1df800800000000000000
+      internalID: 647705967100466874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_23
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 1289
+        width: 394
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4d5c1376fdc8f0800000000000000
+      internalID: -518487407820191114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_24
+      rect:
+        serializedVersion: 2
+        x: 6531
+        y: 1284
+        width: 393
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c009c7baebbc960800000000000000
+      internalID: 7623396437993196627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_25
+      rect:
+        serializedVersion: 2
+        x: 8442
+        y: 1276
+        width: 382
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86354e0143d1400800000000000000
+      internalID: 296450397631113381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_26
+      rect:
+        serializedVersion: 2
+        x: 10366
+        y: 1273
+        width: 360
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05ba6e316d32a250800000000000000
+      internalID: 5954389145205519630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_27
+      rect:
+        serializedVersion: 2
+        x: 12291
+        y: 1284
+        width: 336
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1101a427d4a0f30800000000000000
+      internalID: 4542528327420744136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_28
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 209
+        width: 295
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3089c9a233b38e90800000000000000
+      internalID: -7024573963589550021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_29
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 209
+        width: 251
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2643057cda8cfda60800000000000000
+      internalID: 7701094536525657186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_30
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 211
+        width: 227
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253fb910cc3c626d0800000000000000
+      internalID: -3015507619510226094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briefcase walk_31
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 211
+        width: 225
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1db6a5d5ebd7d30800000000000000
+      internalID: 4430906916560687588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
