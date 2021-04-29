@@ -11,6 +11,8 @@ TagManager:
   - Move
   - Pillar
   - Kill
+  - Forward
+  - Back
   layers:
   - Default
   - TransparentFX

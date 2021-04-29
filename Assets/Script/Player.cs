@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
+
     public float Speed = 4.0f;
     //public float Jumpspeed = 4.0f;
     public GameObject Spawn;
