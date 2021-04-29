@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: acc346278995de541852f28c3b635043
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7144431552529222018
+    second: Bond Walk_0
+  - first:
+      213: -8378925258851779267
+    second: Bond Walk_1
+  - first:
+      213: 4552653535554657696
+    second: Bond Walk_2
+  - first:
+      213: -3575669911199562195
+    second: Bond Walk_3
+  - first:
+      213: 1069137802680698013
+    second: Bond Walk_4
+  - first:
+      213: -5296075880453273016
+    second: Bond Walk_5
+  - first:
+      213: 7373677212527234983
+    second: Bond Walk_6
+  - first:
+      213: 4537305876309812627
+    second: Bond Walk_7
+  - first:
+      213: -5245784769773901922
+    second: Bond Walk_8
+  - first:
+      213: 3392851574428777944
+    second: Bond Walk_9
+  - first:
+      213: 7435193621395823616
+    second: Bond Walk_10
+  - first:
+      213: 591785204009775904
+    second: Bond Walk_11
+  - first:
+      213: -1864993062140395089
+    second: Bond Walk_12
+  - first:
+      213: 5046643373226810838
+    second: Bond Walk_13
+  - first:
+      213: 7133593094340427539
+    second: Bond Walk_14
+  - first:
+      213: 237292382326454585
+    second: Bond Walk_15
+  - first:
+      213: -8700749867326565013
+    second: Bond Walk_16
+  - first:
+      213: -8512038772829444811
+    second: Bond Walk_17
+  - first:
+      213: -1480836531271388794
+    second: Bond Walk_18
+  - first:
+      213: -8407692182317222896
+    second: Bond Walk_19
+  - first:
+      213: 3940361119026046593
+    second: Bond Walk_20
+  - first:
+      213: -725227886396114965
+    second: Bond Walk_21
+  - first:
+      213: 1378924717452778219
+    second: Bond Walk_22
+  - first:
+      213: 368390329780650981
+    second: Bond Walk_23
+  - first:
+      213: 5856079946083301497
+    second: Bond Walk_24
+  - first:
+      213: -3017676460931000204
+    second: Bond Walk_25
+  - first:
+      213: -4050592189385935363
+    second: Bond Walk_26
+  - first:
+      213: -9011256098246813730
+    second: Bond Walk_27
+  - first:
+      213: 6821775211326382097
+    second: Bond Walk_28
+  - first:
+      213: -4423514110495748987
+    second: Bond Walk_29
+  - first:
+      213: -7948155617649320641
+    second: Bond Walk_30
+  - first:
+      213: 5823604507182145449
+    second: Bond Walk_31
+  - first:
+      213: -531023822923026348
+    second: Bond Walk_32
+  - first:
+      213: -8909961299981361662
+    second: Bond Walk_33
+  - first:
+      213: 9080163902067324529
+    second: Bond Walk_34
+  - first:
+      213: 2739677039864399392
+    second: Bond Walk_35
+  - first:
+      213: -2545418587870258486
+    second: Bond Walk_36
+  - first:
+      213: -7022592430556412571
+    second: Bond Walk_37
+  - first:
+      213: 9028015669756771218
+    second: Bond Walk_38
+  - first:
+      213: -7298922036301449200
+    second: Bond Walk_39
+  - first:
+      213: -2180229235918950829
+    second: Bond Walk_40
+  - first:
+      213: 9031551261075630339
+    second: Bond Walk_41
+  - first:
+      213: 3530479475386604215
+    second: Bond Walk_42
+  - first:
+      213: 2965069631776324866
+    second: Bond Walk_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bond Walk_0
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 7774
+        width: 145
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7637651b51e9dc90800000000000000
+      internalID: -7144431552529222018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_1
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 7776
+        width: 147
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d779aded318bb80800000000000000
+      internalID: -8378925258851779267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_2
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 7776
+        width: 165
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad592405464e2f30800000000000000
+      internalID: 4552653535554657696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_3
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 7776
+        width: 203
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26c5e4192ba06ec0800000000000000
+      internalID: -3575669911199562195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_4
+      rect:
+        serializedVersion: 2
+        x: 8562
+        y: 7776
+        width: 233
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9489b0ca2756de00800000000000000
+      internalID: 1069137802680698013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_5
+      rect:
+        serializedVersion: 2
+        x: 10472
+        y: 7776
+        width: 258
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a811aeb0f8086b0800000000000000
+      internalID: -5296075880453273016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_6
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 6694
+        width: 279
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af041d7b50945660800000000000000
+      internalID: 7373677212527234983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_7
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 6694
+        width: 294
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3952db2a7afb7fe30800000000000000
+      internalID: 4537305876309812627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_8
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 6693
+        width: 305
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97e8759b8a3337b0800000000000000
+      internalID: -5245784769773901922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_9
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 6693
+        width: 311
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb375e784d51f20800000000000000
+      internalID: 3392851574428777944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_10
+      rect:
+        serializedVersion: 2
+        x: 8501
+        y: 6692
+        width: 317
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c5c8f843d1f2760800000000000000
+      internalID: 7435193621395823616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_11
+      rect:
+        serializedVersion: 2
+        x: 10414
+        y: 6692
+        width: 318
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023b554f181763800800000000000000
+      internalID: 591785204009775904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_12
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 5610
+        width: 316
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1cd8ee0b63e16e0800000000000000
+      internalID: -1864993062140395089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_13
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 5610
+        width: 305
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd5341e867490640800000000000000
+      internalID: 5046643373226810838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_14
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 5610
+        width: 293
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f3758bf1d9ff260800000000000000
+      internalID: 7133593094340427539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_15
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 5612
+        width: 279
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939797c1a280b4300800000000000000
+      internalID: 237292382326454585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_16
+      rect:
+        serializedVersion: 2
+        x: 8503
+        y: 5616
+        width: 261
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65197e181ab04780800000000000000
+      internalID: -8700749867326565013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_17
+      rect:
+        serializedVersion: 2
+        x: 10434
+        y: 5622
+        width: 240
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5352627b5d92fd980800000000000000
+      internalID: -8512038772829444811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_18
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 4543
+        width: 217
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681b5274503037be0800000000000000
+      internalID: -1480836531271388794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_19
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 4543
+        width: 191
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014372c8180e15b80800000000000000
+      internalID: -8407692182317222896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_20
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 4542
+        width: 169
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186ee429f89fea630800000000000000
+      internalID: 3940361119026046593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_21
+      rect:
+        serializedVersion: 2
+        x: 6658
+        y: 4540
+        width: 156
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f62a64197fe5f0800000000000000
+      internalID: -725227886396114965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_22
+      rect:
+        serializedVersion: 2
+        x: 8590
+        y: 4540
+        width: 155
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea57c389bce22310800000000000000
+      internalID: 1378924717452778219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_23
+      rect:
+        serializedVersion: 2
+        x: 10505
+        y: 4541
+        width: 171
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c3499d09cc1500800000000000000
+      internalID: 368390329780650981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_24
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 3464
+        width: 183
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97875922fa9f44150800000000000000
+      internalID: 5856079946083301497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_25
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 3463
+        width: 205
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47856234f3f0f16d0800000000000000
+      internalID: -3017676460931000204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_26
+      rect:
+        serializedVersion: 2
+        x: 4723
+        y: 3460
+        width: 236
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5fdad5dd769c7c0800000000000000
+      internalID: -4050592189385935363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_27
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 3459
+        width: 262
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed71de3825691f280800000000000000
+      internalID: -9011256098246813730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_28
+      rect:
+        serializedVersion: 2
+        x: 8541
+        y: 3460
+        width: 278
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110aca05960dbae50800000000000000
+      internalID: 6821775211326382097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_29
+      rect:
+        serializedVersion: 2
+        x: 10451
+        y: 3460
+        width: 292
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c09f07a558c92c0800000000000000
+      internalID: -4423514110495748987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_30
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2378
+        width: 305
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d9c7ea39a72b190800000000000000
+      internalID: -7948155617649320641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_31
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 2376
+        width: 311
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af94fac17991d050800000000000000
+      internalID: 5823604507182145449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_32
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 2377
+        width: 315
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450376385ac61a8f0800000000000000
+      internalID: -531023822923026348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_33
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 2379
+        width: 315
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e12289765795480800000000000000
+      internalID: -8909961299981361662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_34
+      rect:
+        serializedVersion: 2
+        x: 8492
+        y: 2379
+        width: 310
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1763c0dc5f8330e70800000000000000
+      internalID: 9080163902067324529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_35
+      rect:
+        serializedVersion: 2
+        x: 10413
+        y: 2377
+        width: 300
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026496890c9450620800000000000000
+      internalID: 2739677039864399392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_36
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1294
+        width: 284
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1151d74bdcacd0800000000000000
+      internalID: -2545418587870258486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_37
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 1294
+        width: 265
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5658656446dba8e90800000000000000
+      internalID: -7022592430556412571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_38
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 1294
+        width: 245
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b338e4b64f94d70800000000000000
+      internalID: 9028015669756771218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_39
+      rect:
+        serializedVersion: 2
+        x: 6609
+        y: 1294
+        width: 222
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0183bfe441505ba90800000000000000
+      internalID: -7298922036301449200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_40
+      rect:
+        serializedVersion: 2
+        x: 8542
+        y: 1294
+        width: 197
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2120bf054eb1e0800000000000000
+      internalID: -2180229235918950829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_41
+      rect:
+        serializedVersion: 2
+        x: 10480
+        y: 1294
+        width: 169
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309e42f4504865d70800000000000000
+      internalID: 9031551261075630339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_42
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 214
+        width: 150
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad939a068cef030800000000000000
+      internalID: 3530479475386604215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Walk_43
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 214
+        width: 144
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d7358de1b062920800000000000000
+      internalID: 2965069631776324866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

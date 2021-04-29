@@ -1,0 +1,1712 @@
+fileFormatVersion: 2
+guid: d4cbdd8c7dda81f4ca362e1735c8656a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -780553302240748541
+    second: Midas Death_0
+  - first:
+      213: -5475956952385223095
+    second: Midas Death_1
+  - first:
+      213: 8862306877993206498
+    second: Midas Death_2
+  - first:
+      213: -3115408426745518289
+    second: Midas Death_3
+  - first:
+      213: 105797121688049236
+    second: Midas Death_4
+  - first:
+      213: -3944875948658961680
+    second: Midas Death_5
+  - first:
+      213: 2072352403774776587
+    second: Midas Death_6
+  - first:
+      213: -4982878151886808483
+    second: Midas Death_7
+  - first:
+      213: -185884817757013521
+    second: Midas Death_8
+  - first:
+      213: -2283010171984467560
+    second: Midas Death_9
+  - first:
+      213: 6045867398469156205
+    second: Midas Death_10
+  - first:
+      213: -5925926735147622565
+    second: Midas Death_11
+  - first:
+      213: -5063455530847175787
+    second: Midas Death_12
+  - first:
+      213: 1432919453179850003
+    second: Midas Death_13
+  - first:
+      213: 2400972259639981503
+    second: Midas Death_14
+  - first:
+      213: 5174833763106564414
+    second: Midas Death_15
+  - first:
+      213: 3886952900403602124
+    second: Midas Death_16
+  - first:
+      213: 6569229686333012052
+    second: Midas Death_17
+  - first:
+      213: 5213898359357167603
+    second: Midas Death_18
+  - first:
+      213: 3840216329678691637
+    second: Midas Death_19
+  - first:
+      213: -7941335280763319373
+    second: Midas Death_20
+  - first:
+      213: 1648650183083717443
+    second: Midas Death_21
+  - first:
+      213: 1059986931058127339
+    second: Midas Death_22
+  - first:
+      213: 2948445464626843140
+    second: Midas Death_23
+  - first:
+      213: 2568180928864812839
+    second: Midas Death_24
+  - first:
+      213: -5334307909179495123
+    second: Midas Death_25
+  - first:
+      213: -6512664600891342496
+    second: Midas Death_26
+  - first:
+      213: -7161054594203230567
+    second: Midas Death_27
+  - first:
+      213: 4746746587450740510
+    second: Midas Death_28
+  - first:
+      213: -1828430490349096212
+    second: Midas Death_29
+  - first:
+      213: -7080564171360262089
+    second: Midas Death_30
+  - first:
+      213: 7961014180357436087
+    second: Midas Death_31
+  - first:
+      213: 184180035935257164
+    second: Midas Death_32
+  - first:
+      213: 5905109327578990236
+    second: Midas Death_33
+  - first:
+      213: -5875874011630156232
+    second: Midas Death_34
+  - first:
+      213: -8075834944605675078
+    second: Midas Death_35
+  - first:
+      213: 113503495969790886
+    second: Midas Death_36
+  - first:
+      213: -3721980061447400616
+    second: Midas Death_37
+  - first:
+      213: -1300713247286538793
+    second: Midas Death_38
+  - first:
+      213: 1065449998185520630
+    second: Midas Death_39
+  - first:
+      213: -4072625352068481604
+    second: Midas Death_40
+  - first:
+      213: 1855234088125217638
+    second: Midas Death_41
+  - first:
+      213: -5131613768015762300
+    second: Midas Death_42
+  - first:
+      213: -5159598375861681659
+    second: Midas Death_43
+  - first:
+      213: -796271147193233016
+    second: Midas Death_44
+  - first:
+      213: 6057454737308576571
+    second: Midas Death_45
+  - first:
+      213: -7505490847488214948
+    second: Midas Death_46
+  - first:
+      213: 1331027959359593640
+    second: Midas Death_47
+  - first:
+      213: 1719571725697518221
+    second: Midas Death_48
+  - first:
+      213: -1913885632146446790
+    second: Midas Death_49
+  - first:
+      213: -284433678500309547
+    second: Midas Death_50
+  - first:
+      213: -3617380694711329675
+    second: Midas Death_51
+  - first:
+      213: 9176318030670437352
+    second: Midas Death_52
+  - first:
+      213: -2964806458889049110
+    second: Midas Death_53
+  - first:
+      213: 4935538460582057915
+    second: Midas Death_54
+  - first:
+      213: -7430945123746712344
+    second: Midas Death_55
+  - first:
+      213: 3155820357891004672
+    second: Midas Death_56
+  - first:
+      213: 8320998179760132322
+    second: Midas Death_57
+  - first:
+      213: 8879086000863477492
+    second: Midas Death_58
+  - first:
+      213: 3871559540264788676
+    second: Midas Death_59
+  - first:
+      213: 7991672565684374357
+    second: Midas Death_60
+  - first:
+      213: 2267301318643397321
+    second: Midas Death_61
+  - first:
+      213: -4075251898513196055
+    second: Midas Death_62
+  - first:
+      213: 8139927680137320057
+    second: Midas Death_63
+  - first:
+      213: -6091360535122889720
+    second: Midas Death_64
+  - first:
+      213: 670995186890440056
+    second: Midas Death_65
+  - first:
+      213: -5632469441685556910
+    second: Midas Death_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Midas Death_0
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 8843
+        width: 402
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c9eab38eaea25f0800000000000000
+      internalID: -780553302240748541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_1
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 8843
+        width: 402
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468fb72a2e7104b0800000000000000
+      internalID: -5475956952385223095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_2
+      rect:
+        serializedVersion: 2
+        x: 4613
+        y: 8843
+        width: 402
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e24949a62d3dfa70800000000000000
+      internalID: 8862306877993206498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_3
+      rect:
+        serializedVersion: 2
+        x: 6533
+        y: 8843
+        width: 402
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272391ca88d3c4d0800000000000000
+      internalID: -3115408426745518289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_4
+      rect:
+        serializedVersion: 2
+        x: 8453
+        y: 8842
+        width: 402
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4569970fbedd77100800000000000000
+      internalID: 105797121688049236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_5
+      rect:
+        serializedVersion: 2
+        x: 10373
+        y: 8842
+        width: 402
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2533db93cf049c0800000000000000
+      internalID: -3944875948658961680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_6
+      rect:
+        serializedVersion: 2
+        x: 12292
+        y: 8842
+        width: 403
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b052c6c088972cc10800000000000000
+      internalID: 2072352403774776587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_7
+      rect:
+        serializedVersion: 2
+        x: 14212
+        y: 8843
+        width: 403
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a5bb5a8b249dab0800000000000000
+      internalID: -4982878151886808483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 7765
+        width: 402
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9747c3eba9b6df0800000000000000
+      internalID: -185884817757013521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_9
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 7765
+        width: 398
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8992340385e1150e0800000000000000
+      internalID: -2283010171984467560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_10
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 7767
+        width: 397
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d7ed4dd5c37e350800000000000000
+      internalID: 6045867398469156205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_11
+      rect:
+        serializedVersion: 2
+        x: 6516
+        y: 7777
+        width: 421
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f19820801e2cda0800000000000000
+      internalID: -5925926735147622565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_12
+      rect:
+        serializedVersion: 2
+        x: 8422
+        y: 7773
+        width: 438
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bfdd3a50efab9b0800000000000000
+      internalID: -5063455530847175787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_13
+      rect:
+        serializedVersion: 2
+        x: 10330
+        y: 7763
+        width: 454
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d288696a0c2e310800000000000000
+      internalID: 1432919453179850003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_14
+      rect:
+        serializedVersion: 2
+        x: 12237
+        y: 7760
+        width: 465
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5786b9c87f15120800000000000000
+      internalID: 2400972259639981503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_15
+      rect:
+        serializedVersion: 2
+        x: 14150
+        y: 7763
+        width: 468
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e392aadd3e3b0d740800000000000000
+      internalID: 5174833763106564414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_16
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 6683
+        width: 465
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc22b37a11b31f530800000000000000
+      internalID: 3886952900403602124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_17
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 6683
+        width: 485
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45874dd28979a2b50800000000000000
+      internalID: 6569229686333012052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_18
+      rect:
+        serializedVersion: 2
+        x: 4473
+        y: 6682
+        width: 493
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7d974feec7b5840800000000000000
+      internalID: 5213898359357167603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_19
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 6685
+        width: 499
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d172fc7603b4530800000000000000
+      internalID: 3840216329678691637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_20
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 6685
+        width: 509
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb43db13a5bac190800000000000000
+      internalID: -7941335280763319373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_21
+      rect:
+        serializedVersion: 2
+        x: 10173
+        y: 6687
+        width: 517
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34376994b9e21e610800000000000000
+      internalID: 1648650183083717443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_22
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 6695
+        width: 505
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b64c6f74d5be00800000000000000
+      internalID: 1059986931058127339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_23
+      rect:
+        serializedVersion: 2
+        x: 14015
+        y: 6680
+        width: 525
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ec1be478bfae820800000000000000
+      internalID: 2948445464626843140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_24
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 5600
+        width: 553
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f7befa2f204a320800000000000000
+      internalID: 2568180928864812839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_25
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 5605
+        width: 564
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dacce083bb8f5b0800000000000000
+      internalID: -5334307909179495123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_26
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 5598
+        width: 545
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0614c921d0e5e95a0800000000000000
+      internalID: -6512664600891342496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_27
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 5592
+        width: 548
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e565799c2de9c90800000000000000
+      internalID: -7161054594203230567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_28
+      rect:
+        serializedVersion: 2
+        x: 8178
+        y: 5600
+        width: 545
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8cc73fd4dfd140800000000000000
+      internalID: 4746746587450740510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_29
+      rect:
+        serializedVersion: 2
+        x: 10092
+        y: 5605
+        width: 545
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2bf3e082c10a6e0800000000000000
+      internalID: -1828430490349096212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_30
+      rect:
+        serializedVersion: 2
+        x: 12010
+        y: 5609
+        width: 542
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738a6bc8668ccbd90800000000000000
+      internalID: -7080564171360262089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_31
+      rect:
+        serializedVersion: 2
+        x: 13925
+        y: 5607
+        width: 547
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b27d00c7343b7e60800000000000000
+      internalID: 7961014180357436087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4525
+        width: 551
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42c3a054c65e8200800000000000000
+      internalID: 184180035935257164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_33
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 4523
+        width: 555
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96013695a923f150800000000000000
+      internalID: 5905109327578990236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_34
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 4523
+        width: 560
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c5d7d7b3b47ea0800000000000000
+      internalID: -5875874011630156232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_35
+      rect:
+        serializedVersion: 2
+        x: 6226
+        y: 4523
+        width: 561
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a71ec7eedcef80800000000000000
+      internalID: -8075834944605675078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_36
+      rect:
+        serializedVersion: 2
+        x: 8142
+        y: 4523
+        width: 563
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab5b0604de339100800000000000000
+      internalID: 113503495969790886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_37
+      rect:
+        serializedVersion: 2
+        x: 10057
+        y: 4523
+        width: 564
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8535750aaded85cc0800000000000000
+      internalID: -3721980061447400616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_38
+      rect:
+        serializedVersion: 2
+        x: 11975
+        y: 4523
+        width: 564
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd47dc6130f2fde0800000000000000
+      internalID: -1300713247286538793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_39
+      rect:
+        serializedVersion: 2
+        x: 13895
+        y: 4520
+        width: 562
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd9cbd02d39ce00800000000000000
+      internalID: 1065449998185520630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_40
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3438
+        width: 560
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd35bae1d02b77c0800000000000000
+      internalID: -4072625352068481604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_41
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 3436
+        width: 559
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b36edd29d1fb910800000000000000
+      internalID: 1855234088125217638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_42
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 3436
+        width: 553
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48caae86778d8c8b0800000000000000
+      internalID: -5131613768015762300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_43
+      rect:
+        serializedVersion: 2
+        x: 6217
+        y: 3440
+        width: 549
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50205172d9c6568b0800000000000000
+      internalID: -5159598375861681659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_44
+      rect:
+        serializedVersion: 2
+        x: 8138
+        y: 3443
+        width: 552
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88197a64c9313f4f0800000000000000
+      internalID: -796271147193233016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_45
+      rect:
+        serializedVersion: 2
+        x: 10060
+        y: 3443
+        width: 548
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be8446df6601450800000000000000
+      internalID: 6057454737308576571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_46
+      rect:
+        serializedVersion: 2
+        x: 11982
+        y: 3442
+        width: 546
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58f48a07d327d790800000000000000
+      internalID: -7505490847488214948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_47
+      rect:
+        serializedVersion: 2
+        x: 13906
+        y: 3438
+        width: 542
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acddbf70e2c87210800000000000000
+      internalID: 1331027959359593640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_48
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2358
+        width: 538
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a8104bf552dd710800000000000000
+      internalID: 1719571725697518221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_49
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2360
+        width: 540
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ef2368238075e0800000000000000
+      internalID: -1913885632146446790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_50
+      rect:
+        serializedVersion: 2
+        x: 4308
+        y: 2360
+        width: 542
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5d4de831d7d0cf0800000000000000
+      internalID: -284433678500309547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_51
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 2358
+        width: 545
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c10628c6b7ccdc0800000000000000
+      internalID: -3617380694711329675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_52
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 2358
+        width: 546
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9f1471a4d85f70800000000000000
+      internalID: 9176318030670437352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_53
+      rect:
+        serializedVersion: 2
+        x: 10062
+        y: 2358
+        width: 548
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb622edb34ead6d0800000000000000
+      internalID: -2964806458889049110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_54
+      rect:
+        serializedVersion: 2
+        x: 11982
+        y: 2358
+        width: 546
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7954e841e8e7440800000000000000
+      internalID: 4935538460582057915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_55
+      rect:
+        serializedVersion: 2
+        x: 13900
+        y: 2358
+        width: 548
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4f7a1e7caffd890800000000000000
+      internalID: -7430945123746712344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_56
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1278
+        width: 548
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091a0f25e9bbcb20800000000000000
+      internalID: 3155820357891004672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_57
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1278
+        width: 548
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0564902cf1a7370800000000000000
+      internalID: 8320998179760132322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_58
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 1278
+        width: 550
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe7c93aca9d83b70800000000000000
+      internalID: 8879086000863477492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_59
+      rect:
+        serializedVersion: 2
+        x: 6220
+        y: 1278
+        width: 550
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2e144b3ea8ab530800000000000000
+      internalID: 3871559540264788676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_60
+      rect:
+        serializedVersion: 2
+        x: 8140
+        y: 1278
+        width: 550
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b0ad65bdf18ee60800000000000000
+      internalID: 7991672565684374357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_61
+      rect:
+        serializedVersion: 2
+        x: 10060
+        y: 1278
+        width: 550
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b3806982177f10800000000000000
+      internalID: 2267301318643397321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_62
+      rect:
+        serializedVersion: 2
+        x: 11980
+        y: 1278
+        width: 550
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb72ea6dfbc177c0800000000000000
+      internalID: -4075251898513196055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_63
+      rect:
+        serializedVersion: 2
+        x: 13900
+        y: 1278
+        width: 550
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97654ff0915d6f070800000000000000
+      internalID: 8139927680137320057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_64
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 198
+        width: 550
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ba21edd3277ba0800000000000000
+      internalID: -6091360535122889720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_65
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 198
+        width: 550
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87df990419adf4900800000000000000
+      internalID: 670995186890440056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas Death_66
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 198
+        width: 548
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f61882e275d1b0800000000000000
+      internalID: -5632469441685556910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

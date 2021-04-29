@@ -1,0 +1,1784 @@
+fileFormatVersion: 2
+guid: 42df1fffcaa68ce48bdd529bbf34e83d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1892928714962439228
+    second: Bond Reload_0
+  - first:
+      213: -5859287938435247407
+    second: Bond Reload_1
+  - first:
+      213: -7126326513810955668
+    second: Bond Reload_2
+  - first:
+      213: -7441462594258448556
+    second: Bond Reload_3
+  - first:
+      213: 6540098584800481088
+    second: Bond Reload_4
+  - first:
+      213: 7701792214215025988
+    second: Bond Reload_5
+  - first:
+      213: 6054521358028115064
+    second: Bond Reload_6
+  - first:
+      213: -2170079809382882221
+    second: Bond Reload_7
+  - first:
+      213: 4871116721862632019
+    second: Bond Reload_8
+  - first:
+      213: 4167816822972352280
+    second: Bond Reload_9
+  - first:
+      213: 4243446074650841115
+    second: Bond Reload_10
+  - first:
+      213: -7188743234763009012
+    second: Bond Reload_11
+  - first:
+      213: 4744453783944820661
+    second: Bond Reload_12
+  - first:
+      213: -328043794529632181
+    second: Bond Reload_13
+  - first:
+      213: 7548898613930826390
+    second: Bond Reload_14
+  - first:
+      213: 6188239241198915422
+    second: Bond Reload_15
+  - first:
+      213: -4597656638081210302
+    second: Bond Reload_16
+  - first:
+      213: 1350875251090421206
+    second: Bond Reload_17
+  - first:
+      213: 6313456302752613884
+    second: Bond Reload_18
+  - first:
+      213: -5499041976103027203
+    second: Bond Reload_19
+  - first:
+      213: 4612119531793734386
+    second: Bond Reload_20
+  - first:
+      213: 5115795518202613506
+    second: Bond Reload_21
+  - first:
+      213: -2588053398999137231
+    second: Bond Reload_22
+  - first:
+      213: -2769399815317198819
+    second: Bond Reload_23
+  - first:
+      213: -3664382678349066270
+    second: Bond Reload_24
+  - first:
+      213: 1275701267681620064
+    second: Bond Reload_25
+  - first:
+      213: 5070657667586706388
+    second: Bond Reload_26
+  - first:
+      213: 5748371527510260714
+    second: Bond Reload_27
+  - first:
+      213: -4781946520985184409
+    second: Bond Reload_28
+  - first:
+      213: -7190657578115954676
+    second: Bond Reload_29
+  - first:
+      213: -8016111430457924273
+    second: Bond Reload_30
+  - first:
+      213: 6611979826098395295
+    second: Bond Reload_31
+  - first:
+      213: -6974604946341894577
+    second: Bond Reload_32
+  - first:
+      213: -8772727755198887296
+    second: Bond Reload_33
+  - first:
+      213: 6285395287359912300
+    second: Bond Reload_34
+  - first:
+      213: -2088461655502604778
+    second: Bond Reload_35
+  - first:
+      213: 2552176096470618966
+    second: Bond Reload_36
+  - first:
+      213: -2375736510662720757
+    second: Bond Reload_37
+  - first:
+      213: 2053090189260877651
+    second: Bond Reload_38
+  - first:
+      213: 7352646994912777635
+    second: Bond Reload_39
+  - first:
+      213: 482166842097816878
+    second: Bond Reload_40
+  - first:
+      213: -2442662567548616140
+    second: Bond Reload_41
+  - first:
+      213: -6099549398193880478
+    second: Bond Reload_42
+  - first:
+      213: -6856444208586923031
+    second: Bond Reload_43
+  - first:
+      213: 6794498844584603197
+    second: Bond Reload_44
+  - first:
+      213: -2415616816630007917
+    second: Bond Reload_45
+  - first:
+      213: -8718373287688470248
+    second: Bond Reload_46
+  - first:
+      213: 7943372535000484816
+    second: Bond Reload_47
+  - first:
+      213: -6513180283663539238
+    second: Bond Reload_48
+  - first:
+      213: -3798132729553726971
+    second: Bond Reload_49
+  - first:
+      213: -1285431340473667128
+    second: Bond Reload_50
+  - first:
+      213: 2449500470056025861
+    second: Bond Reload_51
+  - first:
+      213: -5013926864188574218
+    second: Bond Reload_52
+  - first:
+      213: -2914789004555737164
+    second: Bond Reload_53
+  - first:
+      213: -7524986815298089442
+    second: Bond Reload_54
+  - first:
+      213: -5731396652308038573
+    second: Bond Reload_55
+  - first:
+      213: -8950884513441165303
+    second: Bond Reload_56
+  - first:
+      213: 578478369548491250
+    second: Bond Reload_57
+  - first:
+      213: 6173916514912972568
+    second: Bond Reload_58
+  - first:
+      213: 1877799639987690408
+    second: Bond Reload_59
+  - first:
+      213: 3598965013443136625
+    second: Bond Reload_60
+  - first:
+      213: 8627545016529478044
+    second: Bond Reload_61
+  - first:
+      213: -3685415061670898638
+    second: Bond Reload_62
+  - first:
+      213: 6866950880244714721
+    second: Bond Reload_63
+  - first:
+      213: -2096313568412219726
+    second: Bond Reload_64
+  - first:
+      213: 6237651649959455112
+    second: Bond Reload_65
+  - first:
+      213: 6665475494611243091
+    second: Bond Reload_66
+  - first:
+      213: -102662002005965621
+    second: Bond Reload_67
+  - first:
+      213: 6628890603696537579
+    second: Bond Reload_68
+  - first:
+      213: -3139949761570151341
+    second: Bond Reload_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bond Reload_0
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 8847
+        width: 414
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c097813a8054a10800000000000000
+      internalID: 1892928714962439228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_1
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 8847
+        width: 431
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d216d0f9a0afaea0800000000000000
+      internalID: -5859287938435247407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_2
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 8847
+        width: 439
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62a9d6eac33a1d90800000000000000
+      internalID: -7126326513810955668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_3
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 8847
+        width: 439
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4ed3723d9ab890800000000000000
+      internalID: -7441462594258448556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_4
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 8847
+        width: 431
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f411f030913ca50800000000000000
+      internalID: 6540098584800481088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_5
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 8847
+        width: 418
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445e726863342ea60800000000000000
+      internalID: 7701792214215025988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_6
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 8847
+        width: 407
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c084ec81bf50450800000000000000
+      internalID: 6054521358028115064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_7
+      rect:
+        serializedVersion: 2
+        x: 14313
+        y: 8847
+        width: 399
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3546c7339e352e1e0800000000000000
+      internalID: -2170079809382882221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_8
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 7767
+        width: 395
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352661aa9dea99340800000000000000
+      internalID: 4871116721862632019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_9
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 7767
+        width: 390
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170a26815f07d930800000000000000
+      internalID: 4167816822972352280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_10
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 7767
+        width: 386
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10d61fd8bfb3ea30800000000000000
+      internalID: 4243446074650841115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_11
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 7767
+        width: 382
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0455769d147c3c90800000000000000
+      internalID: -7188743234763009012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_12
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 7767
+        width: 380
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f94d449fa7d140800000000000000
+      internalID: 4744453783944820661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_13
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 7767
+        width: 380
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b404a4c28ed827bf0800000000000000
+      internalID: -328043794529632181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_14
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 7767
+        width: 380
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a19c82b4313c860800000000000000
+      internalID: 7548898613930826390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_15
+      rect:
+        serializedVersion: 2
+        x: 14313
+        y: 7767
+        width: 380
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4bcc9dca01e550800000000000000
+      internalID: 6188239241198915422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_16
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 6687
+        width: 380
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e3f7a5a7d130c0800000000000000
+      internalID: -4597656638081210302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_17
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 6687
+        width: 379
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d57c1532e54fb210800000000000000
+      internalID: 1350875251090421206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_18
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 6687
+        width: 379
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf54586ae07ed9750800000000000000
+      internalID: 6313456302752613884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_19
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 6687
+        width: 375
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdba69357a7fa3b0800000000000000
+      internalID: -5499041976103027203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_20
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 6687
+        width: 371
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad432374a810040800000000000000
+      internalID: 4612119531793734386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_21
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 6687
+        width: 371
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f800e4be4fef640800000000000000
+      internalID: 5115795518202613506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_22
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 6687
+        width: 371
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340aec4523651cd0800000000000000
+      internalID: -2588053398999137231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_23
+      rect:
+        serializedVersion: 2
+        x: 14313
+        y: 6687
+        width: 371
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d186cf67a8d1199d0800000000000000
+      internalID: -2769399815317198819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_24
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 5607
+        width: 371
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efc8e76e5f752dc0800000000000000
+      internalID: -3664382678349066270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_25
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 5607
+        width: 369
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060bda34b8334b110800000000000000
+      internalID: 1275701267681620064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_26
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 5607
+        width: 365
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbcd1e78489e5640800000000000000
+      internalID: 5070657667586706388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_27
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 5607
+        width: 362
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebf736b27156cf40800000000000000
+      internalID: 5748371527510260714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_28
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 5607
+        width: 354
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76753c999fc13adb0800000000000000
+      internalID: -4781946520985184409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_29
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 5607
+        width: 349
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c088deac707a53c90800000000000000
+      internalID: -7190657578115954676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_30
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 5607
+        width: 349
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f456b9b002d01c090800000000000000
+      internalID: -8016111430457924273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_31
+      rect:
+        serializedVersion: 2
+        x: 14313
+        y: 5607
+        width: 350
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98d4acbe9872cb50800000000000000
+      internalID: 6611979826098395295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_32
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 4527
+        width: 352
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46eb9c11c9353f90800000000000000
+      internalID: -6974604946341894577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_33
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 4527
+        width: 352
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a09282692014680800000000000000
+      internalID: -8772727755198887296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_34
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 4527
+        width: 347
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69700066b53a3750800000000000000
+      internalID: 6285395287359912300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_35
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 4527
+        width: 344
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6163eb0803b4403e0800000000000000
+      internalID: -2088461655502604778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_36
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 4527
+        width: 352
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653df5243a62b6320800000000000000
+      internalID: 2552176096470618966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_37
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 4527
+        width: 362
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03c5021b30b70fd0800000000000000
+      internalID: -2375736510662720757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_38
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 4527
+        width: 365
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35febbe36aa0e7c10800000000000000
+      internalID: 2053090189260877651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_39
+      rect:
+        serializedVersion: 2
+        x: 14313
+        y: 4527
+        width: 371
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a59e926c79d90660800000000000000
+      internalID: 7352646994912777635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_40
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 3447
+        width: 381
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2556b1303001b600800000000000000
+      internalID: 482166842097816878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_41
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 3447
+        width: 390
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4320f1b265be91ed0800000000000000
+      internalID: -2442662567548616140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_42
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 3447
+        width: 399
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c4be932c0a5ba0800000000000000
+      internalID: -6099549398193880478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_43
+      rect:
+        serializedVersion: 2
+        x: 6627
+        y: 3447
+        width: 416
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e364ecb15409d0a0800000000000000
+      internalID: -6856444208586923031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_44
+      rect:
+        serializedVersion: 2
+        x: 8547
+        y: 3447
+        width: 424
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e644a43b8ea4e50800000000000000
+      internalID: 6794498844584603197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_45
+      rect:
+        serializedVersion: 2
+        x: 10469
+        y: 3447
+        width: 422
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397fe43cd410a7ed0800000000000000
+      internalID: -2415616816630007917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_46
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 3447
+        width: 416
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8110310dfad120780800000000000000
+      internalID: -8718373287688470248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_47
+      rect:
+        serializedVersion: 2
+        x: 14313
+        y: 3447
+        width: 416
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db4c4b1c378c3e60800000000000000
+      internalID: 7943372535000484816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_48
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2367
+        width: 422
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad328225a098c95a0800000000000000
+      internalID: -6513180283663539238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_49
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 2367
+        width: 427
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5025a25e7625a4bc0800000000000000
+      internalID: -3798132729553726971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_50
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 2367
+        width: 442
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b9ef910b392ee0800000000000000
+      internalID: -1285431340473667128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_51
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 2367
+        width: 455
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f77d213bf5ef120800000000000000
+      internalID: 2449500470056025861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_52
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 2367
+        width: 457
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5704af414fa6ab0800000000000000
+      internalID: -5013926864188574218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_53
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 2367
+        width: 454
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7ad34f7d69c87d0800000000000000
+      internalID: -2914789004555737164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_54
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 2367
+        width: 439
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec8ae4c50e19790800000000000000
+      internalID: -7524986815298089442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_55
+      rect:
+        serializedVersion: 2
+        x: 14313
+        y: 2367
+        width: 422
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cf0586c1df570b0800000000000000
+      internalID: -5731396652308038573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_56
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1287
+        width: 416
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9005bc675f118c380800000000000000
+      internalID: -8950884513441165303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_57
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 1287
+        width: 414
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f95f2f130b270800800000000000000
+      internalID: 578478369548491250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_58
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 1287
+        width: 416
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f2e480c582ea550800000000000000
+      internalID: 6173916514912972568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_59
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 1287
+        width: 416
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab92d4d2d84f0a10800000000000000
+      internalID: 1877799639987690408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_60
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 1287
+        width: 418
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c46519c9712f130800000000000000
+      internalID: 3598965013443136625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_61
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 1287
+        width: 418
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c916ee95b723bb770800000000000000
+      internalID: 8627545016529478044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_62
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 1287
+        width: 418
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2345b3f0786cadcc0800000000000000
+      internalID: -3685415061670898638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_63
+      rect:
+        serializedVersion: 2
+        x: 14313
+        y: 1287
+        width: 418
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecca03617f4c4f50800000000000000
+      internalID: 6866950880244714721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_64
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 207
+        width: 418
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b645f09ae568e2e0800000000000000
+      internalID: -2096313568412219726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_65
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 207
+        width: 416
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889667c8027909650800000000000000
+      internalID: 6237651649959455112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_66
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 207
+        width: 416
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350df5ba5a6808c50800000000000000
+      internalID: 6665475494611243091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_67
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 207
+        width: 416
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4018ef375439ef0800000000000000
+      internalID: -102662002005965621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_68
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 207
+        width: 416
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb148f1ec8efb50800000000000000
+      internalID: 6628890603696537579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Reload_69
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 207
+        width: 416
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e909f358ac64d0800000000000000
+      internalID: -3139949761570151341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

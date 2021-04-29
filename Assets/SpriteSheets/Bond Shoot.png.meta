@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 5ef52431509314448a064f593eebc38e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5853389247352200428
+    second: Bond Shoot_0
+  - first:
+      213: -2508806750523851377
+    second: Bond Shoot_1
+  - first:
+      213: 33972416325068463
+    second: Bond Shoot_2
+  - first:
+      213: 1210053424675715197
+    second: Bond Shoot_3
+  - first:
+      213: 7352826486239087033
+    second: Bond Shoot_4
+  - first:
+      213: -1530564821998408038
+    second: Bond Shoot_5
+  - first:
+      213: 2589647357087401032
+    second: Bond Shoot_6
+  - first:
+      213: 1371218672205938836
+    second: Bond Shoot_7
+  - first:
+      213: 8074710871111294839
+    second: Bond Shoot_8
+  - first:
+      213: 4667459839364577057
+    second: Bond Shoot_9
+  - first:
+      213: -3363995598494243813
+    second: Bond Shoot_10
+  - first:
+      213: -8034506285016141375
+    second: Bond Shoot_11
+  - first:
+      213: 354317532569979528
+    second: Bond Shoot_12
+  - first:
+      213: -6048762565047601934
+    second: Bond Shoot_13
+  - first:
+      213: -542476039196347768
+    second: Bond Shoot_14
+  - first:
+      213: -4488664223166471095
+    second: Bond Shoot_15
+  - first:
+      213: -8599069807756806796
+    second: Bond Shoot_16
+  - first:
+      213: 4056072683195834663
+    second: Bond Shoot_17
+  - first:
+      213: 2372065759819704319
+    second: Bond Shoot_18
+  - first:
+      213: 1947617253271892250
+    second: Bond Shoot_19
+  - first:
+      213: 6596018415612178446
+    second: Bond Shoot_20
+  - first:
+      213: -8996414038177507863
+    second: Bond Shoot_21
+  - first:
+      213: -5792882745548244799
+    second: Bond Shoot_22
+  - first:
+      213: 3062297391954352901
+    second: Bond Shoot_23
+  - first:
+      213: -7750079751155577837
+    second: Bond Shoot_24
+  - first:
+      213: -2843983303133417323
+    second: Bond Shoot_25
+  - first:
+      213: 5242124247161664496
+    second: Bond Shoot_26
+  - first:
+      213: -7718782039002852957
+    second: Bond Shoot_27
+  - first:
+      213: -698601495906741591
+    second: Bond Shoot_28
+  - first:
+      213: -4727068837412310392
+    second: Bond Shoot_29
+  - first:
+      213: -2318445048998513227
+    second: Bond Shoot_30
+  - first:
+      213: 6993795108476007184
+    second: Bond Shoot_31
+  - first:
+      213: 3534697943109540559
+    second: Bond Shoot_32
+  - first:
+      213: 6731116484652025482
+    second: Bond Shoot_33
+  - first:
+      213: -5000093797711887440
+    second: Bond Shoot_34
+  - first:
+      213: -9172558198528468944
+    second: Bond Shoot_35
+  - first:
+      213: 4666839003577706672
+    second: Bond Shoot_36
+  - first:
+      213: -5205348676044311292
+    second: Bond Shoot_37
+  - first:
+      213: 3315129956423342981
+    second: Bond Shoot_38
+  - first:
+      213: 1553045217042960386
+    second: Bond Shoot_39
+  - first:
+      213: 4591253303021866634
+    second: Bond Shoot_40
+  - first:
+      213: 3999684020269992584
+    second: Bond Shoot_41
+  - first:
+      213: -6213845770706515111
+    second: Bond Shoot_42
+  - first:
+      213: -2995286444144285393
+    second: Bond Shoot_43
+  - first:
+      213: 2465831601761986294
+    second: Bond Shoot_44
+  - first:
+      213: -4641828859581026864
+    second: Bond Shoot_45
+  - first:
+      213: 5660791216599776903
+    second: Bond Shoot_46
+  - first:
+      213: -8305238626375634145
+    second: Bond Shoot_47
+  - first:
+      213: -2951899363886559274
+    second: Bond Shoot_48
+  - first:
+      213: -8329608559229679994
+    second: Bond Shoot_49
+  - first:
+      213: -4558718825685185279
+    second: Bond Shoot_50
+  - first:
+      213: 5930142869755035436
+    second: Bond Shoot_51
+  - first:
+      213: 3115095449422428588
+    second: Bond Shoot_52
+  - first:
+      213: -1160735933913730756
+    second: Bond Shoot_53
+  - first:
+      213: 1238818875183070497
+    second: Bond Shoot_54
+  - first:
+      213: -5925738084685343967
+    second: Bond Shoot_55
+  - first:
+      213: 1594850623918366679
+    second: Bond Shoot_56
+  - first:
+      213: -646588015800619437
+    second: Bond Shoot_57
+  - first:
+      213: 2228931222292502440
+    second: Bond Shoot_58
+  - first:
+      213: -2820600524602913240
+    second: Bond Shoot_59
+  - first:
+      213: 4496252638364833289
+    second: Bond Shoot_60
+  - first:
+      213: 2461336736286597227
+    second: Bond Shoot_61
+  - first:
+      213: -782844251880233072
+    second: Bond Shoot_62
+  - first:
+      213: 6907541902191476978
+    second: Bond Shoot_63
+  - first:
+      213: -5518029259942746370
+    second: Bond Shoot_64
+  - first:
+      213: 7080875855845510279
+    second: Bond Shoot_65
+  - first:
+      213: 3995752008476076235
+    second: Bond Shoot_66
+  - first:
+      213: -2441860749392117025
+    second: Bond Shoot_67
+  - first:
+      213: 7787151831751231466
+    second: Bond Shoot_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bond Shoot_0
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 8847
+        width: 370
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132b7bfd7594cea0800000000000000
+      internalID: -5853389247352200428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_1
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 8847
+        width: 354
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d7ce87d8dee2dd0800000000000000
+      internalID: -2508806750523851377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_2
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 8847
+        width: 362
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a73f8bb1b87000800000000000000
+      internalID: 33972416325068463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_3
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 8847
+        width: 373
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d787a09bd29fac010800000000000000
+      internalID: 1210053424675715197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_4
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 8847
+        width: 377
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94d577bbc7a0660800000000000000
+      internalID: 7352826486239087033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_5
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 8847
+        width: 377
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e6317576752cae0800000000000000
+      internalID: -1530564821998408038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_6
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 8847
+        width: 362
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84449bcfc8640f320800000000000000
+      internalID: 2589647357087401032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_7
+      rect:
+        serializedVersion: 2
+        x: 14309
+        y: 8847
+        width: 366
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490c73a0e1c870310800000000000000
+      internalID: 1371218672205938836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 7767
+        width: 372
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd29071c22f0070800000000000000
+      internalID: 8074710871111294839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_9
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 7765
+        width: 373
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273ab0aef526c040800000000000000
+      internalID: 4667459839364577057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_10
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 7765
+        width: 379
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e5cd83dfa051d0800000000000000
+      internalID: -3363995598494243813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_11
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 7767
+        width: 364
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c138f73a13bf7090800000000000000
+      internalID: -8034506285016141375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_12
+      rect:
+        serializedVersion: 2
+        x: 8555
+        y: 7767
+        width: 358
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac68a2be9cae400800000000000000
+      internalID: 354317532569979528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_13
+      rect:
+        serializedVersion: 2
+        x: 10475
+        y: 7767
+        width: 362
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f438abae7a7e0ca0800000000000000
+      internalID: -6048762565047601934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_14
+      rect:
+        serializedVersion: 2
+        x: 12395
+        y: 7769
+        width: 369
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8827a80aaecb878f0800000000000000
+      internalID: -542476039196347768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_15
+      rect:
+        serializedVersion: 2
+        x: 14315
+        y: 7769
+        width: 377
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9446826cbaf05b1c0800000000000000
+      internalID: -4488664223166471095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_16
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 6690
+        width: 388
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4757ed5d197f9a880800000000000000
+      internalID: -8599069807756806796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_17
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 6691
+        width: 377
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ad098d901a4830800000000000000
+      internalID: 4056072683195834663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_18
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 6691
+        width: 379
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7abe5ad354be020800000000000000
+      internalID: 2372065759819704319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_19
+      rect:
+        serializedVersion: 2
+        x: 6618
+        y: 6691
+        width: 388
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1171bba293570b10800000000000000
+      internalID: 1947617253271892250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_20
+      rect:
+        serializedVersion: 2
+        x: 8532
+        y: 6691
+        width: 403
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00bf724dc3c98b50800000000000000
+      internalID: 6596018415612178446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_21
+      rect:
+        serializedVersion: 2
+        x: 10448
+        y: 6691
+        width: 417
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5971ae811562380800000000000000
+      internalID: -8996414038177507863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_22
+      rect:
+        serializedVersion: 2
+        x: 12363
+        y: 6691
+        width: 431
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87b1eb5db8b9fa0800000000000000
+      internalID: -5792882745548244799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_23
+      rect:
+        serializedVersion: 2
+        x: 14279
+        y: 6691
+        width: 420
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b5b04d0477f7a20800000000000000
+      internalID: 3062297391954352901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_24
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 5611
+        width: 426
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c8c6b278f227490800000000000000
+      internalID: -7750079751155577837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_25
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 5611
+        width: 427
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590379df0442888d0800000000000000
+      internalID: -2843983303133417323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_26
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 5611
+        width: 437
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f378849a34cfb840800000000000000
+      internalID: 5242124247161664496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_27
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 5609
+        width: 446
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d192a1a061e490800000000000000
+      internalID: -7718782039002852957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_28
+      rect:
+        serializedVersion: 2
+        x: 8506
+        y: 5607
+        width: 448
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21cec04a11e46f0800000000000000
+      internalID: -698601495906741591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_29
+      rect:
+        serializedVersion: 2
+        x: 10430
+        y: 5605
+        width: 423
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882783dffe3166eb0800000000000000
+      internalID: -4727068837412310392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_30
+      rect:
+        serializedVersion: 2
+        x: 12357
+        y: 5605
+        width: 418
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b53e27f28a33dfd0800000000000000
+      internalID: -2318445048998513227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_31
+      rect:
+        serializedVersion: 2
+        x: 14290
+        y: 5605
+        width: 405
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b390b893fe0160800000000000000
+      internalID: 6993795108476007184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_32
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 4525
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca19573d05cd0130800000000000000
+      internalID: 3534697943109540559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_33
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 4527
+        width: 381
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c571a7cab96d50800000000000000
+      internalID: 6731116484652025482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_34
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 4527
+        width: 384
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3cfbfbe291c9ab0800000000000000
+      internalID: -5000093797711887440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_35
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 4529
+        width: 373
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0381d1faae684b080800000000000000
+      internalID: -9172558198528468944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_36
+      rect:
+        serializedVersion: 2
+        x: 8562
+        y: 4533
+        width: 364
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ef280951f3c040800000000000000
+      internalID: 4666839003577706672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_37
+      rect:
+        serializedVersion: 2
+        x: 10478
+        y: 4535
+        width: 366
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405345055f2e2c7b0800000000000000
+      internalID: -5205348676044311292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_38
+      rect:
+        serializedVersion: 2
+        x: 12395
+        y: 4535
+        width: 377
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b9edc8125b10e20800000000000000
+      internalID: 3315129956423342981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_39
+      rect:
+        serializedVersion: 2
+        x: 14315
+        y: 4533
+        width: 378
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20017f185668d8510800000000000000
+      internalID: 1553045217042960386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_40
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3453
+        width: 384
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0578bd8867bf30800000000000000
+      internalID: 4591253303021866634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_41
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 3453
+        width: 369
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88acff9dc6bb18730800000000000000
+      internalID: 3999684020269992584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_42
+      rect:
+        serializedVersion: 2
+        x: 4711
+        y: 3453
+        width: 364
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b89f3a13cf3c9a0800000000000000
+      internalID: -6213845770706515111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_43
+      rect:
+        serializedVersion: 2
+        x: 6627
+        y: 3453
+        width: 366
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ac3849da9e66d0800000000000000
+      internalID: -2995286444144285393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_44
+      rect:
+        serializedVersion: 2
+        x: 8547
+        y: 3453
+        width: 373
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a4faf6c4683220800000000000000
+      internalID: 2465831601761986294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_45
+      rect:
+        serializedVersion: 2
+        x: 10467
+        y: 3453
+        width: 381
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd2484ee39e49fb0800000000000000
+      internalID: -4641828859581026864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_46
+      rect:
+        serializedVersion: 2
+        x: 12389
+        y: 3453
+        width: 386
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb41d8e9b2f8e40800000000000000
+      internalID: 5660791216599776903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_47
+      rect:
+        serializedVersion: 2
+        x: 14309
+        y: 3453
+        width: 383
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f60ce87dddbc80800000000000000
+      internalID: -8305238626375634145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_48
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2373
+        width: 364
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df07da1b2fb807d0800000000000000
+      internalID: -2951899363886559274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_49
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 2373
+        width: 362
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686cf05c529476c80800000000000000
+      internalID: -8329608559229679994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_50
+      rect:
+        serializedVersion: 2
+        x: 4707
+        y: 2373
+        width: 373
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d0624916d2cb0c0800000000000000
+      internalID: -4558718825685185279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_51
+      rect:
+        serializedVersion: 2
+        x: 6623
+        y: 2373
+        width: 384
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f701355891c4250800000000000000
+      internalID: 5930142869755035436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_52
+      rect:
+        serializedVersion: 2
+        x: 8538
+        y: 2373
+        width: 397
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca972488eca0b3b20800000000000000
+      internalID: 3115095449422428588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_53
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 2375
+        width: 399
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c317a0561dc34efe0800000000000000
+      internalID: -1160735933913730756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_54
+      rect:
+        serializedVersion: 2
+        x: 12370
+        y: 2375
+        width: 383
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df554143b213110800000000000000
+      internalID: 1238818875183070497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_55
+      rect:
+        serializedVersion: 2
+        x: 14288
+        y: 2375
+        width: 377
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123935e9b9c83cda0800000000000000
+      internalID: -5925738084685343967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_56
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1293
+        width: 395
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfd67c413c022610800000000000000
+      internalID: 1594850623918366679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_57
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1291
+        width: 411
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eed2a10abd607f0800000000000000
+      internalID: -646588015800619437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_58
+      rect:
+        serializedVersion: 2
+        x: 4679
+        y: 1291
+        width: 422
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a795852321ceee10800000000000000
+      internalID: 2228931222292502440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_59
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 1291
+        width: 411
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e43cd54c63bd8d0800000000000000
+      internalID: -2820600524602913240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_60
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 1291
+        width: 405
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9061622d3f5e56e30800000000000000
+      internalID: 4496252638364833289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_61
+      rect:
+        serializedVersion: 2
+        x: 10433
+        y: 1289
+        width: 407
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b606bfe88bc682220800000000000000
+      internalID: 2461336736286597227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_62
+      rect:
+        serializedVersion: 2
+        x: 12352
+        y: 1289
+        width: 418
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e834fc47c225f0800000000000000
+      internalID: -782844251880233072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_63
+      rect:
+        serializedVersion: 2
+        x: 14273
+        y: 1289
+        width: 428
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0cf3723c48cdf50800000000000000
+      internalID: 6907541902191476978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_64
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 207
+        width: 433
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a6e4bf950c63b0800000000000000
+      internalID: -5518029259942746370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_65
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 207
+        width: 408
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ccf462313544260800000000000000
+      internalID: 7080875855845510279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_66
+      rect:
+        serializedVersion: 2
+        x: 4702
+        y: 205
+        width: 388
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc825c30843c37730800000000000000
+      internalID: 3995752008476076235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_67
+      rect:
+        serializedVersion: 2
+        x: 6637
+        y: 205
+        width: 371
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd283810694cc1ed0800000000000000
+      internalID: -2441860749392117025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Shoot_68
+      rect:
+        serializedVersion: 2
+        x: 8560
+        y: 207
+        width: 375
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae780973555811c60800000000000000
+      internalID: 7787151831751231466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: b02955b33379cc7459bdfcd4df400695
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1470167244738361274
+    second: Bond Die_0
+  - first:
+      213: 1544438624810316559
+    second: Bond Die_1
+  - first:
+      213: 4559137650332889063
+    second: Bond Die_2
+  - first:
+      213: -7574902118434008669
+    second: Bond Die_3
+  - first:
+      213: -3425294993882795734
+    second: Bond Die_4
+  - first:
+      213: 2669873645430006123
+    second: Bond Die_5
+  - first:
+      213: -1642220427819229470
+    second: Bond Die_6
+  - first:
+      213: 1750764466202172569
+    second: Bond Die_7
+  - first:
+      213: 2909622108085579672
+    second: Bond Die_8
+  - first:
+      213: -1110530399354674245
+    second: Bond Die_9
+  - first:
+      213: 7908729866181181451
+    second: Bond Die_10
+  - first:
+      213: 3101128817379293343
+    second: Bond Die_11
+  - first:
+      213: -4027222407740924944
+    second: Bond Die_12
+  - first:
+      213: -2184757444967472576
+    second: Bond Die_13
+  - first:
+      213: -7886084220357794369
+    second: Bond Die_14
+  - first:
+      213: 7724588797050071340
+    second: Bond Die_15
+  - first:
+      213: 387650101778425367
+    second: Bond Die_16
+  - first:
+      213: -558665413543140235
+    second: Bond Die_17
+  - first:
+      213: -6886784352303474950
+    second: Bond Die_18
+  - first:
+      213: 643600403683751578
+    second: Bond Die_19
+  - first:
+      213: -2837031733425898343
+    second: Bond Die_20
+  - first:
+      213: 3967257207063710790
+    second: Bond Die_21
+  - first:
+      213: -4490144061795355194
+    second: Bond Die_22
+  - first:
+      213: -3332220255462498589
+    second: Bond Die_23
+  - first:
+      213: 6811315257087993908
+    second: Bond Die_24
+  - first:
+      213: 8313551765062831284
+    second: Bond Die_25
+  - first:
+      213: -3017585952879211997
+    second: Bond Die_26
+  - first:
+      213: -5688582294473709149
+    second: Bond Die_27
+  - first:
+      213: -5393788060651010751
+    second: Bond Die_28
+  - first:
+      213: -5238068090529603180
+    second: Bond Die_29
+  - first:
+      213: 3350632266804585140
+    second: Bond Die_30
+  - first:
+      213: -3092162975095831479
+    second: Bond Die_31
+  - first:
+      213: 5996746207679804080
+    second: Bond Die_32
+  - first:
+      213: 1042815584872054626
+    second: Bond Die_33
+  - first:
+      213: -5469648717280707600
+    second: Bond Die_34
+  - first:
+      213: 1541516712784564633
+    second: Bond Die_35
+  - first:
+      213: -8436530752084202007
+    second: Bond Die_36
+  - first:
+      213: -2438492914603394519
+    second: Bond Die_37
+  - first:
+      213: 5974948324658554558
+    second: Bond Die_38
+  - first:
+      213: -6285178543786922754
+    second: Bond Die_39
+  - first:
+      213: 125881997310065825
+    second: Bond Die_40
+  - first:
+      213: -7842861380285649805
+    second: Bond Die_41
+  - first:
+      213: -6435035717259227774
+    second: Bond Die_42
+  - first:
+      213: -1188162171304615607
+    second: Bond Die_43
+  - first:
+      213: -599019252236556704
+    second: Bond Die_44
+  - first:
+      213: -7059941309481561499
+    second: Bond Die_45
+  - first:
+      213: -8641753347912765888
+    second: Bond Die_46
+  - first:
+      213: 6595590671908717036
+    second: Bond Die_47
+  - first:
+      213: -420388085717575507
+    second: Bond Die_48
+  - first:
+      213: -1067724778877954953
+    second: Bond Die_49
+  - first:
+      213: 7417601625306280382
+    second: Bond Die_50
+  - first:
+      213: 3559243345526917093
+    second: Bond Die_51
+  - first:
+      213: 4687823483026024987
+    second: Bond Die_52
+  - first:
+      213: 8313253861309438908
+    second: Bond Die_53
+  - first:
+      213: -6691690588661190777
+    second: Bond Die_54
+  - first:
+      213: -5251045265200143578
+    second: Bond Die_55
+  - first:
+      213: -9011375760537696897
+    second: Bond Die_56
+  - first:
+      213: 5660102793106506281
+    second: Bond Die_57
+  - first:
+      213: 549650592286817544
+    second: Bond Die_58
+  - first:
+      213: 5853982340083818805
+    second: Bond Die_59
+  - first:
+      213: 4341092557525379346
+    second: Bond Die_60
+  - first:
+      213: 8546439093565142667
+    second: Bond Die_61
+  - first:
+      213: 8320879240676572542
+    second: Bond Die_62
+  - first:
+      213: 1949595239448240191
+    second: Bond Die_63
+  - first:
+      213: 890124556449307871
+    second: Bond Die_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bond Die_0
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 8840
+        width: 392
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab77b0fd155176410800000000000000
+      internalID: 1470167244738361274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_1
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 8840
+        width: 371
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0336391fb2fe6510800000000000000
+      internalID: 1544438624810316559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_2
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 8840
+        width: 321
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6332a98f454f30800000000000000
+      internalID: 4559137650332889063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_3
+      rect:
+        serializedVersion: 2
+        x: 6421
+        y: 8842
+        width: 343
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1136628aa80e690800000000000000
+      internalID: -7574902118434008669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_4
+      rect:
+        serializedVersion: 2
+        x: 8204
+        y: 8842
+        width: 426
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2131bed958e670d0800000000000000
+      internalID: -3425294993882795734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_5
+      rect:
+        serializedVersion: 2
+        x: 10047
+        y: 8862
+        width: 484
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6168075feb4d0520800000000000000
+      internalID: 2669873645430006123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_6
+      rect:
+        serializedVersion: 2
+        x: 11911
+        y: 8909
+        width: 579
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eed1f4c839a539e0800000000000000
+      internalID: -1642220427819229470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_7
+      rect:
+        serializedVersion: 2
+        x: 13792
+        y: 8971
+        width: 643
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c5b5d8107fb4810800000000000000
+      internalID: 1750764466202172569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7943
+        width: 655
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f601734ed016820800000000000000
+      internalID: 2909622108085579672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_9
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 7992
+        width: 644
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb321325c7a9690f0800000000000000
+      internalID: -1110530399354674245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_10
+      rect:
+        serializedVersion: 2
+        x: 4139
+        y: 8028
+        width: 658
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00804a39e371cd60800000000000000
+      internalID: 7908729866181181451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_11
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 8075
+        width: 654
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98be9a9a3c690b20800000000000000
+      internalID: 3101128817379293343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_12
+      rect:
+        serializedVersion: 2
+        x: 7966
+        y: 8058
+        width: 611
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbdb1bae8e6c18c0800000000000000
+      internalID: -4027222407740924944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_13
+      rect:
+        serializedVersion: 2
+        x: 9877
+        y: 8020
+        width: 568
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042e25cddae2ea1e0800000000000000
+      internalID: -2184757444967472576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_14
+      rect:
+        serializedVersion: 2
+        x: 11785
+        y: 7977
+        width: 537
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a2c01f200f8290800000000000000
+      internalID: -7886084220357794369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_15
+      rect:
+        serializedVersion: 2
+        x: 13692
+        y: 7927
+        width: 508
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29a1249590433b60800000000000000
+      internalID: 7724588797050071340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6787
+        width: 508
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716a5a5b6b5316500800000000000000
+      internalID: 387650101778425367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_17
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 6740
+        width: 474
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e67d24c83f38f0800000000000000
+      internalID: -558665413543140235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_18
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 6691
+        width: 416
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af69b3c8e1a3d60a0800000000000000
+      internalID: -6886784352303474950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_19
+      rect:
+        serializedVersion: 2
+        x: 5958
+        y: 6687
+        width: 362
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a963ede38278ee800800000000000000
+      internalID: 643600403683751578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_20
+      rect:
+        serializedVersion: 2
+        x: 7857
+        y: 6683
+        width: 371
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c73a07ba6d0a8d0800000000000000
+      internalID: -2837031733425898343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_21
+      rect:
+        serializedVersion: 2
+        x: 9770
+        y: 6682
+        width: 395
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c04af09678e0730800000000000000
+      internalID: 3967257207063710790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_22
+      rect:
+        serializedVersion: 2
+        x: 11686
+        y: 6680
+        width: 467
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5bb5ef3cdcfa1c0800000000000000
+      internalID: -4490144061795355194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_23
+      rect:
+        serializedVersion: 2
+        x: 13603
+        y: 6680
+        width: 530
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedbcf155391c1d0800000000000000
+      internalID: -3332220255462498589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5598
+        width: 557
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438adef6327a68e50800000000000000
+      internalID: 6811315257087993908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_25
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 5598
+        width: 600
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc4462884baf5370800000000000000
+      internalID: 8313551765062831284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_26
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 5613
+        width: 628
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a0d6f40916f16d0800000000000000
+      internalID: -3017585952879211997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_27
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 5617
+        width: 640
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96156ea881e01b0800000000000000
+      internalID: -5688582294473709149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_28
+      rect:
+        serializedVersion: 2
+        x: 7855
+        y: 5617
+        width: 638
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145472b165a6525b0800000000000000
+      internalID: -5393788060651010751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_29
+      rect:
+        serializedVersion: 2
+        x: 9790
+        y: 5618
+        width: 630
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491acaaf2d4ae47b0800000000000000
+      internalID: -5238068090529603180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_30
+      rect:
+        serializedVersion: 2
+        x: 11722
+        y: 5620
+        width: 620
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b269d35b46df7e20800000000000000
+      internalID: 3350632266804585140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_31
+      rect:
+        serializedVersion: 2
+        x: 13649
+        y: 5618
+        width: 615
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9444cc9382e6615d0800000000000000
+      internalID: -3092162975095831479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4542
+        width: 609
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2fcec57e8b83350800000000000000
+      internalID: 5996746207679804080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_33
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 4540
+        width: 606
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f3a86df33d87e00800000000000000
+      internalID: 1042815584872054626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_34
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 4533
+        width: 592
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbff489877e714b0800000000000000
+      internalID: -5469648717280707600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_35
+      rect:
+        serializedVersion: 2
+        x: 5977
+        y: 4525
+        width: 585
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9911ad07841946510800000000000000
+      internalID: 1541516712784564633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_36
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 4520
+        width: 576
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edac59cafb6bea80800000000000000
+      internalID: -8436530752084202007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_37
+      rect:
+        serializedVersion: 2
+        x: 9822
+        y: 4518
+        width: 568
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92af1c52d9bb82ed0800000000000000
+      internalID: -2438492914603394519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_38
+      rect:
+        serializedVersion: 2
+        x: 11742
+        y: 4520
+        width: 563
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a69a38d74be250800000000000000
+      internalID: 5974948324658554558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_39
+      rect:
+        serializedVersion: 2
+        x: 13664
+        y: 4525
+        width: 555
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc6cab2a6f86c8a0800000000000000
+      internalID: -6285178543786922754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3449
+        width: 557
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac784572093fb100800000000000000
+      internalID: 125881997310065825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_41
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 3449
+        width: 555
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca17db02f882390800000000000000
+      internalID: -7842861380285649805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_42
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 3451
+        width: 553
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d00d30c1922b6a0800000000000000
+      internalID: -6435035717259227774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_43
+      rect:
+        serializedVersion: 2
+        x: 5986
+        y: 3453
+        width: 553
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e4d3ecccc28fe0800000000000000
+      internalID: -1188162171304615607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_44
+      rect:
+        serializedVersion: 2
+        x: 7906
+        y: 3453
+        width: 551
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066e1d0f92bdfa7f0800000000000000
+      internalID: -599019252236556704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_45
+      rect:
+        serializedVersion: 2
+        x: 9824
+        y: 3451
+        width: 553
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562de31c8cc060e90800000000000000
+      internalID: -7059941309481561499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_46
+      rect:
+        serializedVersion: 2
+        x: 11742
+        y: 3449
+        width: 551
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eed15bd13521880800000000000000
+      internalID: -8641753347912765888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_47
+      rect:
+        serializedVersion: 2
+        x: 13662
+        y: 3447
+        width: 550
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1cffa65ce388b50800000000000000
+      internalID: 6595590671908717036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2367
+        width: 548
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da85ffa634b7a2af0800000000000000
+      internalID: -420388085717575507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_49
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2365
+        width: 544
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d81d78fdae21f0800000000000000
+      internalID: -1067724778877954953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_50
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 2365
+        width: 542
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1bdb9c06d90f660800000000000000
+      internalID: 7417601625306280382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_51
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 2365
+        width: 542
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e70e4f07f8f46130800000000000000
+      internalID: 3559243345526917093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_52
+      rect:
+        serializedVersion: 2
+        x: 7898
+        y: 2367
+        width: 542
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a2083ee9e7e0140800000000000000
+      internalID: 4687823483026024987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_53
+      rect:
+        serializedVersion: 2
+        x: 9820
+        y: 2369
+        width: 540
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5ef2675c9e5370800000000000000
+      internalID: 8313253861309438908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_54
+      rect:
+        serializedVersion: 2
+        x: 11740
+        y: 2373
+        width: 542
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f660c1dd65223a0800000000000000
+      internalID: -6691690588661190777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_55
+      rect:
+        serializedVersion: 2
+        x: 13655
+        y: 2375
+        width: 549
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623af3c072a8027b0800000000000000
+      internalID: -5251045265200143578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1295
+        width: 557
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75c5977d7921f280800000000000000
+      internalID: -9011375760537696897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_57
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1295
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224f477089bc8e40800000000000000
+      internalID: 5660102793106506281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_58
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 1295
+        width: 570
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db6df2d40c0a700800000000000000
+      internalID: 549650592286817544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_59
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 1297
+        width: 574
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5312b1e2ce58d3150800000000000000
+      internalID: 5853982340083818805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_60
+      rect:
+        serializedVersion: 2
+        x: 7883
+        y: 1297
+        width: 582
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21964645ea8ae3c30800000000000000
+      internalID: 4341092557525379346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_61
+      rect:
+        serializedVersion: 2
+        x: 9803
+        y: 1295
+        width: 585
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86367a131d0b9670800000000000000
+      internalID: 8546439093565142667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_62
+      rect:
+        serializedVersion: 2
+        x: 11722
+        y: 1295
+        width: 590
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df27f5593b97370800000000000000
+      internalID: 8320879240676572542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_63
+      rect:
+        serializedVersion: 2
+        x: 13642
+        y: 1293
+        width: 593
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ea177a8a5e0b10800000000000000
+      internalID: 1949595239448240191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bond Die_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 213
+        width: 596
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc5309619b5a5c00800000000000000
+      internalID: 890124556449307871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
