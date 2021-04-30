@@ -13,6 +13,8 @@ TagManager:
   - Kill
   - Forward
   - Back
+  - Hurt
+  - Bullet
   layers:
   - Default
   - TransparentFX

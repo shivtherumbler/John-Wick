@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Parking Lot.unity
+    path: Assets/Scenes/Main Scene.unity
     guid: 2ef0d1393af3d15439a5fff6e6e9f085
   - enabled: 1
     path: Assets/Scenes/Parking Lot 2.unity

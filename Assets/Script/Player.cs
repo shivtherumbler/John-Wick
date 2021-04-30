@@ -10,8 +10,13 @@ public class Player : MonoBehaviour
     //public float Jumpspeed = 4.0f;
     public GameObject Spawn;
     public GameObject Gun;
-    public float currentYPosition;
-
+    public float CurrentYPosition;
+    bool canShoot;
+    public GameObject Projectile;
+    public Transform Shooting;
+    public float Velocity;
+    public float Time = 1f;
+    float Timer;
 
     private Rigidbody2D rigidBody2D;
     private BoxCollider2D collision2D;
@@ -27,7 +32,7 @@ public class Player : MonoBehaviour
         collision2D = GetComponent<BoxCollider2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-        currentYPosition = transform.position.y;
+        CurrentYPosition = transform.position.y;
     }
 
     // Update is called once per frame
@@ -114,7 +119,6 @@ public class Player : MonoBehaviour
                 animator.SetBool("Rifle Walk", false);
                 animator.SetBool("Shoot", false);
 
-
                 //if (IsGrounded())
                 //{
                 //    animator.SetBool("Jump", false);
@@ -190,9 +194,9 @@ public class Player : MonoBehaviour
                     animator.SetBool("Up", false);
                     animator.SetBool("Block", false);
 
-                if (transform.position.y < currentYPosition)
+                if (transform.position.y < CurrentYPosition)
                 {
-                    currentYPosition = transform.position.y;
+                    CurrentYPosition = transform.position.y;
                     if (transform.localScale.y >= 27)
                 {
                     i = 0;
@@ -220,9 +224,9 @@ public class Player : MonoBehaviour
                 animator.SetBool("Down", false);
                 animator.SetBool("Block", false);
 
-                if (transform.position.y > currentYPosition)
+                if (transform.position.y > CurrentYPosition)
                 {
-                    currentYPosition = transform.position.y;
+                    CurrentYPosition = transform.position.y;
                     if (transform.localScale.y <= 20)
                     {
                         i = 0;
@@ -264,12 +268,21 @@ public class Player : MonoBehaviour
             if (animator.GetBool("Rifle Idle") == true)
             {
                 animator.SetBool("Shoot", true);
-                
             }
                 
             }
 
-        
+        if (!canShoot)
+        {
+            Timer -= UnityEngine.Time.deltaTime;
+
+        }
+        if (Timer <= 0)
+        {
+            canShoot = true;
+            Timer = Time;
+        }
+
     }
 
     /* private bool IsGrounded()
@@ -330,10 +343,11 @@ public class Player : MonoBehaviour
         }
         animator.SetBool("Pickup", false);
 
-        if (collision.CompareTag("Pillar"))
-        {
-            spriteRenderer.enabled = true;
-        }
+       // if (collision.CompareTag("Pillar"))
+        //{
+       //     spriteRenderer.enabled = true;
+       // }
+
     }
 
     private void OnTriggerStay2D(Collider2D collision)
@@ -341,5 +355,24 @@ public class Player : MonoBehaviour
         // if (collision.gameObject.tag == "Move")
         // isGrounded = true;
 
+    }
+
+    private void KillEnemy()
+    {
+        if (animator.GetBool("Shoot") == true)
+        {
+            if (spriteRenderer.flipX == true)
+            {
+                GameObject bullet = (GameObject)Instantiate(Projectile, Shooting.position, Quaternion.identity);
+                bullet.GetComponent<Rigidbody2D>().velocity = new Vector2(-Velocity * gameObject.transform.localScale.x, 0);
+                canShoot = false;
+            }
+            else
+            {
+                GameObject bullet = (GameObject)Instantiate(Projectile, Shooting.position, Quaternion.identity);
+                bullet.GetComponent<Rigidbody2D>().velocity = new Vector2(Velocity * gameObject.transform.localScale.x, 0);
+                canShoot = false;
+            }
+        }
     }
 }
