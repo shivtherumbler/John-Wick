@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: e6179227e59926e438e6abdcc22d76db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 795124514933324814
+    second: Enemy 2 Die_0
+  - first:
+      213: -6322575833690578181
+    second: Enemy 2 Die_1
+  - first:
+      213: -2636036184795877316
+    second: Enemy 2 Die_2
+  - first:
+      213: -5634543357919452476
+    second: Enemy 2 Die_3
+  - first:
+      213: 412470065253940980
+    second: Enemy 2 Die_4
+  - first:
+      213: -7610364293315302748
+    second: Enemy 2 Die_5
+  - first:
+      213: 5432092269633963509
+    second: Enemy 2 Die_6
+  - first:
+      213: 4202255664319652109
+    second: Enemy 2 Die_7
+  - first:
+      213: 2385278210194995357
+    second: Enemy 2 Die_8
+  - first:
+      213: -4969987475656421297
+    second: Enemy 2 Die_9
+  - first:
+      213: 8269237048988554085
+    second: Enemy 2 Die_10
+  - first:
+      213: 1912727746259649395
+    second: Enemy 2 Die_11
+  - first:
+      213: 8349730121956843717
+    second: Enemy 2 Die_12
+  - first:
+      213: 8908552840250062517
+    second: Enemy 2 Die_13
+  - first:
+      213: -1581850734261192105
+    second: Enemy 2 Die_14
+  - first:
+      213: 4480112768634293516
+    second: Enemy 2 Die_15
+  - first:
+      213: 4521150480640097803
+    second: Enemy 2 Die_16
+  - first:
+      213: -2587723200912141853
+    second: Enemy 2 Die_17
+  - first:
+      213: 1377489893091147787
+    second: Enemy 2 Die_18
+  - first:
+      213: 6748117635379305809
+    second: Enemy 2 Die_19
+  - first:
+      213: -1205337790711766474
+    second: Enemy 2 Die_20
+  - first:
+      213: -651351166324602849
+    second: Enemy 2 Die_21
+  - first:
+      213: -5169145741387633506
+    second: Enemy 2 Die_22
+  - first:
+      213: 4949311008095464774
+    second: Enemy 2 Die_23
+  - first:
+      213: -5314105793764820668
+    second: Enemy 2 Die_24
+  - first:
+      213: -5207954440203321153
+    second: Enemy 2 Die_25
+  - first:
+      213: -1584275172744951770
+    second: Enemy 2 Die_26
+  - first:
+      213: 4727241618230818972
+    second: Enemy 2 Die_27
+  - first:
+      213: -1803999688994817661
+    second: Enemy 2 Die_28
+  - first:
+      213: 6093854543593715222
+    second: Enemy 2 Die_29
+  - first:
+      213: -9122240632940170242
+    second: Enemy 2 Die_30
+  - first:
+      213: -2254442401030478231
+    second: Enemy 2 Die_31
+  - first:
+      213: 1397519284949340913
+    second: Enemy 2 Die_32
+  - first:
+      213: -6743409502601294298
+    second: Enemy 2 Die_33
+  - first:
+      213: 648880542099441734
+    second: Enemy 2 Die_34
+  - first:
+      213: 1623493432900364900
+    second: Enemy 2 Die_35
+  - first:
+      213: 751218609702797798
+    second: Enemy 2 Die_36
+  - first:
+      213: 437413705177238340
+    second: Enemy 2 Die_37
+  - first:
+      213: -6949351571408746568
+    second: Enemy 2 Die_38
+  - first:
+      213: 2313119282967616404
+    second: Enemy 2 Die_39
+  - first:
+      213: 6723457857205566436
+    second: Enemy 2 Die_40
+  - first:
+      213: -719272646476181307
+    second: Enemy 2 Die_41
+  - first:
+      213: -3024272943244005620
+    second: Enemy 2 Die_42
+  - first:
+      213: -4615126939728113208
+    second: Enemy 2 Die_43
+  - first:
+      213: -7893202451976066791
+    second: Enemy 2 Die_44
+  - first:
+      213: -1812959014537013016
+    second: Enemy 2 Die_45
+  - first:
+      213: -233185294437663282
+    second: Enemy 2 Die_46
+  - first:
+      213: 3948524591388798054
+    second: Enemy 2 Die_47
+  - first:
+      213: 9118635083241595823
+    second: Enemy 2 Die_48
+  - first:
+      213: -7798569724548787780
+    second: Enemy 2 Die_49
+  - first:
+      213: 6206567424893486190
+    second: Enemy 2 Die_50
+  - first:
+      213: 2848468903573589737
+    second: Enemy 2 Die_51
+  - first:
+      213: -4097058168232986310
+    second: Enemy 2 Die_52
+  - first:
+      213: 6958273785623194138
+    second: Enemy 2 Die_53
+  - first:
+      213: -7185584653937616754
+    second: Enemy 2 Die_54
+  - first:
+      213: -8075343175697631344
+    second: Enemy 2 Die_55
+  - first:
+      213: -8030453397356202784
+    second: Enemy 2 Die_56
+  - first:
+      213: -3869973712448203673
+    second: Enemy 2 Die_57
+  - first:
+      213: -1554274873745189855
+    second: Enemy 2 Die_58
+  - first:
+      213: -5273546041083208603
+    second: Enemy 2 Die_59
+  - first:
+      213: 6711027919715394794
+    second: Enemy 2 Die_60
+  - first:
+      213: 6326297507468558314
+    second: Enemy 2 Die_61
+  - first:
+      213: 2357408374668052222
+    second: Enemy 2 Die_62
+  - first:
+      213: -7391501107840533680
+    second: Enemy 2 Die_63
+  - first:
+      213: -2644791902537039536
+    second: Enemy 2 Die_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy 2 Die_0
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 8933
+        width: 266
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c3ec89889d80b00800000000000000
+      internalID: 795124514933324814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_1
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 8933
+        width: 265
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2676717c2b148a0800000000000000
+      internalID: -6322575833690578181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_2
+      rect:
+        serializedVersion: 2
+        x: 4664
+        y: 8933
+        width: 266
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c307a266e0bea6bd0800000000000000
+      internalID: -2636036184795877316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_3
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 8932
+        width: 268
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2aca74ba41ec1b0800000000000000
+      internalID: -5634543357919452476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_4
+      rect:
+        serializedVersion: 2
+        x: 8530
+        y: 8928
+        width: 280
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe71f7c65369b500800000000000000
+      internalID: 412470065253940980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_5
+      rect:
+        serializedVersion: 2
+        x: 10463
+        y: 8922
+        width: 310
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaef952ffd826690800000000000000
+      internalID: -7610364293315302748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_6
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 8918
+        width: 342
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58da6832ba26b40800000000000000
+      internalID: 5432092269633963509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_7
+      rect:
+        serializedVersion: 2
+        x: 14337
+        y: 8915
+        width: 358
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01652f1349615a30800000000000000
+      internalID: 4202255664319652109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_8
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 7837
+        width: 390
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98f629f4e53a1120800000000000000
+      internalID: 2385278210194995357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_9
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 7842
+        width: 403
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40db5719be070bb0800000000000000
+      internalID: -4969987475656421297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_10
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 7850
+        width: 398
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5635674a84b32c270800000000000000
+      internalID: 8269237048988554085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_11
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 7857
+        width: 378
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37307db40cf5b8a10800000000000000
+      internalID: 1912727746259649395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_12
+      rect:
+        serializedVersion: 2
+        x: 8562
+        y: 7865
+        width: 360
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ed91ae4330e370800000000000000
+      internalID: 8349730121956843717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_13
+      rect:
+        serializedVersion: 2
+        x: 10477
+        y: 7872
+        width: 343
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f6e1db9981ab70800000000000000
+      internalID: 8908552840250062517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_14
+      rect:
+        serializedVersion: 2
+        x: 12395
+        y: 7880
+        width: 322
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75abba063232c0ae0800000000000000
+      internalID: -1581850734261192105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_15
+      rect:
+        serializedVersion: 2
+        x: 14317
+        y: 7887
+        width: 294
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d832093de8c2e30800000000000000
+      internalID: 4480112768634293516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_16
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 6818
+        width: 295
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eb3a6786a5ebe30800000000000000
+      internalID: 4521150480640097803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_17
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 6830
+        width: 296
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e15898857f861cd0800000000000000
+      internalID: -2587723200912141853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_18
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 6843
+        width: 296
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00836f62c3dd1310800000000000000
+      internalID: 1377489893091147787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_19
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 6858
+        width: 293
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d155f7c3126ad50800000000000000
+      internalID: 6748117635379305809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_20
+      rect:
+        serializedVersion: 2
+        x: 8545
+        y: 6873
+        width: 291
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632654e5aa7c54fe0800000000000000
+      internalID: -1205337790711766474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_21
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 6888
+        width: 300
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f188f23b09fe5f6f0800000000000000
+      internalID: -651351166324602849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_22
+      rect:
+        serializedVersion: 2
+        x: 12335
+        y: 6903
+        width: 307
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ced54e5518348b0800000000000000
+      internalID: -5169145741387633506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_23
+      rect:
+        serializedVersion: 2
+        x: 14219
+        y: 6914
+        width: 323
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64de578a32c7fa440800000000000000
+      internalID: 4949311008095464774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_24
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 5843
+        width: 332
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4497dc79fe08046b0800000000000000
+      internalID: -5314105793764820668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_25
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5845
+        width: 352
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb043419701a9b7b0800000000000000
+      internalID: -5207954440203321153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_26
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 5832
+        width: 356
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628011ecf16830ae0800000000000000
+      internalID: -1584275172744951770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_27
+      rect:
+        serializedVersion: 2
+        x: 6404
+        y: 5825
+        width: 353
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98371ea4398a9140800000000000000
+      internalID: 4727241618230818972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_28
+      rect:
+        serializedVersion: 2
+        x: 8292
+        y: 5813
+        width: 360
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3897c8247d7e6f6e0800000000000000
+      internalID: -1803999688994817661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_29
+      rect:
+        serializedVersion: 2
+        x: 10177
+        y: 5785
+        width: 375
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616bdc7bb68b19450800000000000000
+      internalID: 6093854543593715222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_30
+      rect:
+        serializedVersion: 2
+        x: 12065
+        y: 5748
+        width: 386
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef377fdd97a476180800000000000000
+      internalID: -9122240632940170242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_31
+      rect:
+        serializedVersion: 2
+        x: 13958
+        y: 5705
+        width: 394
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966efffa49c96b0e0800000000000000
+      internalID: -2254442401030478231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4580
+        width: 407
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d922a26cf46310800000000000000
+      internalID: 1397519284949340913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_33
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 4533
+        width: 425
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec47619c89a62a0800000000000000
+      internalID: -6743409502601294298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_34
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 4482
+        width: 445
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64800854a69410900800000000000000
+      internalID: 648880542099441734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_35
+      rect:
+        serializedVersion: 2
+        x: 6226
+        y: 4435
+        width: 466
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa433fcaec78610800000000000000
+      internalID: 1623493432900364900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_36
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 4403
+        width: 497
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e18ffb685ddc6a00800000000000000
+      internalID: 751218609702797798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_37
+      rect:
+        serializedVersion: 2
+        x: 10015
+        y: 4383
+        width: 518
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0af48271021600800000000000000
+      internalID: 437413705177238340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_38
+      rect:
+        serializedVersion: 2
+        x: 11915
+        y: 4375
+        width: 532
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b701e6a091fe8f90800000000000000
+      internalID: -6949351571408746568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_39
+      rect:
+        serializedVersion: 2
+        x: 13822
+        y: 4373
+        width: 543
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b14608bb9d91020800000000000000
+      internalID: 2313119282967616404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3265
+        width: 547
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebfb097c458e4d50800000000000000
+      internalID: 6723457857205566436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_41
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3248
+        width: 540
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d122c651a406f0800000000000000
+      internalID: -719272646476181307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_42
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 3248
+        width: 531
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fad1a08cf9706d0800000000000000
+      internalID: -3024272943244005620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_43
+      rect:
+        serializedVersion: 2
+        x: 6143
+        y: 3262
+        width: 527
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19b241086c3ffb0800000000000000
+      internalID: -4615126939728113208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_44
+      rect:
+        serializedVersion: 2
+        x: 8060
+        y: 3277
+        width: 525
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91969bd9036b57290800000000000000
+      internalID: -7893202451976066791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_45
+      rect:
+        serializedVersion: 2
+        x: 9970
+        y: 3293
+        width: 527
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8dd2ab16317d6e0800000000000000
+      internalID: -1812959014537013016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_46
+      rect:
+        serializedVersion: 2
+        x: 11881
+        y: 3312
+        width: 531
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdb23ec53f83ccf0800000000000000
+      internalID: -233185294437663282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_47
+      rect:
+        serializedVersion: 2
+        x: 13793
+        y: 3327
+        width: 535
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66caf98123afbc630800000000000000
+      internalID: 3948524591388798054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2253
+        width: 534
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a70dab46eb8e70800000000000000
+      internalID: 9118635083241595823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_49
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 2249
+        width: 534
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15724772ae5c390800000000000000
+      internalID: -7798569724548787780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_50
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 2245
+        width: 533
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64894b6038222650800000000000000
+      internalID: 6206567424893486190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_51
+      rect:
+        serializedVersion: 2
+        x: 6115
+        y: 2245
+        width: 535
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee004f306bc78720800000000000000
+      internalID: 2848468903573589737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_52
+      rect:
+        serializedVersion: 2
+        x: 8033
+        y: 2250
+        width: 537
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a393c5a9d435427c0800000000000000
+      internalID: -4097058168232986310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_53
+      rect:
+        serializedVersion: 2
+        x: 9952
+        y: 2253
+        width: 540
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aabf93421c09060800000000000000
+      internalID: 6958273785623194138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_54
+      rect:
+        serializedVersion: 2
+        x: 11872
+        y: 2253
+        width: 540
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88dc8ef3dca74c90800000000000000
+      internalID: -7185584653937616754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_55
+      rect:
+        serializedVersion: 2
+        x: 13792
+        y: 2251
+        width: 541
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097fa2daa2e9eef80800000000000000
+      internalID: -8075343175697631344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1169
+        width: 540
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e43149ae291e8090800000000000000
+      internalID: -8030453397356202784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_57
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 1169
+        width: 540
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764dc6b99671b4ac0800000000000000
+      internalID: -3869973712448203673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_58
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 1169
+        width: 542
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245a1bbc3b1e6ae0800000000000000
+      internalID: -1554274873745189855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_59
+      rect:
+        serializedVersion: 2
+        x: 6113
+        y: 1169
+        width: 542
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c519ae0d990d6b0800000000000000
+      internalID: -5273546041083208603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_60
+      rect:
+        serializedVersion: 2
+        x: 8033
+        y: 1169
+        width: 540
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae46d50265c522d50800000000000000
+      internalID: 6711027919715394794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_61
+      rect:
+        serializedVersion: 2
+        x: 9953
+        y: 1169
+        width: 540
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef3a1c90168bc750800000000000000
+      internalID: 6326297507468558314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_62
+      rect:
+        serializedVersion: 2
+        x: 11873
+        y: 1169
+        width: 540
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ce9a3d6237b020800000000000000
+      internalID: 2357408374668052222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_63
+      rect:
+        serializedVersion: 2
+        x: 13793
+        y: 1171
+        width: 540
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b324e77ec1c6990800000000000000
+      internalID: -7391501107840533680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Die_64
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 91
+        width: 540
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051437007cfcb4bd0800000000000000
+      internalID: -2644791902537039536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

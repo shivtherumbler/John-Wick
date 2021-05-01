@@ -24,12 +24,69 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4150704501615105040}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.57, y: 2.4, z: 0}
+  m_LocalPosition: {x: 1.15, y: 2.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5902187584374751901}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4665563135480756226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1428634974519296793}
+  - component: {fileID: 1346327967032363160}
+  m_Layer: 0
+  m_Name: Block
+  m_TagString: Shield
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1428634974519296793
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4665563135480756226}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5902187584374751901}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1346327967032363160
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4665563135480756226}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 1.54}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.73, y: 4.51}
+  m_EdgeRadius: 0
 --- !u!1 &5902187583548062204
 GameObject:
   m_ObjectHideFlags: 0
@@ -91,6 +148,7 @@ GameObject:
   - component: {fileID: 5902187584374751896}
   - component: {fileID: 5902187584374751899}
   - component: {fileID: 5902187584374751898}
+  - component: {fileID: 2796517947532826326}
   m_Layer: 0
   m_Name: John Wick
   m_TagString: Player
@@ -112,6 +170,7 @@ Transform:
   - {fileID: 5902187584659150826}
   - {fileID: 5902187583548062205}
   - {fileID: 6415167045689773155}
+  - {fileID: 1428634974519296793}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -154,7 +213,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 8793639957104055765, guid: f3302ce6a17c3574bb62f8f1e4a41962,
+  m_Sprite: {fileID: -970006080489280307, guid: 6786c4dba31b7d14abf7c7ac5d6d5d6c,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -219,11 +278,11 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 1.22}
+  m_Offset: {x: 0, y: 1.18}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.3, y: 6.140444}
+    oldSize: {x: 2.7899997, y: 6.140444}
     newSize: {x: 3.3, y: 6.140444}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -247,14 +306,28 @@ MonoBehaviour:
   Speed: 4
   Spawn: {fileID: 0}
   Gun: {fileID: 0}
+  Briefcase: {fileID: 0}
   CurrentYPosition: 0
   Projectile: {fileID: 1458818127621929951, guid: d0c2234f5036c6a4cb9c82835773c243,
     type: 3}
   Shooting: {fileID: 6415167045689773155}
   Velocity: 2
   Time: 0
+--- !u!114 &2796517947532826326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5902187584374751902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3c84994a89662a4a8547be145403dae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   FlashActive: 0
   FlashLength: 0.2
+  Damage: {fileID: 0}
 --- !u!1 &5902187584659150829
 GameObject:
   m_ObjectHideFlags: 0
@@ -281,7 +354,7 @@ Transform:
   m_GameObject: {fileID: 5902187584659150829}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.11, y: 0.04, z: 0}
-  m_LocalScale: {x: 8, y: 0.36, z: 1}
+  m_LocalScale: {x: 10, y: 0.36, z: 1}
   m_Children: []
   m_Father: {fileID: 5902187584374751901}
   m_RootOrder: 0

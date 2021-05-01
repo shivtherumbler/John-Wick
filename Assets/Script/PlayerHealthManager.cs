@@ -10,6 +10,7 @@ public class PlayerHealthManager : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private int life;
     private Animator animator;
+    public GameObject Damage;
 
     // Start is called before the first frame update
     void Start()
@@ -55,22 +56,38 @@ public class PlayerHealthManager : MonoBehaviour
         if (other.tag == "Hurt")
         {
             int anime = 0;
-            life--;
 
-            FlashActive = true;
-            flashCounter = FlashLength;
-
-            if (anime == 0)
+            if (animator.GetBool("Block")==true)
             {
-                if (life <= 0)
-                {
-                    animator.SetBool("Die", true);
-                    Destroy(this.gameObject, 5);
-                    anime++;
-                }
-
+               
+                    life++;
+                
             }
 
+            else if (animator.GetBool("Block")==false)
+            {
+                life--;
+                Damage.GetComponent<SpriteRenderer>().enabled = true;
+
+                FlashActive = true;
+                flashCounter = FlashLength;
+
+                if (anime == 0)
+                {
+                    if (life <= 0)
+                    {
+                        animator.SetBool("Die", true);
+                        Destroy(this.gameObject, 5);
+                        anime++;
+                    }
+
+                }
+            }
+
+        }
+        else
+        {
+            Damage.GetComponent<SpriteRenderer>().enabled = false;
         }
     }
     private void OnTriggerExit2D(Collider2D collision)

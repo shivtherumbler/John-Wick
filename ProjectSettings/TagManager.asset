@@ -15,6 +15,8 @@ TagManager:
   - Back
   - Hurt
   - Bullet
+  - Shield
+  - Briefcase
   layers:
   - Default
   - TransparentFX

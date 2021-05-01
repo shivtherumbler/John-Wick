@@ -12,5 +12,21 @@ public class EnemyShoot : MonoBehaviour
 			Destroy(this.gameObject,0.05f);
 		}
 
+		if (other.gameObject.tag == "Shield")
+		{
+
+			Destroy(this.gameObject, 0.05f);
+		}
+
+		if (other.gameObject.tag == "Base")
+		{
+			Destroy(this.gameObject);
+		}
+
+		if (other.gameObject.tag == "Forward")
+		{
+			Destroy(this.gameObject);
+		}
+
 	}
 }

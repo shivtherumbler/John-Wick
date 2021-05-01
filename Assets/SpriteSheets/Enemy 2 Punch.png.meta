@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 134b99feb5c13ca4a9c9c9e79720c238
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3114522058965649128
+    second: Enemy 2 Punch_0
+  - first:
+      213: 7128560426764636283
+    second: Enemy 2 Punch_1
+  - first:
+      213: -6626316542683177068
+    second: Enemy 2 Punch_2
+  - first:
+      213: -3907223021691667550
+    second: Enemy 2 Punch_3
+  - first:
+      213: -861829769204062034
+    second: Enemy 2 Punch_4
+  - first:
+      213: -2484496516613153936
+    second: Enemy 2 Punch_5
+  - first:
+      213: -8334897437360817226
+    second: Enemy 2 Punch_6
+  - first:
+      213: -829607333995110805
+    second: Enemy 2 Punch_7
+  - first:
+      213: -4505292800305816046
+    second: Enemy 2 Punch_8
+  - first:
+      213: -8616088968089532567
+    second: Enemy 2 Punch_9
+  - first:
+      213: -6117151250656917661
+    second: Enemy 2 Punch_10
+  - first:
+      213: 9120178938860088869
+    second: Enemy 2 Punch_11
+  - first:
+      213: -6207457374177146310
+    second: Enemy 2 Punch_12
+  - first:
+      213: 6473115706295426205
+    second: Enemy 2 Punch_13
+  - first:
+      213: 8393877182884527122
+    second: Enemy 2 Punch_14
+  - first:
+      213: -3444354768024375618
+    second: Enemy 2 Punch_15
+  - first:
+      213: 3520497335629859186
+    second: Enemy 2 Punch_16
+  - first:
+      213: 2607395863253954100
+    second: Enemy 2 Punch_17
+  - first:
+      213: -2282793451778403894
+    second: Enemy 2 Punch_18
+  - first:
+      213: -8844763043732851479
+    second: Enemy 2 Punch_19
+  - first:
+      213: 2538595646615872
+    second: Enemy 2 Punch_20
+  - first:
+      213: 4084385002917024440
+    second: Enemy 2 Punch_21
+  - first:
+      213: 4427236253706573247
+    second: Enemy 2 Punch_22
+  - first:
+      213: 8405606317727472235
+    second: Enemy 2 Punch_23
+  - first:
+      213: -7590470265728370576
+    second: Enemy 2 Punch_24
+  - first:
+      213: -5708929846977947676
+    second: Enemy 2 Punch_25
+  - first:
+      213: -7358892839434371711
+    second: Enemy 2 Punch_26
+  - first:
+      213: -6796742025700091227
+    second: Enemy 2 Punch_27
+  - first:
+      213: -2257706551380643489
+    second: Enemy 2 Punch_28
+  - first:
+      213: -2308495370445431120
+    second: Enemy 2 Punch_29
+  - first:
+      213: 2709984977393893086
+    second: Enemy 2 Punch_30
+  - first:
+      213: -1924452257171203760
+    second: Enemy 2 Punch_31
+  - first:
+      213: 7686945140461570929
+    second: Enemy 2 Punch_32
+  - first:
+      213: -2431713344607672291
+    second: Enemy 2 Punch_33
+  - first:
+      213: -8604206631264669993
+    second: Enemy 2 Punch_34
+  - first:
+      213: 358866746326737036
+    second: Enemy 2 Punch_35
+  - first:
+      213: -1242607679313329228
+    second: Enemy 2 Punch_36
+  - first:
+      213: -8769643945655762666
+    second: Enemy 2 Punch_37
+  - first:
+      213: 9089889854141743432
+    second: Enemy 2 Punch_38
+  - first:
+      213: -3521044374939295751
+    second: Enemy 2 Punch_39
+  - first:
+      213: -7058866553728962092
+    second: Enemy 2 Punch_40
+  - first:
+      213: 3820790011105937902
+    second: Enemy 2 Punch_41
+  - first:
+      213: -3032062196429266999
+    second: Enemy 2 Punch_42
+  - first:
+      213: 6977130839829308713
+    second: Enemy 2 Punch_43
+  - first:
+      213: 3589445274960992926
+    second: Enemy 2 Punch_44
+  - first:
+      213: -6639638951723457454
+    second: Enemy 2 Punch_45
+  - first:
+      213: 5394826745999969953
+    second: Enemy 2 Punch_46
+  - first:
+      213: 728513700674490832
+    second: Enemy 2 Punch_47
+  - first:
+      213: -3316871660296037230
+    second: Enemy 2 Punch_48
+  - first:
+      213: -7081420532380237734
+    second: Enemy 2 Punch_49
+  - first:
+      213: 5590782152529398671
+    second: Enemy 2 Punch_50
+  - first:
+      213: 1904704677690319534
+    second: Enemy 2 Punch_51
+  - first:
+      213: 5075965130962248802
+    second: Enemy 2 Punch_52
+  - first:
+      213: -1432613402723424335
+    second: Enemy 2 Punch_53
+  - first:
+      213: 1757343310475585373
+    second: Enemy 2 Punch_54
+  - first:
+      213: 6109150123007346248
+    second: Enemy 2 Punch_55
+  - first:
+      213: -7543774615338024140
+    second: Enemy 2 Punch_56
+  - first:
+      213: -302511675039315378
+    second: Enemy 2 Punch_57
+  - first:
+      213: -6451300447204915054
+    second: Enemy 2 Punch_58
+  - first:
+      213: -6602399024691717997
+    second: Enemy 2 Punch_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy 2 Punch_0
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 8892
+        width: 304
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819fb3650bef6c4d0800000000000000
+      internalID: -3114522058965649128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_1
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 8894
+        width: 305
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70963d70fbbde260800000000000000
+      internalID: 7128560426764636283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_2
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 8896
+        width: 307
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f131056389a04a0800000000000000
+      internalID: -6626316542683177068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_3
+      rect:
+        serializedVersion: 2
+        x: 6549
+        y: 8897
+        width: 306
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abf6d5fc51c6c9c0800000000000000
+      internalID: -3907223021691667550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_4
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 8899
+        width: 307
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea82cbd146a2a04f0800000000000000
+      internalID: -861829769204062034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_5
+      rect:
+        serializedVersion: 2
+        x: 10371
+        y: 8899
+        width: 309
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd391e49b458dd0800000000000000
+      internalID: -2484496516613153936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_6
+      rect:
+        serializedVersion: 2
+        x: 12284
+        y: 8899
+        width: 314
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb7bced0fe745c80800000000000000
+      internalID: -8334897437360817226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 7816
+        width: 326
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e99227684ac74f0800000000000000
+      internalID: -829607333995110805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_8
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 7816
+        width: 347
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e95a4711cf971c0800000000000000
+      internalID: -4505292800305816046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_9
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 7816
+        width: 376
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9678cd7cbb08d6880800000000000000
+      internalID: -8616088968089532567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_10
+      rect:
+        serializedVersion: 2
+        x: 6514
+        y: 7819
+        width: 413
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367024bf8538b1ba0800000000000000
+      internalID: -6117151250656917661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_11
+      rect:
+        serializedVersion: 2
+        x: 8437
+        y: 7823
+        width: 446
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e21c29c62619e70800000000000000
+      internalID: 9120178938860088869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_12
+      rect:
+        serializedVersion: 2
+        x: 10359
+        y: 7826
+        width: 467
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3acacd186eaad9a0800000000000000
+      internalID: -6207457374177146310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_13
+      rect:
+        serializedVersion: 2
+        x: 12279
+        y: 7828
+        width: 466
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c9db7507025d950800000000000000
+      internalID: 6473115706295426205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_14
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 6748
+        width: 446
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cb61e33da0d7470800000000000000
+      internalID: 8393877182884527122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_15
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 6747
+        width: 418
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeeb7366913330d0800000000000000
+      internalID: -3444354768024375618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_16
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 6744
+        width: 392
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2794de2aca15bd030800000000000000
+      internalID: 3520497335629859186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_17
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 6742
+        width: 422
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e231a19b45f2420800000000000000
+      internalID: 2607395863253954100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_18
+      rect:
+        serializedVersion: 2
+        x: 8449
+        y: 6738
+        width: 469
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1192b4373e150e0800000000000000
+      internalID: -2282793451778403894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_19
+      rect:
+        serializedVersion: 2
+        x: 10375
+        y: 6737
+        width: 495
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4fccf8fd6114580800000000000000
+      internalID: -8844763043732851479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_20
+      rect:
+        serializedVersion: 2
+        x: 12299
+        y: 6735
+        width: 499
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041bebbd6d4090000800000000000000
+      internalID: 2538595646615872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_21
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 5655
+        width: 480
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b25dc82586aea830800000000000000
+      internalID: 4084385002917024440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_22
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 5656
+        width: 447
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb559ee8ae3b07d30800000000000000
+      internalID: 4427236253706573247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_23
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 5656
+        width: 410
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6adce14966b6a470800000000000000
+      internalID: 8405606317727472235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_24
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 5656
+        width: 379
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0787815628b39a690800000000000000
+      internalID: -7590470265728370576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_25
+      rect:
+        serializedVersion: 2
+        x: 8463
+        y: 5657
+        width: 376
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e711472d8ec5c0b0800000000000000
+      internalID: -5708929846977947676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_26
+      rect:
+        serializedVersion: 2
+        x: 10383
+        y: 5659
+        width: 379
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d395d93f5ffd990800000000000000
+      internalID: -7358892839434371711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_27
+      rect:
+        serializedVersion: 2
+        x: 12302
+        y: 5662
+        width: 378
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa5d28632f1da1a0800000000000000
+      internalID: -6796742025700091227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_28
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 4583
+        width: 374
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5172e57ad30ba0e0800000000000000
+      internalID: -2257706551380643489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_29
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 4584
+        width: 366
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be57f601b396ffd0800000000000000
+      internalID: -2308495370445431120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_30
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 4584
+        width: 359
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede35349afccb9520800000000000000
+      internalID: 2709984977393893086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_31
+      rect:
+        serializedVersion: 2
+        x: 6549
+        y: 4584
+        width: 349
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0599c184ed8fa45e0800000000000000
+      internalID: -1924452257171203760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_32
+      rect:
+        serializedVersion: 2
+        x: 8472
+        y: 4583
+        width: 344
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b8029c0e38daa60800000000000000
+      internalID: 7686945140461570929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_33
+      rect:
+        serializedVersion: 2
+        x: 10396
+        y: 4583
+        width: 343
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18251bc891d04ed0800000000000000
+      internalID: -2431713344607672291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_34
+      rect:
+        serializedVersion: 2
+        x: 12320
+        y: 4581
+        width: 338
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dea869e7a7b79880800000000000000
+      internalID: -8604206631264669993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_35
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3498
+        width: 331
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8061888763faf400800000000000000
+      internalID: 358866746326737036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_36
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 3495
+        width: 318
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b34b5736ee51cee0800000000000000
+      internalID: -1242607679313329228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_37
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 3492
+        width: 315
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61188848b47fb4680800000000000000
+      internalID: -8769643945655762666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_38
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 3487
+        width: 315
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cb8b79a6c52e70800000000000000
+      internalID: 9089889854141743432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_39
+      rect:
+        serializedVersion: 2
+        x: 8504
+        y: 3485
+        width: 317
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1b59dbccb22fc0800000000000000
+      internalID: -3521044374939295751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_40
+      rect:
+        serializedVersion: 2
+        x: 10426
+        y: 3480
+        width: 319
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17914d44ed90e90800000000000000
+      internalID: -7058866553728962092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_41
+      rect:
+        serializedVersion: 2
+        x: 12347
+        y: 3479
+        width: 321
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9845d854c260530800000000000000
+      internalID: 3820790011105937902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_42
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2399
+        width: 322
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf51f43f73fbe5d0800000000000000
+      internalID: -3032062196429266999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_43
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2403
+        width: 323
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925e27b488fb3d060800000000000000
+      internalID: 6977130839829308713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_44
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 2407
+        width: 327
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a11cab57540d130800000000000000
+      internalID: 3589445274960992926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_45
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 2410
+        width: 329
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2542dad3d834bd3a0800000000000000
+      internalID: -6639638951723457454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_46
+      rect:
+        serializedVersion: 2
+        x: 8481
+        y: 2412
+        width: 328
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeca1ca7564eda40800000000000000
+      internalID: 5394826745999969953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_47
+      rect:
+        serializedVersion: 2
+        x: 10399
+        y: 2411
+        width: 323
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d155b6d9533c1a00800000000000000
+      internalID: 728513700674490832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_48
+      rect:
+        serializedVersion: 2
+        x: 12319
+        y: 2411
+        width: 316
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c9e7a6cca18f1d0800000000000000
+      internalID: -3316871660296037230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_49
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1330
+        width: 309
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5081567b8db9bd90800000000000000
+      internalID: -7081420532380237734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_50
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1328
+        width: 305
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bcb1a1fb2769d40800000000000000
+      internalID: 5590782152529398671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_51
+      rect:
+        serializedVersion: 2
+        x: 4647
+        y: 1326
+        width: 302
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2a1c310dede6a10800000000000000
+      internalID: 1904704677690319534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_52
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 1325
+        width: 300
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264264b9463717640800000000000000
+      internalID: 5075965130962248802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_53
+      rect:
+        serializedVersion: 2
+        x: 8493
+        y: 1325
+        width: 298
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7e43653b55e1ce0800000000000000
+      internalID: -1432613402723424335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_54
+      rect:
+        serializedVersion: 2
+        x: 10414
+        y: 1325
+        width: 297
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d576e491e66536810800000000000000
+      internalID: 1757343310475585373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_55
+      rect:
+        serializedVersion: 2
+        x: 12335
+        y: 1326
+        width: 296
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84603615baf08c450800000000000000
+      internalID: 6109150123007346248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_56
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 249
+        width: 297
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4330b2bb4f02f4790800000000000000
+      internalID: -7543774615338024140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_57
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 250
+        width: 298
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a8fdcfb334dcbf0800000000000000
+      internalID: -302511675039315378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_58
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 252
+        width: 300
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29848097c606876a0800000000000000
+      internalID: -6451300447204915054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Punch_59
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 252
+        width: 301
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985ddb61119f54a0800000000000000
+      internalID: -6602399024691717997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

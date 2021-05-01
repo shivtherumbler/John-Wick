@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 7431762157c0220419333f09a22a8238
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1082233802475195546
+    second: pickup briefcase 2_0
+  - first:
+      213: 5442903743603403001
+    second: pickup briefcase 2_1
+  - first:
+      213: 711998804587883691
+    second: pickup briefcase 2_2
+  - first:
+      213: 3875484452206003685
+    second: pickup briefcase 2_3
+  - first:
+      213: -7515332101325830693
+    second: pickup briefcase 2_4
+  - first:
+      213: -8771239548768450906
+    second: pickup briefcase 2_5
+  - first:
+      213: 8479999850985715407
+    second: pickup briefcase 2_6
+  - first:
+      213: 3399057216407937141
+    second: pickup briefcase 2_7
+  - first:
+      213: 5254765209101535252
+    second: pickup briefcase 2_8
+  - first:
+      213: -5242504719827304842
+    second: pickup briefcase 2_9
+  - first:
+      213: -4617757520308390447
+    second: pickup briefcase 2_10
+  - first:
+      213: -560802212249809136
+    second: pickup briefcase 2_11
+  - first:
+      213: 2239789830028378850
+    second: pickup briefcase 2_12
+  - first:
+      213: 6725116848610346622
+    second: pickup briefcase 2_13
+  - first:
+      213: 1601740291254812668
+    second: pickup briefcase 2_14
+  - first:
+      213: 615986856387904935
+    second: pickup briefcase 2_15
+  - first:
+      213: 304949716004514746
+    second: pickup briefcase 2_16
+  - first:
+      213: 6765577566124834109
+    second: pickup briefcase 2_17
+  - first:
+      213: -8938878882573683092
+    second: pickup briefcase 2_18
+  - first:
+      213: -6141693763219755652
+    second: pickup briefcase 2_19
+  - first:
+      213: -8566405925392738384
+    second: pickup briefcase 2_20
+  - first:
+      213: -7474485188920041986
+    second: pickup briefcase 2_21
+  - first:
+      213: 429219889692719344
+    second: pickup briefcase 2_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pickup briefcase 2_0
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 3445
+        width: 170
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663bb8f27122bf0f0800000000000000
+      internalID: -1082233802475195546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_1
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 3445
+        width: 169
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ef18fd14198b40800000000000000
+      internalID: 5442903743603403001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_2
+      rect:
+        serializedVersion: 2
+        x: 4719
+        y: 3445
+        width: 168
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca6f3f32781e900800000000000000
+      internalID: 711998804587883691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_3
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 3445
+        width: 168
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5c94a739c78c530800000000000000
+      internalID: 3875484452206003685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_4
+      rect:
+        serializedVersion: 2
+        x: 8560
+        y: 3445
+        width: 168
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd54263954d24b790800000000000000
+      internalID: -7515332101325830693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_5
+      rect:
+        serializedVersion: 2
+        x: 10481
+        y: 3445
+        width: 166
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a68cc73a1c464680800000000000000
+      internalID: -8771239548768450906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_6
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2365
+        width: 167
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc67e5d7fe20fa570800000000000000
+      internalID: 8479999850985715407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_7
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 2365
+        width: 165
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57029338780eb2f20800000000000000
+      internalID: 3399057216407937141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_8
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 2365
+        width: 167
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4180492ed1dace840800000000000000
+      internalID: 5254765209101535252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_9
+      rect:
+        serializedVersion: 2
+        x: 6635
+        y: 2365
+        width: 173
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7269bbb1ee37b0800000000000000
+      internalID: -5242504719827304842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_10
+      rect:
+        serializedVersion: 2
+        x: 8549
+        y: 2362
+        width: 176
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5312f400e6aefb0800000000000000
+      internalID: -4617757520308390447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_11
+      rect:
+        serializedVersion: 2
+        x: 10466
+        y: 2362
+        width: 176
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fc895fb51a738f0800000000000000
+      internalID: -560802212249809136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_12
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1282
+        width: 172
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2cf56cbf4551f10800000000000000
+      internalID: 2239789830028378850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_13
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1283
+        width: 187
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e760a62842a645d50800000000000000
+      internalID: 6725116848610346622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_14
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 1280
+        width: 207
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff7caafe468a3610800000000000000
+      internalID: 1601740291254812668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_15
+      rect:
+        serializedVersion: 2
+        x: 6641
+        y: 1275
+        width: 225
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58f4148cc6c8800800000000000000
+      internalID: 615986856387904935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_16
+      rect:
+        serializedVersion: 2
+        x: 8563
+        y: 1271
+        width: 244
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2ec8a6266b3400800000000000000
+      internalID: 304949716004514746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_17
+      rect:
+        serializedVersion: 2
+        x: 10483
+        y: 1271
+        width: 264
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df83963f824ed50800000000000000
+      internalID: 6765577566124834109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_18
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 191
+        width: 288
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6674f93409b2f380800000000000000
+      internalID: -8938878882573683092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_19
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 191
+        width: 305
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ded0cff0254caa0800000000000000
+      internalID: -6141693763219755652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_20
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 191
+        width: 326
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b71a2792330e1980800000000000000
+      internalID: -8566405925392738384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_21
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 191
+        width: 348
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd908b725b454890800000000000000
+      internalID: -7474485188920041986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickup briefcase 2_22
+      rect:
+        serializedVersion: 2
+        x: 8496
+        y: 191
+        width: 360
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8baaf2735e4f500800000000000000
+      internalID: 429219889692719344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     //public float Jumpspeed = 4.0f;
     public GameObject Spawn;
     public GameObject Gun;
+    public GameObject Briefcase;
     public float CurrentYPosition;
     bool canShoot;
     public GameObject Projectile;
@@ -68,16 +69,30 @@ public class Player : MonoBehaviour
                     animator.SetBool("Block", false);
                     animator.SetBool("Up", false);
                     animator.SetBool("Down", false);
+                    animator.SetBool("Idle", false);
 
                     if (animator.GetBool("Rifle Idle") == true)
                     {
                         animator.SetBool("Walk", false);
                         animator.SetBool("Rifle Walk", true);
                         animator.SetBool("Shoot", false);
+                        animator.SetBool("Idle", false);
+                        animator.SetBool("Briefcase Idle", false);
+                        animator.SetBool("Pickup Gun", false);
 
                 }
 
+                if (animator.GetBool("Briefcase Idle") == true)
+                {
+                    animator.SetBool("Walk", false);
+                    animator.SetBool("Briefcase Walk", true);
+                    animator.SetBool("Shoot", false);
+                    animator.SetBool("Idle", false);
+                    animator.SetBool("Pickup Briefcase", false);
+
                 }
+
+            }
             }
 
             else if (h > 0)
@@ -94,20 +109,34 @@ public class Player : MonoBehaviour
                     animator.SetBool("Block", false);
                     animator.SetBool("Up", false);
                     animator.SetBool("Down", false);
+                    animator.SetBool("Idle", false);
 
-                    if (animator.GetBool("Rifle Idle") == true)
+                if (animator.GetBool("Rifle Idle") == true)
                     {
                         animator.SetBool("Walk", false);
                         animator.SetBool("Rifle Walk", true);
                         animator.SetBool("Shoot", false);
+                        animator.SetBool("Idle", false);
+                        animator.SetBool("Briefcase Idle", false);
+                        animator.SetBool("Pickup Gun", false);
+
+                    }
+
+                if (animator.GetBool("Briefcase Idle") == true)
+                {
+                    animator.SetBool("Walk", false);
+                    animator.SetBool("Briefcase Walk", true);
+                    animator.SetBool("Shoot", false);
+                    animator.SetBool("Idle", false);
+                    animator.SetBool("Pickup Briefcase", false);
 
                 }
-                }
+            }
             }
 
             else if (h == 0)
             {
-
+                animator.SetBool("Idle", true);
                 animator.SetBool("Walk", false);
                 animator.SetBool("Run", false);
                 animator.SetBool("Crouch", false);
@@ -118,6 +147,16 @@ public class Player : MonoBehaviour
                 animator.SetBool("Hit", false);
                 animator.SetBool("Rifle Walk", false);
                 animator.SetBool("Shoot", false);
+                animator.SetBool("Briefcase Walk", false);
+
+                if(animator.GetBool("Briefcase Idle")==true)
+            {
+                animator.SetBool("Idle", false) ;
+            }
+                if(animator.GetBool("Rifle Idle")==true)
+            {
+                animator.SetBool("Briefcase Walk", false);
+            }
 
                 //if (IsGrounded())
                 //{
@@ -146,8 +185,9 @@ public class Player : MonoBehaviour
                     animator.SetBool("Up", false);
                     animator.SetBool("Down", false);
                     animator.SetBool("Crouch Walk", false);
-                    //animator.SetBool("Jump", false);
-                }
+                    animator.SetBool("Briefcase Walk", false);
+                //animator.SetBool("Jump", false);
+            }
                 Speed = 6;
 
             }
@@ -162,8 +202,9 @@ public class Player : MonoBehaviour
                 {
                     animator.SetBool("Crouch", true);
                     animator.SetBool("Walk", false);
-                    //animator.SetBool("Jump", false);
-                }
+
+                //animator.SetBool("Jump", false);
+            }
 
             }
 
@@ -175,10 +216,15 @@ public class Player : MonoBehaviour
                 animator.SetBool("Walk", false);
                 animator.SetBool("Crouch", false);
 
-            if(animator.GetBool("Rifle Idle") == true)
+            if (animator.GetBool("Rifle Idle") == true)
             {
                 animator.SetBool("Rifle Walk", false);
                 
+            }
+
+            if (animator.GetBool("Briefcase Idle") == true)
+            {
+                animator.SetBool("Briefcase Walk", false);
             }
                 //animator.SetBool("Jump", false);
                 // }
@@ -254,14 +300,18 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.B) && h == 0)
             {
-                //if (IsGrounded())
-                //{
+            //if (IsGrounded())
+            //{
+            if (animator.GetBool("Idle") == false)
+            {
                 animator.SetBool("Block", true);
                 animator.SetBool("Walk", false);
-                //animator.SetBool("Jump", false);
-                // }
-
             }
+
+            //animator.SetBool("Jump", false);
+            // }
+
+        }
 
             if(Input.GetKey(KeyCode.Mouse0) && h==0)
             {
@@ -315,7 +365,22 @@ public class Player : MonoBehaviour
         if (other.tag == "Gun")
         {
 
-            animator.SetBool("Pickup", true);
+            animator.SetBool("Pickup Gun", true);
+            animator.SetBool("Down", false);
+            animator.SetBool("Walk", false);
+            animator.SetBool("Run", false);
+            animator.SetBool("Up", false);
+            animator.SetBool("Crouch", false);
+            animator.SetBool("Crouch Walk", false);
+            animator.SetBool("Hit", false);
+            animator.SetBool("Idle", false);
+            animator.SetBool("Briefcase Idle", false);
+
+        }
+        if (other.tag == "Briefcase")
+        {
+
+            animator.SetBool("Pickup Briefcase", true);
             animator.SetBool("Down", false);
             animator.SetBool("Walk", false);
             animator.SetBool("Run", false);
@@ -325,8 +390,8 @@ public class Player : MonoBehaviour
             animator.SetBool("Hit", false);
 
         }
-        
-        if(other.CompareTag("Pillar"))
+
+        if (other.CompareTag("Pillar"))
         {
             spriteRenderer.enabled = false;
         }
@@ -341,12 +406,20 @@ public class Player : MonoBehaviour
             Destroy(Gun.gameObject, 0.25f);
             animator.SetBool("Rifle Idle", true);
         }
-        animator.SetBool("Pickup", false);
+        animator.SetBool("Pickup Gun", false);
 
-       // if (collision.CompareTag("Pillar"))
+        if (collision.tag == "Briefcase")
+        {
+
+            Destroy(Briefcase.gameObject, 0.25f);
+            animator.SetBool("Briefcase Idle", true);
+        }
+        animator.SetBool("Pickup Briefcase", false);
+
+        // if (collision.CompareTag("Pillar"))
         //{
-       //     spriteRenderer.enabled = true;
-       // }
+        //     spriteRenderer.enabled = true;
+        // }
 
     }
 
@@ -354,7 +427,6 @@ public class Player : MonoBehaviour
     {
         // if (collision.gameObject.tag == "Move")
         // isGrounded = true;
-
     }
 
     private void KillEnemy()

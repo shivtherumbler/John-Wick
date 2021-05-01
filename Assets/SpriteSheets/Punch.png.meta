@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: b9cc150ab778e52488582ae961312c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4335222134116007343
+    second: Punch_0
+  - first:
+      213: -5313627634084164227
+    second: Punch_1
+  - first:
+      213: 3163940477569658373
+    second: Punch_2
+  - first:
+      213: -7795563826625877672
+    second: Punch_3
+  - first:
+      213: 6766305641077335316
+    second: Punch_4
+  - first:
+      213: 4705998927709936230
+    second: Punch_5
+  - first:
+      213: 3661561310044129345
+    second: Punch_6
+  - first:
+      213: 4201578596928508782
+    second: Punch_7
+  - first:
+      213: -2300569252389704929
+    second: Punch_8
+  - first:
+      213: 8444464096318651717
+    second: Punch_9
+  - first:
+      213: 2357218551511250113
+    second: Punch_10
+  - first:
+      213: -1856322017712000207
+    second: Punch_11
+  - first:
+      213: -7538507000224354008
+    second: Punch_12
+  - first:
+      213: 1152210910470606368
+    second: Punch_13
+  - first:
+      213: -8331209829434215940
+    second: Punch_14
+  - first:
+      213: -3231521309379023378
+    second: Punch_15
+  - first:
+      213: 2514592264970127092
+    second: Punch_16
+  - first:
+      213: -6893478809032218802
+    second: Punch_17
+  - first:
+      213: -8716907557775469950
+    second: Punch_18
+  - first:
+      213: 7927353254351252868
+    second: Punch_19
+  - first:
+      213: 1439409729946960929
+    second: Punch_20
+  - first:
+      213: 3101227976721904032
+    second: Punch_21
+  - first:
+      213: -7500586344051910152
+    second: Punch_22
+  - first:
+      213: -9204852613418475314
+    second: Punch_23
+  - first:
+      213: -3816802251124520078
+    second: Punch_24
+  - first:
+      213: 125018517354470000
+    second: Punch_25
+  - first:
+      213: -2400767356944211143
+    second: Punch_26
+  - first:
+      213: 53114835152721091
+    second: Punch_27
+  - first:
+      213: 5772671325276328361
+    second: Punch_28
+  - first:
+      213: 5675181744530666493
+    second: Punch_29
+  - first:
+      213: 7969771733746978827
+    second: Punch_30
+  - first:
+      213: 6408085476924549522
+    second: Punch_31
+  - first:
+      213: -1441330847711236485
+    second: Punch_32
+  - first:
+      213: -4487190887087081816
+    second: Punch_33
+  - first:
+      213: 431863398939278658
+    second: Punch_34
+  - first:
+      213: -5716457506712046268
+    second: Punch_35
+  - first:
+      213: 2604769793463643808
+    second: Punch_36
+  - first:
+      213: -8672135614058696629
+    second: Punch_37
+  - first:
+      213: -4184290409682976758
+    second: Punch_38
+  - first:
+      213: -8522957703719307052
+    second: Punch_39
+  - first:
+      213: -6742498613956033872
+    second: Punch_40
+  - first:
+      213: 8303986614427667485
+    second: Punch_41
+  - first:
+      213: -1524544691539364813
+    second: Punch_42
+  - first:
+      213: -1602370956379589228
+    second: Punch_43
+  - first:
+      213: 975068502559261234
+    second: Punch_44
+  - first:
+      213: -3918222204564125716
+    second: Punch_45
+  - first:
+      213: 2688527268904541228
+    second: Punch_46
+  - first:
+      213: -175204557933716431
+    second: Punch_47
+  - first:
+      213: 8956707278903321942
+    second: Punch_48
+  - first:
+      213: -4612083739906542954
+    second: Punch_49
+  - first:
+      213: -4854550018063521672
+    second: Punch_50
+  - first:
+      213: -4906998379498723690
+    second: Punch_51
+  - first:
+      213: -5870106615217079178
+    second: Punch_52
+  - first:
+      213: -2607328072844473908
+    second: Punch_53
+  - first:
+      213: -1330408511366275673
+    second: Punch_54
+  - first:
+      213: 7847210777082976914
+    second: Punch_55
+  - first:
+      213: 1048828628499762832
+    second: Punch_56
+  - first:
+      213: 8838013379372244787
+    second: Punch_57
+  - first:
+      213: 3990893142614886285
+    second: Punch_58
+  - first:
+      213: 2991289362321983147
+    second: Punch_59
+  - first:
+      213: -2766711717145979174
+    second: Punch_60
+  - first:
+      213: -1811712392649624931
+    second: Punch_61
+  - first:
+      213: -3688011466913976182
+    second: Punch_62
+  - first:
+      213: -8964930203965031353
+    second: Punch_63
+  - first:
+      213: -1915558635314523767
+    second: Punch_64
+  - first:
+      213: 3939975696129583585
+    second: Punch_65
+  - first:
+      213: 8640299739756150919
+    second: Punch_66
+  - first:
+      213: -2037302460097264398
+    second: Punch_67
+  - first:
+      213: -4293750187858412097
+    second: Punch_68
+  - first:
+      213: -6304278760092808794
+    second: Punch_69
+  - first:
+      213: 1108368636561579130
+    second: Punch_70
+  - first:
+      213: -3271350631628497211
+    second: Punch_71
+  - first:
+      213: -6079196593911059920
+    second: Punch_72
+  - first:
+      213: -287069666964768378
+    second: Punch_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punch_0
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 9920
+        width: 308
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152ca91207236d3c0800000000000000
+      internalID: -4335222134116007343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_1
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 9920
+        width: 308
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dc6b1d1d33246b0800000000000000
+      internalID: -5313627634084164227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_2
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 9920
+        width: 308
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ee400e91398eb20800000000000000
+      internalID: 3163940477569658373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_3
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 9920
+        width: 308
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859641a900890d390800000000000000
+      internalID: -7795563826625877672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_4
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 9920
+        width: 308
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e222912fb6ed50800000000000000
+      internalID: 6766305641077335316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_5
+      rect:
+        serializedVersion: 2
+        x: 10420
+        y: 9920
+        width: 308
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a158f57111f4140800000000000000
+      internalID: 4705998927709936230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_6
+      rect:
+        serializedVersion: 2
+        x: 12340
+        y: 9921
+        width: 308
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1488e789c9a70d230800000000000000
+      internalID: 3661561310044129345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_7
+      rect:
+        serializedVersion: 2
+        x: 14262
+        y: 9922
+        width: 306
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63dec519710f4a30800000000000000
+      internalID: 4201578596928508782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 8843
+        width: 306
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2022347cb210e0800000000000000
+      internalID: -2300569252389704929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_9
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 8843
+        width: 306
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dfc9bda53c03570800000000000000
+      internalID: 8444464096318651717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_10
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 8843
+        width: 306
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f9c498c586b020800000000000000
+      internalID: 2357218551511250113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_11
+      rect:
+        serializedVersion: 2
+        x: 6582
+        y: 8842
+        width: 306
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1333a89c5f40d36e0800000000000000
+      internalID: -1856322017712000207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_12
+      rect:
+        serializedVersion: 2
+        x: 8504
+        y: 8842
+        width: 304
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821f4d2f2d7d16790800000000000000
+      internalID: -7538507000224354008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_13
+      rect:
+        serializedVersion: 2
+        x: 10424
+        y: 8842
+        width: 304
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0ee8e7b97dff00800000000000000
+      internalID: 1152210910470606368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_14
+      rect:
+        serializedVersion: 2
+        x: 12344
+        y: 8842
+        width: 304
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1b45ffcc8916c80800000000000000
+      internalID: -8331209829434215940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_15
+      rect:
+        serializedVersion: 2
+        x: 14264
+        y: 8842
+        width: 304
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedab5e8d745723d0800000000000000
+      internalID: -3231521309379023378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_16
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 7760
+        width: 304
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f64d749750a5e220800000000000000
+      internalID: 2514592264970127092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_17
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 7758
+        width: 302
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a3f0eb817550a0800000000000000
+      internalID: -6893478809032218802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_18
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 7756
+        width: 315
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28210e6a2c2570780800000000000000
+      internalID: -8716907557775469950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_19
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 7754
+        width: 349
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da4aea8cd930e60800000000000000
+      internalID: 7927353254351252868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_20
+      rect:
+        serializedVersion: 2
+        x: 8510
+        y: 7752
+        width: 358
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124cab7e58fc9f310800000000000000
+      internalID: 1439409729946960929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_21
+      rect:
+        serializedVersion: 2
+        x: 10430
+        y: 7752
+        width: 341
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a13300f966c90b20800000000000000
+      internalID: 3101227976721904032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_22
+      rect:
+        serializedVersion: 2
+        x: 12350
+        y: 7754
+        width: 315
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9d3abb57098e790800000000000000
+      internalID: -7500586344051910152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_23
+      rect:
+        serializedVersion: 2
+        x: 14272
+        y: 7758
+        width: 296
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ad57415bc14080800000000000000
+      internalID: -9204852613418475314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_24
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 6678
+        width: 293
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bcfcb239ef70bc0800000000000000
+      internalID: -3816802251124520078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_25
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 6680
+        width: 291
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a524ddda72cb100800000000000000
+      internalID: 125018517354470000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_26
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 6678
+        width: 293
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933acf40fc2ceaed0800000000000000
+      internalID: -2400767356944211143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_27
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 6680
+        width: 295
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d49149a3bcb000800000000000000
+      internalID: 53114835152721091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_28
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 6680
+        width: 309
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1dd244cf5ac1050800000000000000
+      internalID: 5772671325276328361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_29
+      rect:
+        serializedVersion: 2
+        x: 10430
+        y: 6681
+        width: 335
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3388e6abb42ce40800000000000000
+      internalID: 5675181744530666493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_30
+      rect:
+        serializedVersion: 2
+        x: 12350
+        y: 6682
+        width: 356
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0010fa8a215a9e60800000000000000
+      internalID: 7969771733746978827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_31
+      rect:
+        serializedVersion: 2
+        x: 14270
+        y: 6682
+        width: 365
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996d6e2ac71ee850800000000000000
+      internalID: 6408085476924549522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_32
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 5603
+        width: 360
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eeb520b3d5ffbe0800000000000000
+      internalID: -1441330847711236485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_33
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 5602
+        width: 341
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6fdcf89ab4ab1c0800000000000000
+      internalID: -4487190887087081816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_34
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 5602
+        width: 327
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24db44529794ef500800000000000000
+      internalID: 431863398939278658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_35
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 5601
+        width: 310
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44530da4f201ba0b0800000000000000
+      internalID: -5716457506712046268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_36
+      rect:
+        serializedVersion: 2
+        x: 8517
+        y: 5600
+        width: 317
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae61159350062420800000000000000
+      internalID: 2604769793463643808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_37
+      rect:
+        serializedVersion: 2
+        x: 10441
+        y: 5600
+        width: 339
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4074002b9266a780800000000000000
+      internalID: -8672135614058696629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_38
+      rect:
+        serializedVersion: 2
+        x: 12361
+        y: 5596
+        width: 343
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00c5cdaa0a6ee5c0800000000000000
+      internalID: -4184290409682976758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_39
+      rect:
+        serializedVersion: 2
+        x: 14283
+        y: 5592
+        width: 334
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b122002f58b980800000000000000
+      internalID: -8522957703719307052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_40
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 4508
+        width: 328
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b24690eb35dd62a0800000000000000
+      internalID: -6742498613956033872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_41
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 4510
+        width: 332
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4f8454dfad3370800000000000000
+      internalID: 8303986614427667485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_42
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 4512
+        width: 332
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b6903eaab7dae0800000000000000
+      internalID: -1524544691539364813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_43
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 4512
+        width: 330
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495779ada1c33c9e0800000000000000
+      internalID: -1602370956379589228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_44
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 4512
+        width: 326
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23287be03a3288d00800000000000000
+      internalID: 975068502559261234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_45
+      rect:
+        serializedVersion: 2
+        x: 10456
+        y: 4510
+        width: 324
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce748e12aadaf99c0800000000000000
+      internalID: -3918222204564125716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_46
+      rect:
+        serializedVersion: 2
+        x: 12372
+        y: 4510
+        width: 326
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c91008e419f4520800000000000000
+      internalID: 2688527268904541228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_47
+      rect:
+        serializedVersion: 2
+        x: 14285
+        y: 4508
+        width: 332
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd451026c819df0800000000000000
+      internalID: -175204557933716431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_48
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 3427
+        width: 334
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6552034c0dd9c4c70800000000000000
+      internalID: 8956707278903321942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_49
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3427
+        width: 336
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692f38046469effb0800000000000000
+      internalID: -4612083739906542954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_50
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 3427
+        width: 337
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87825f4aa7c21acb0800000000000000
+      internalID: -4854550018063521672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_51
+      rect:
+        serializedVersion: 2
+        x: 6582
+        y: 3427
+        width: 338
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696af84e8f6d6ebb0800000000000000
+      internalID: -4906998379498723690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_52
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 3427
+        width: 332
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cb0567221398ea0800000000000000
+      internalID: -5870106615217079178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_53
+      rect:
+        serializedVersion: 2
+        x: 10418
+        y: 3428
+        width: 324
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc983359ee8e0dbd0800000000000000
+      internalID: -2607328072844473908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_54
+      rect:
+        serializedVersion: 2
+        x: 12338
+        y: 3430
+        width: 312
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5bd9f180798de0800000000000000
+      internalID: -1330408511366275673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_55
+      rect:
+        serializedVersion: 2
+        x: 14260
+        y: 3432
+        width: 308
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ad5ad10a4e6ec60800000000000000
+      internalID: 7847210777082976914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_56
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2354
+        width: 308
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e0df7a4103e8e00800000000000000
+      internalID: 1048828628499762832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_57
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2358
+        width: 306
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd1adb75ee6aa70800000000000000
+      internalID: 8838013379372244787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_58
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 2360
+        width: 306
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d874a162b20826730800000000000000
+      internalID: 3990893142614886285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_59
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 2360
+        width: 308
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64b9593d1338920800000000000000
+      internalID: 2991289362321983147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_60
+      rect:
+        serializedVersion: 2
+        x: 8498
+        y: 2360
+        width: 310
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad65a971a5aaa99d0800000000000000
+      internalID: -2766711717145979174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_61
+      rect:
+        serializedVersion: 2
+        x: 10418
+        y: 2360
+        width: 310
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9232f08d218bd6e0800000000000000
+      internalID: -1811712392649624931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_62
+      rect:
+        serializedVersion: 2
+        x: 12340
+        y: 2360
+        width: 308
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80760b5c1d81dcc0800000000000000
+      internalID: -3688011466913976182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_63
+      rect:
+        serializedVersion: 2
+        x: 14260
+        y: 2360
+        width: 308
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c7e7c4a7b269380800000000000000
+      internalID: -8964930203965031353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_64
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1280
+        width: 308
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98155abf1919a65e0800000000000000
+      internalID: -1915558635314523767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_65
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1280
+        width: 308
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e97f450b9da630800000000000000
+      internalID: 3939975696129583585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_66
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 1280
+        width: 308
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c015c5d288e770800000000000000
+      internalID: 8640299739756150919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_67
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 1280
+        width: 308
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48fd5e43c0ab3e0800000000000000
+      internalID: -2037302460097264398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_68
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 1280
+        width: 308
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdbe6214f88964c0800000000000000
+      internalID: -4293750187858412097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_69
+      rect:
+        serializedVersion: 2
+        x: 10420
+        y: 1280
+        width: 308
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9c0a38ed3b288a0800000000000000
+      internalID: -6304278760092808794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_70
+      rect:
+        serializedVersion: 2
+        x: 12340
+        y: 1280
+        width: 308
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cdf6e0767b16f00800000000000000
+      internalID: 1108368636561579130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_71
+      rect:
+        serializedVersion: 2
+        x: 14260
+        y: 1280
+        width: 308
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9802dee3d992d0800000000000000
+      internalID: -3271350631628497211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_72
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 200
+        width: 308
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aaa2428ea52aba0800000000000000
+      internalID: -6079196593911059920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_73
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 200
+        width: 308
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68976caa8af140cf0800000000000000
+      internalID: -287069666964768378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

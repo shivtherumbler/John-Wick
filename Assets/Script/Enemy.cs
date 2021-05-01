@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
 {
     private BoxCollider2D collision2D;
     private Transform targetPlayer;
-    private float speed = 2f;
+    public float speed = 2f;
     private Animator animator;
     public float Distance;
     public float CurrentYPosition;
@@ -91,12 +91,12 @@ public class Enemy : MonoBehaviour
 
         if (Shoot() == true)
         {
-            animator.SetBool("Shoot", true);
+            animator.SetBool("Attack", true);
             speed = 0.2f;
         }
         else if (Shoot() == false)
         {
-            animator.SetBool("Shoot", false);
+            animator.SetBool("Attack", false);
             speed = 2f;
         }
 
@@ -133,6 +133,7 @@ public class Enemy : MonoBehaviour
                 {
                     if (animator.GetBool("Enemy Death") == true)
                     {
+                        speed = 0;
                         Destroy(gameObject, 1.5f);
                     }
                 }
@@ -166,7 +167,7 @@ public class Enemy : MonoBehaviour
     }
     private void Kill()
     {
-        if (animator.GetBool("Shoot") == true)
+        if (animator.GetBool("Attack") == true)
         {
             if (transform.localScale == new Vector3(-transform.localScale.x, transform.localScale.y, 1))
             {

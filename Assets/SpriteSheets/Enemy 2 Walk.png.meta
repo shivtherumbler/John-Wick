@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: b3be357edb2de5a498924fe91c6c6a3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1552850668094872011
+    second: Enemy 2 Walk_0
+  - first:
+      213: 5792780493285349726
+    second: Enemy 2 Walk_1
+  - first:
+      213: 2084831491698050354
+    second: Enemy 2 Walk_2
+  - first:
+      213: -6485716379264581820
+    second: Enemy 2 Walk_3
+  - first:
+      213: -2027504933948390151
+    second: Enemy 2 Walk_4
+  - first:
+      213: -5535308071499513173
+    second: Enemy 2 Walk_5
+  - first:
+      213: -3503017180093116932
+    second: Enemy 2 Walk_6
+  - first:
+      213: -5897324034077941801
+    second: Enemy 2 Walk_7
+  - first:
+      213: 2720925227612562568
+    second: Enemy 2 Walk_8
+  - first:
+      213: -1353758569492821393
+    second: Enemy 2 Walk_9
+  - first:
+      213: -8924862559345083865
+    second: Enemy 2 Walk_10
+  - first:
+      213: -2467198967893713144
+    second: Enemy 2 Walk_11
+  - first:
+      213: -1434962697064427274
+    second: Enemy 2 Walk_12
+  - first:
+      213: 3392919597797494112
+    second: Enemy 2 Walk_13
+  - first:
+      213: -5413900159910671389
+    second: Enemy 2 Walk_14
+  - first:
+      213: 9046167237837572241
+    second: Enemy 2 Walk_15
+  - first:
+      213: 2108688263289889223
+    second: Enemy 2 Walk_16
+  - first:
+      213: -8374032474297536520
+    second: Enemy 2 Walk_17
+  - first:
+      213: 7134052157939246326
+    second: Enemy 2 Walk_18
+  - first:
+      213: -8848645487364460675
+    second: Enemy 2 Walk_19
+  - first:
+      213: 8798033772891039926
+    second: Enemy 2 Walk_20
+  - first:
+      213: 9088271504759581343
+    second: Enemy 2 Walk_21
+  - first:
+      213: 6809483563814959165
+    second: Enemy 2 Walk_22
+  - first:
+      213: -2612862779160731618
+    second: Enemy 2 Walk_23
+  - first:
+      213: -6830522627051535488
+    second: Enemy 2 Walk_24
+  - first:
+      213: -984983707564568574
+    second: Enemy 2 Walk_25
+  - first:
+      213: 9096738120400609155
+    second: Enemy 2 Walk_26
+  - first:
+      213: -6384864316027433940
+    second: Enemy 2 Walk_27
+  - first:
+      213: -2615208526092042613
+    second: Enemy 2 Walk_28
+  - first:
+      213: -8025602698048100998
+    second: Enemy 2 Walk_29
+  - first:
+      213: -2947883049831212742
+    second: Enemy 2 Walk_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy 2 Walk_0
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 4546
+        width: 207
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9d50d8475dc8510800000000000000
+      internalID: 1552850668094872011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_1
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 4548
+        width: 206
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d51cca27146050800000000000000
+      internalID: 5792780493285349726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_2
+      rect:
+        serializedVersion: 2
+        x: 4723
+        y: 4549
+        width: 205
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c53f123fceec10800000000000000
+      internalID: 2084831491698050354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_3
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 4549
+        width: 205
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f700cd05b1ef5a0800000000000000
+      internalID: -6485716379264581820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_4
+      rect:
+        serializedVersion: 2
+        x: 8549
+        y: 4551
+        width: 205
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f487a7310bdcd3e0800000000000000
+      internalID: -2027504933948390151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_5
+      rect:
+        serializedVersion: 2
+        x: 10462
+        y: 4549
+        width: 208
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba24be3e2a2ae23b0800000000000000
+      internalID: -5535308071499513173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_6
+      rect:
+        serializedVersion: 2
+        x: 12378
+        y: 4549
+        width: 211
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd857a3f68c26fc0800000000000000
+      internalID: -3503017180093116932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3467
+        width: 218
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df196f490f782ea0800000000000000
+      internalID: -5897324034077941801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_8
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 3466
+        width: 232
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ee34141ba2c520800000000000000
+      internalID: 2720925227612562568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_9
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 3465
+        width: 262
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4db9e0cb763de0800000000000000
+      internalID: -1353758569492821393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_10
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 3466
+        width: 291
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7d09c9c4842480800000000000000
+      internalID: -8924862559345083865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_11
+      rect:
+        serializedVersion: 2
+        x: 8516
+        y: 3470
+        width: 314
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1c784c9fb2cdd0800000000000000
+      internalID: -2467198967893713144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_12
+      rect:
+        serializedVersion: 2
+        x: 10432
+        y: 3474
+        width: 331
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d98f970df51ce0800000000000000
+      internalID: -1434962697064427274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_13
+      rect:
+        serializedVersion: 2
+        x: 12348
+        y: 3476
+        width: 343
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d4e22d562161f20800000000000000
+      internalID: 3392919597797494112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2397
+        width: 348
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb08171d76fdd4b0800000000000000
+      internalID: -5413900159910671389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_15
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2396
+        width: 348
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198c5169c217a8d70800000000000000
+      internalID: 9046167237837572241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_16
+      rect:
+        serializedVersion: 2
+        x: 4642
+        y: 2396
+        width: 349
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1ed6b9dc0934d10800000000000000
+      internalID: 2108688263289889223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_17
+      rect:
+        serializedVersion: 2
+        x: 6549
+        y: 2396
+        width: 349
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe8e705d579cb80800000000000000
+      internalID: -8374032474297536520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_18
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 2395
+        width: 348
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e31bc3ae310360800000000000000
+      internalID: 7134052157939246326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_19
+      rect:
+        serializedVersion: 2
+        x: 10375
+        y: 2393
+        width: 347
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f2746bfcb433580800000000000000
+      internalID: -8848645487364460675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_20
+      rect:
+        serializedVersion: 2
+        x: 12294
+        y: 2391
+        width: 342
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b86f0b3a15e81a70800000000000000
+      internalID: 8798033772891039926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_21
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1309
+        width: 335
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aef7728c6002e70800000000000000
+      internalID: 9088271504759581343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_22
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 1309
+        width: 329
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383d0d1935208e50800000000000000
+      internalID: 6809483563814959165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_23
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 1309
+        width: 318
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e849552f3dbbd0800000000000000
+      internalID: -2612862779160731618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_24
+      rect:
+        serializedVersion: 2
+        x: 6581
+        y: 1305
+        width: 301
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08343504cdb1531a0800000000000000
+      internalID: -6830522627051535488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_25
+      rect:
+        serializedVersion: 2
+        x: 8529
+        y: 1304
+        width: 277
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20011116982a452f0800000000000000
+      internalID: -984983707564568574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_26
+      rect:
+        serializedVersion: 2
+        x: 10476
+        y: 1304
+        width: 253
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9b39bf1b1e3e70800000000000000
+      internalID: 9096738120400609155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_27
+      rect:
+        serializedVersion: 2
+        x: 12424
+        y: 1304
+        width: 226
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c0e18abb76467a0800000000000000
+      internalID: -6384864316027433940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_28
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 224
+        width: 210
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef5b493b9e4bbd0800000000000000
+      internalID: -2615208526092042613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_29
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 224
+        width: 210
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a752d6a1ed45f9090800000000000000
+      internalID: -8025602698048100998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 2 Walk_30
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 226
+        width: 206
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395a671cf30717d0800000000000000
+      internalID: -2947883049831212742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

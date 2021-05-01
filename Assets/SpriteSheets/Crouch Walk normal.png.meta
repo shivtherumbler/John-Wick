@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 41cc1087b2e77254684fd60a15666955
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8548660728355729708
+    second: Crouch Walk normal_0
+  - first:
+      213: 3114764525106407215
+    second: Crouch Walk normal_1
+  - first:
+      213: 3538115100833422211
+    second: Crouch Walk normal_2
+  - first:
+      213: 4463291234117534569
+    second: Crouch Walk normal_3
+  - first:
+      213: 3884810111161086393
+    second: Crouch Walk normal_4
+  - first:
+      213: -7467801995343123788
+    second: Crouch Walk normal_5
+  - first:
+      213: -8235922502780982805
+    second: Crouch Walk normal_6
+  - first:
+      213: -6258546788890129213
+    second: Crouch Walk normal_7
+  - first:
+      213: -3501066721231451810
+    second: Crouch Walk normal_8
+  - first:
+      213: 7116475050942215228
+    second: Crouch Walk normal_9
+  - first:
+      213: -8346343745593753353
+    second: Crouch Walk normal_10
+  - first:
+      213: 3021928658926068346
+    second: Crouch Walk normal_11
+  - first:
+      213: 6832615646463764717
+    second: Crouch Walk normal_12
+  - first:
+      213: -7210981253337098982
+    second: Crouch Walk normal_13
+  - first:
+      213: -2780598687133319851
+    second: Crouch Walk normal_14
+  - first:
+      213: 7369618106018994576
+    second: Crouch Walk normal_15
+  - first:
+      213: 859734298372217842
+    second: Crouch Walk normal_16
+  - first:
+      213: 5803636126617832190
+    second: Crouch Walk normal_17
+  - first:
+      213: -3423993218873356364
+    second: Crouch Walk normal_18
+  - first:
+      213: -3750344163500425100
+    second: Crouch Walk normal_19
+  - first:
+      213: 7682735675447720009
+    second: Crouch Walk normal_20
+  - first:
+      213: -725515953730244873
+    second: Crouch Walk normal_21
+  - first:
+      213: 3500438531801644681
+    second: Crouch Walk normal_22
+  - first:
+      213: 4991567590296638838
+    second: Crouch Walk normal_23
+  - first:
+      213: -2343287796017492925
+    second: Crouch Walk normal_24
+  - first:
+      213: 2575368488467985384
+    second: Crouch Walk normal_25
+  - first:
+      213: 6912281419202796238
+    second: Crouch Walk normal_26
+  - first:
+      213: 3557374508974278947
+    second: Crouch Walk normal_27
+  - first:
+      213: -6001093111358548012
+    second: Crouch Walk normal_28
+  - first:
+      213: -710231209781707629
+    second: Crouch Walk normal_29
+  - first:
+      213: -5255910575032988294
+    second: Crouch Walk normal_30
+  - first:
+      213: -2713999337842474897
+    second: Crouch Walk normal_31
+  - first:
+      213: 5568814235136496211
+    second: Crouch Walk normal_32
+  - first:
+      213: -1428139713352900541
+    second: Crouch Walk normal_33
+  - first:
+      213: 7551335241959094359
+    second: Crouch Walk normal_34
+  - first:
+      213: 8338424116536205507
+    second: Crouch Walk normal_35
+  - first:
+      213: -5202095683019598172
+    second: Crouch Walk normal_36
+  - first:
+      213: 4423630464196195258
+    second: Crouch Walk normal_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crouch Walk normal_0
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 5603
+        width: 479
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de460d3c5e0d5980800000000000000
+      internalID: -8548660728355729708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_1
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 5605
+        width: 478
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27a4f535ddd93b20800000000000000
+      internalID: 3114764525106407215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_2
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 5606
+        width: 485
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b1f9f30f8e91130800000000000000
+      internalID: 3538115100833422211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_3
+      rect:
+        serializedVersion: 2
+        x: 6522
+        y: 5607
+        width: 502
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c0badabbc0fd30800000000000000
+      internalID: 4463291234117534569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_4
+      rect:
+        serializedVersion: 2
+        x: 8447
+        y: 5608
+        width: 508
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b13a97a63e99e530800000000000000
+      internalID: 3884810111161086393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_5
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 5608
+        width: 505
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baae9eb6a90d5890800000000000000
+      internalID: -7467801995343123788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_6
+      rect:
+        serializedVersion: 2
+        x: 12294
+        y: 5610
+        width: 486
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9e7189e1024bd80800000000000000
+      internalID: -8235922502780982805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_7
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 4529
+        width: 470
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccca0ecadc2529a0800000000000000
+      internalID: -6258546788890129213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_8
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 4530
+        width: 493
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ce02dd56b96fc0800000000000000
+      internalID: -3501066721231451810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_9
+      rect:
+        serializedVersion: 2
+        x: 4586
+        y: 4532
+        width: 516
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c343758aa5cc2c260800000000000000
+      internalID: 7116475050942215228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_10
+      rect:
+        serializedVersion: 2
+        x: 6494
+        y: 4534
+        width: 532
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0c49e8594db2c80800000000000000
+      internalID: -8346343745593753353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_11
+      rect:
+        serializedVersion: 2
+        x: 8411
+        y: 4535
+        width: 539
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726cdbba1c00f920800000000000000
+      internalID: 3021928658926068346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_12
+      rect:
+        serializedVersion: 2
+        x: 10349
+        y: 4534
+        width: 524
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8af3ecab352de50800000000000000
+      internalID: 6832615646463764717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_13
+      rect:
+        serializedVersion: 2
+        x: 12294
+        y: 4534
+        width: 500
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1557d861c27deb90800000000000000
+      internalID: -7210981253337098982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3452
+        width: 464
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d308ee9345969d0800000000000000
+      internalID: -2780598687133319851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_15
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 3449
+        width: 467
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0999c8b1f94264660800000000000000
+      internalID: 7369618106018994576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_16
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 3446
+        width: 469
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb12bf0ac36eeb00800000000000000
+      internalID: 859734298372217842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_17
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 3446
+        width: 471
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa0ea4ee48aa8050800000000000000
+      internalID: 5803636126617832190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_18
+      rect:
+        serializedVersion: 2
+        x: 8463
+        y: 3449
+        width: 473
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf05bbfe488b70d0800000000000000
+      internalID: -3423993218873356364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_19
+      rect:
+        serializedVersion: 2
+        x: 10379
+        y: 3448
+        width: 472
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470091d7ad914fbc0800000000000000
+      internalID: -3750344163500425100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_20
+      rect:
+        serializedVersion: 2
+        x: 12299
+        y: 3448
+        width: 469
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483846546f8e9a60800000000000000
+      internalID: 7682735675447720009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2365
+        width: 466
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fea70385137ee5f0800000000000000
+      internalID: -725515953730244873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_22
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 2363
+        width: 459
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e702e6c4e049030800000000000000
+      internalID: 3500438531801644681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_23
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 2360
+        width: 455
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675dbf3e64c954540800000000000000
+      internalID: 4991567590296638838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_24
+      rect:
+        serializedVersion: 2
+        x: 6545
+        y: 2357
+        width: 453
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c8edf2a28fa7fd0800000000000000
+      internalID: -2343287796017492925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_25
+      rect:
+        serializedVersion: 2
+        x: 8468
+        y: 2355
+        width: 454
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37ed0defb8db320800000000000000
+      internalID: 2575368488467985384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_26
+      rect:
+        serializedVersion: 2
+        x: 10394
+        y: 2352
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9d13f35b5def50800000000000000
+      internalID: 6912281419202796238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_27
+      rect:
+        serializedVersion: 2
+        x: 12322
+        y: 2362
+        width: 454
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3290174a4455e5130800000000000000
+      internalID: 3557374508974278947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1284
+        width: 456
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d71e614c95d7bca0800000000000000
+      internalID: -6001093111358548012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_29
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1284
+        width: 478
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cb0984a70c426f0800000000000000
+      internalID: -710231209781707629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_30
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 1284
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d80f3dd214f07b0800000000000000
+      internalID: -5255910575032988294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_31
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 1284
+        width: 466
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60014b4bffe55ad0800000000000000
+      internalID: -2713999337842474897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_32
+      rect:
+        serializedVersion: 2
+        x: 8480
+        y: 1284
+        width: 470
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3521371ca07684d40800000000000000
+      internalID: 5568814235136496211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_33
+      rect:
+        serializedVersion: 2
+        x: 10391
+        y: 1284
+        width: 474
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340e8ff4f7a3e2ce0800000000000000
+      internalID: -1428139713352900541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_34
+      rect:
+        serializedVersion: 2
+        x: 12302
+        y: 1284
+        width: 474
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7583cd4d46bbbc860800000000000000
+      internalID: 7551335241959094359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 203
+        width: 477
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0e0bc1e8808b370800000000000000
+      internalID: 8338424116536205507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_36
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 203
+        width: 478
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a61606c9817ec7b0800000000000000
+      internalID: -5202095683019598172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Walk normal_37
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 203
+        width: 479
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3b2044874e36d30800000000000000
+      internalID: 4423630464196195258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
