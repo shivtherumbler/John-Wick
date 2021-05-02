@@ -151,11 +151,13 @@ public class Player : MonoBehaviour
 
                 if(animator.GetBool("Briefcase Idle")==true)
             {
-                animator.SetBool("Idle", false) ;
+                animator.SetBool("Idle", false);
             }
                 if(animator.GetBool("Rifle Idle")==true)
             {
                 animator.SetBool("Briefcase Walk", false);
+                animator.SetBool("Idle", false);
+
             }
 
                 //if (IsGrounded())
@@ -196,7 +198,7 @@ public class Player : MonoBehaviour
                 Speed = 4;
             }
 
-            if (Input.GetKey(KeyCode.C) && h == 0)
+            if (Input.GetKey(KeyCode.C) && h == 0 && v==0)
             {
                 // if (IsGrounded())
                 {
@@ -251,7 +253,7 @@ public class Player : MonoBehaviour
                 {
                     i = 0.2f;
                 }
-                if (v != 0)
+                if (v != 0 || v!=0 && h!=0)
                 {
                     transform.localScale = new Vector3(transform.localScale.x + i, transform.localScale.y + i, 1);
                 }
@@ -281,7 +283,7 @@ public class Player : MonoBehaviour
                     {
                         i = 0.2f;
                     }
-                    if (v != 0)
+                    if (v != 0 || v!= 0 && h != 0)
                     {
                         transform.localScale = new Vector3(transform.localScale.x - i, transform.localScale.y - i, 1);
                     }
@@ -388,6 +390,7 @@ public class Player : MonoBehaviour
             animator.SetBool("Crouch", false);
             animator.SetBool("Crouch Walk", false);
             animator.SetBool("Hit", false);
+            animator.SetBool("Idle", false);
 
         }
 

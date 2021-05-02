@@ -409,6 +409,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: -195.7
       objectReference: {fileID: 0}
+    - target: {fileID: 320874154531556232, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -162.51
+      objectReference: {fileID: 0}
     - target: {fileID: 2454071464867453242, guid: e344d043e0d0b4c479f29dc6144fa22a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -444,31 +449,37 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 1095
       objectReference: {fileID: 0}
-    - target: {fileID: 3963220568420246091, guid: e344d043e0d0b4c479f29dc6144fa22a,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3.41
-      objectReference: {fileID: 0}
-    - target: {fileID: 3963220568420246091, guid: e344d043e0d0b4c479f29dc6144fa22a,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.66
-      objectReference: {fileID: 0}
     - target: {fileID: 4921376859911147253, guid: e344d043e0d0b4c479f29dc6144fa22a,
         type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 1535
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112159729171733171, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 112.3
       objectReference: {fileID: 0}
     - target: {fileID: 5112159729171733173, guid: e344d043e0d0b4c479f29dc6144fa22a,
         type: 3}
       propertyPath: m_Name
       value: Walls 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5112159729334622349, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 22e716641232c7e4c865670045b47ded,
+        type: 3}
+    - target: {fileID: 5112159729472407400, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: Waves.Array.data[0].NoOfEnemies
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5112159729472407400, guid: e344d043e0d0b4c479f29dc6144fa22a,
         type: 3}
       propertyPath: Waves.Array.data[0].TypeOfEnemies.Array.data[0]
       value: 
-      objectReference: {fileID: 7034084796124024622, guid: 9374689380988eb4d89289ec5732d44e,
+      objectReference: {fileID: 1141403940682864857, guid: 7ac59d7189fade44db9838d4c7809659,
         type: 3}
     - target: {fileID: 5112159729582105554, guid: e344d043e0d0b4c479f29dc6144fa22a,
         type: 3}
@@ -680,6 +691,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Shoot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5667038590603547089, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 76.7081
+      objectReference: {fileID: 0}
+    - target: {fileID: 5667038590603547089, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 32.4265
+      objectReference: {fileID: 0}
+    - target: {fileID: 5667038590603547089, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5667038590603547089, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5737105837767962402, guid: e344d043e0d0b4c479f29dc6144fa22a,
         type: 3}

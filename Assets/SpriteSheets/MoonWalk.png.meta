@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 56913ea0ad5546d4583a187fdd9cdf58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3945341397872083618
+    second: MoonWalk_0
+  - first:
+      213: -8500509829708187006
+    second: MoonWalk_1
+  - first:
+      213: -1650682388191639810
+    second: MoonWalk_2
+  - first:
+      213: 4931966342221367369
+    second: MoonWalk_3
+  - first:
+      213: 7594317532587228189
+    second: MoonWalk_4
+  - first:
+      213: -5037868647977436523
+    second: MoonWalk_5
+  - first:
+      213: -3831333870700430640
+    second: MoonWalk_6
+  - first:
+      213: 1655210238338706818
+    second: MoonWalk_7
+  - first:
+      213: 8450489449328167876
+    second: MoonWalk_8
+  - first:
+      213: 3984309376467575640
+    second: MoonWalk_9
+  - first:
+      213: 1440031075623514208
+    second: MoonWalk_10
+  - first:
+      213: 8220302035483447074
+    second: MoonWalk_11
+  - first:
+      213: 2722024007096216283
+    second: MoonWalk_12
+  - first:
+      213: 7981543825334120668
+    second: MoonWalk_13
+  - first:
+      213: -3383301128349712248
+    second: MoonWalk_14
+  - first:
+      213: -3917834215746827747
+    second: MoonWalk_15
+  - first:
+      213: 1350081417326610700
+    second: MoonWalk_16
+  - first:
+      213: -7514612526491847125
+    second: MoonWalk_17
+  - first:
+      213: -4915436028850955940
+    second: MoonWalk_18
+  - first:
+      213: -2254370610891319098
+    second: MoonWalk_19
+  - first:
+      213: -1773516472987951069
+    second: MoonWalk_20
+  - first:
+      213: 3035506680153731836
+    second: MoonWalk_21
+  - first:
+      213: -4582369527820101468
+    second: MoonWalk_22
+  - first:
+      213: -767738221349427916
+    second: MoonWalk_23
+  - first:
+      213: -3263685791963749772
+    second: MoonWalk_24
+  - first:
+      213: 471889988300021351
+    second: MoonWalk_25
+  - first:
+      213: 1445576602442349521
+    second: MoonWalk_26
+  - first:
+      213: -2643647366348644483
+    second: MoonWalk_27
+  - first:
+      213: -3677845406041541206
+    second: MoonWalk_28
+  - first:
+      213: -8816782293294054074
+    second: MoonWalk_29
+  - first:
+      213: -47602361199342443
+    second: MoonWalk_30
+  - first:
+      213: 186895519733629023
+    second: MoonWalk_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoonWalk_0
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4533
+        width: 267
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a20fc9191ba0c630800000000000000
+      internalID: 3945341397872083618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_1
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 4534
+        width: 258
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af686f85f180a80800000000000000
+      internalID: -8500509829708187006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_2
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 4533
+        width: 248
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef608d61d199719e0800000000000000
+      internalID: -1650682388191639810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_3
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 4531
+        width: 236
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488940f14dd17440800000000000000
+      internalID: 4931966342221367369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_4
+      rect:
+        serializedVersion: 2
+        x: 8537
+        y: 4530
+        width: 225
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf1693f8f646960800000000000000
+      internalID: 7594317532587228189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_5
+      rect:
+        serializedVersion: 2
+        x: 10460
+        y: 4528
+        width: 226
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a3a3c0825e51ab0800000000000000
+      internalID: -5037868647977436523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_6
+      rect:
+        serializedVersion: 2
+        x: 12380
+        y: 4528
+        width: 235
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da7af4d42e54dac0800000000000000
+      internalID: -3831333870700430640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3448
+        width: 241
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da4cc21fc78f610800000000000000
+      internalID: 1655210238338706818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_8
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 3447
+        width: 246
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb446da16b264570800000000000000
+      internalID: 8450489449328167876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_9
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 3445
+        width: 249
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ab93a44c1b4730800000000000000
+      internalID: 3984309376467575640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_10
+      rect:
+        serializedVersion: 2
+        x: 6611
+        y: 3445
+        width: 259
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060301832a40cf310800000000000000
+      internalID: 1440031075623514208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_11
+      rect:
+        serializedVersion: 2
+        x: 8530
+        y: 3447
+        width: 263
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f4963f521641270800000000000000
+      internalID: 8220302035483447074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_12
+      rect:
+        serializedVersion: 2
+        x: 10450
+        y: 3447
+        width: 264
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda2e0d996296c520800000000000000
+      internalID: 2722024007096216283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_13
+      rect:
+        serializedVersion: 2
+        x: 12370
+        y: 3447
+        width: 264
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b04432d324ce60800000000000000
+      internalID: 7981543825334120668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2369
+        width: 263
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880898c9c891c01d0800000000000000
+      internalID: -3383301128349712248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_15
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 2372
+        width: 259
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a0a81d98e01a9c0800000000000000
+      internalID: -3917834215746827747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_16
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 2375
+        width: 252
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09cb9165e37cb210800000000000000
+      internalID: 1350081417326610700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_17
+      rect:
+        serializedVersion: 2
+        x: 6601
+        y: 2374
+        width: 249
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b0c5a8bbb6b790800000000000000
+      internalID: -7514612526491847125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_18
+      rect:
+        serializedVersion: 2
+        x: 8521
+        y: 2372
+        width: 241
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599e2099fcd8cbb0800000000000000
+      internalID: -4915436028850955940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_19
+      rect:
+        serializedVersion: 2
+        x: 10440
+        y: 2372
+        width: 231
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81eb1afddd6b0e0800000000000000
+      internalID: -2254370610891319098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_20
+      rect:
+        serializedVersion: 2
+        x: 12357
+        y: 2370
+        width: 226
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320ef301a243367e0800000000000000
+      internalID: -1773516472987951069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_21
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1289
+        width: 226
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf273e72e39402a20800000000000000
+      internalID: 3035506680153731836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_22
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1287
+        width: 228
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a855b061372860c0800000000000000
+      internalID: -4582369527820101468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_23
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 1286
+        width: 232
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4352af3c7227855f0800000000000000
+      internalID: -767738221349427916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_24
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 1287
+        width: 240
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472e28f501f05b2d0800000000000000
+      internalID: -3263685791963749772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_25
+      rect:
+        serializedVersion: 2
+        x: 8490
+        y: 1287
+        width: 247
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9fa5b17d7c8600800000000000000
+      internalID: 471889988300021351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_26
+      rect:
+        serializedVersion: 2
+        x: 10404
+        y: 1284
+        width: 258
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db313cc248bf0410800000000000000
+      internalID: 1445576602442349521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_27
+      rect:
+        serializedVersion: 2
+        x: 12322
+        y: 1284
+        width: 266
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f54691ab0ef4bd0800000000000000
+      internalID: -2643647366348644483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 208
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5771ad61ba5fcc0800000000000000
+      internalID: -3677845406041541206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_29
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 209
+        width: 272
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6450142b73f74a580800000000000000
+      internalID: -8816782293294054074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_30
+      rect:
+        serializedVersion: 2
+        x: 4645
+        y: 212
+        width: 271
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c4e3a97e1e65ff0800000000000000
+      internalID: -47602361199342443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonWalk_31
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 213
+        width: 268
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50c5d72c7cf79200800000000000000
+      internalID: 186895519733629023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2000 @@
+fileFormatVersion: 2
+guid: c44a15aa429397a4dba92c896e3bd767
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7062026054969571797
+    second: Travis Attack_0
+  - first:
+      213: -9011278666779491536
+    second: Travis Attack_1
+  - first:
+      213: -1785621952725306129
+    second: Travis Attack_2
+  - first:
+      213: -5677378250625742830
+    second: Travis Attack_3
+  - first:
+      213: -5892007940495708884
+    second: Travis Attack_4
+  - first:
+      213: 4965544222577960039
+    second: Travis Attack_5
+  - first:
+      213: -8725326796611757793
+    second: Travis Attack_6
+  - first:
+      213: -4225526062879238515
+    second: Travis Attack_7
+  - first:
+      213: -18596110128914657
+    second: Travis Attack_8
+  - first:
+      213: 2479294731842320582
+    second: Travis Attack_9
+  - first:
+      213: 9209618451555398189
+    second: Travis Attack_10
+  - first:
+      213: 7768787193180707685
+    second: Travis Attack_11
+  - first:
+      213: -2274314609900890189
+    second: Travis Attack_12
+  - first:
+      213: 1000905082643237604
+    second: Travis Attack_13
+  - first:
+      213: 4854983718201511920
+    second: Travis Attack_14
+  - first:
+      213: -531968451247948219
+    second: Travis Attack_15
+  - first:
+      213: 1445616664107152913
+    second: Travis Attack_16
+  - first:
+      213: -321488396690016631
+    second: Travis Attack_17
+  - first:
+      213: -8564206826123387915
+    second: Travis Attack_18
+  - first:
+      213: -5481415539739548308
+    second: Travis Attack_19
+  - first:
+      213: 8080525809934359789
+    second: Travis Attack_20
+  - first:
+      213: -4278494106399468479
+    second: Travis Attack_21
+  - first:
+      213: -3602897761677110606
+    second: Travis Attack_22
+  - first:
+      213: 7050422133158335617
+    second: Travis Attack_23
+  - first:
+      213: 3634858415445773306
+    second: Travis Attack_24
+  - first:
+      213: 1960892272899129161
+    second: Travis Attack_25
+  - first:
+      213: -6373243763475138934
+    second: Travis Attack_26
+  - first:
+      213: -2260330215636102880
+    second: Travis Attack_27
+  - first:
+      213: -1118450842485919826
+    second: Travis Attack_28
+  - first:
+      213: -4965864794338193040
+    second: Travis Attack_29
+  - first:
+      213: 4086668914530356347
+    second: Travis Attack_30
+  - first:
+      213: 834580668736114185
+    second: Travis Attack_31
+  - first:
+      213: 441164185263373773
+    second: Travis Attack_32
+  - first:
+      213: -287854923795841757
+    second: Travis Attack_33
+  - first:
+      213: -8971683792877993313
+    second: Travis Attack_34
+  - first:
+      213: 6064863657406032380
+    second: Travis Attack_35
+  - first:
+      213: -4890884404139382434
+    second: Travis Attack_36
+  - first:
+      213: -2237567970375056016
+    second: Travis Attack_37
+  - first:
+      213: -1446982559076607488
+    second: Travis Attack_38
+  - first:
+      213: 8589268296827936200
+    second: Travis Attack_39
+  - first:
+      213: 5822388882983126749
+    second: Travis Attack_40
+  - first:
+      213: -7826788025978398556
+    second: Travis Attack_41
+  - first:
+      213: -2695448575381144071
+    second: Travis Attack_42
+  - first:
+      213: 6183107249580416576
+    second: Travis Attack_43
+  - first:
+      213: 6176737339716425251
+    second: Travis Attack_44
+  - first:
+      213: -2991170687506003491
+    second: Travis Attack_45
+  - first:
+      213: -6325242680979398921
+    second: Travis Attack_46
+  - first:
+      213: -3870819059728073884
+    second: Travis Attack_47
+  - first:
+      213: 1435159597694038903
+    second: Travis Attack_48
+  - first:
+      213: -6132883026324714488
+    second: Travis Attack_49
+  - first:
+      213: 81675326357920091
+    second: Travis Attack_50
+  - first:
+      213: -1154232480166080163
+    second: Travis Attack_51
+  - first:
+      213: 1293873646100108302
+    second: Travis Attack_52
+  - first:
+      213: -7946364843573606395
+    second: Travis Attack_53
+  - first:
+      213: -2222185384110394870
+    second: Travis Attack_54
+  - first:
+      213: -7696771805221150524
+    second: Travis Attack_55
+  - first:
+      213: 2916711667465220389
+    second: Travis Attack_56
+  - first:
+      213: 8500907970777295725
+    second: Travis Attack_57
+  - first:
+      213: -8445743994194385722
+    second: Travis Attack_58
+  - first:
+      213: -8598440577385770303
+    second: Travis Attack_59
+  - first:
+      213: -8219284166470944301
+    second: Travis Attack_60
+  - first:
+      213: 5169966102069206841
+    second: Travis Attack_61
+  - first:
+      213: 1807091837882033989
+    second: Travis Attack_62
+  - first:
+      213: -7687093802941208628
+    second: Travis Attack_63
+  - first:
+      213: 8081985781639842436
+    second: Travis Attack_64
+  - first:
+      213: 8703896599965507586
+    second: Travis Attack_65
+  - first:
+      213: 6699102085163956917
+    second: Travis Attack_66
+  - first:
+      213: 5692109442241520781
+    second: Travis Attack_67
+  - first:
+      213: 3514199303885271640
+    second: Travis Attack_68
+  - first:
+      213: 7087546668618226643
+    second: Travis Attack_69
+  - first:
+      213: 5540956603207205243
+    second: Travis Attack_70
+  - first:
+      213: -6243422099044997956
+    second: Travis Attack_71
+  - first:
+      213: 7733318582651950058
+    second: Travis Attack_72
+  - first:
+      213: 6173793492442573265
+    second: Travis Attack_73
+  - first:
+      213: 1166631230297725498
+    second: Travis Attack_74
+  - first:
+      213: 3417653678986224572
+    second: Travis Attack_75
+  - first:
+      213: 8123983536162842454
+    second: Travis Attack_76
+  - first:
+      213: -3550084531316869552
+    second: Travis Attack_77
+  - first:
+      213: 8198293431857530942
+    second: Travis Attack_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 4
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Travis Attack_0
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 9929
+        width: 210
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b264cfe18b4aefd90800000000000000
+      internalID: -7062026054969571797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_1
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 9929
+        width: 244
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338d8edbc181f280800000000000000
+      internalID: -9011278666779491536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_2
+      rect:
+        serializedVersion: 2
+        x: 4642
+        y: 9929
+        width: 285
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe43bac6b423837e0800000000000000
+      internalID: -1785621952725306129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_3
+      rect:
+        serializedVersion: 2
+        x: 6545
+        y: 9929
+        width: 313
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2188ce3af86e531b0800000000000000
+      internalID: -5677378250625742830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_4
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 9933
+        width: 337
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2de8fccef16b3ea0800000000000000
+      internalID: -5892007940495708884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_5
+      rect:
+        serializedVersion: 2
+        x: 10358
+        y: 9938
+        width: 390
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a04f692829e440800000000000000
+      internalID: 4965544222577960039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_6
+      rect:
+        serializedVersion: 2
+        x: 12273
+        y: 9948
+        width: 461
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1952cad18969e680800000000000000
+      internalID: -8725326796611757793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_7
+      rect:
+        serializedVersion: 2
+        x: 14174
+        y: 9946
+        width: 521
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d869de00f6aeb55c0800000000000000
+      internalID: -4225526062879238515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_8
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 8862
+        width: 532
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fdf85bfeeedbff0800000000000000
+      internalID: -18596110128914657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_9
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 8857
+        width: 480
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c875f83c69386220800000000000000
+      internalID: 2479294731842320582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_10
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 8858
+        width: 386
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22b7d1ef232fcf70800000000000000
+      internalID: 9209618451555398189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_11
+      rect:
+        serializedVersion: 2
+        x: 6682
+        y: 8860
+        width: 296
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd3299ac640db60800000000000000
+      internalID: 7768787193180707685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_12
+      rect:
+        serializedVersion: 2
+        x: 8558
+        y: 8855
+        width: 334
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7506189e20070e0800000000000000
+      internalID: -2274314609900890189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_13
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 8860
+        width: 461
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea45d0aedde3ed00800000000000000
+      internalID: 1000905082643237604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_14
+      rect:
+        serializedVersion: 2
+        x: 12337
+        y: 8860
+        width: 581
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffc4b908fd506340800000000000000
+      internalID: 4854983718201511920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_15
+      rect:
+        serializedVersion: 2
+        x: 14238
+        y: 8860
+        width: 624
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eb6a713811e98f0800000000000000
+      internalID: -531968451247948219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 7778
+        width: 634
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116fd7162bcdf0410800000000000000
+      internalID: 1445616664107152913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_17
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 7780
+        width: 625
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b1eba108d98bf0800000000000000
+      internalID: -321488396690016631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_18
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 7780
+        width: 604
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb90f94443d52980800000000000000
+      internalID: -8564206826123387915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_19
+      rect:
+        serializedVersion: 2
+        x: 6569
+        y: 7786
+        width: 574
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65a48fbb991ee3b0800000000000000
+      internalID: -5481415539739548308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_20
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 7797
+        width: 538
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec5383696bc32070800000000000000
+      internalID: 8080525809934359789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_21
+      rect:
+        serializedVersion: 2
+        x: 10460
+        y: 7812
+        width: 493
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441576574cbf94c0800000000000000
+      internalID: -4278494106399468479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_22
+      rect:
+        serializedVersion: 2
+        x: 12410
+        y: 7825
+        width: 442
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b29f21239feffdc0800000000000000
+      internalID: -3602897761677110606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_23
+      rect:
+        serializedVersion: 2
+        x: 14363
+        y: 7831
+        width: 389
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184547b439128d160800000000000000
+      internalID: 7050422133158335617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_24
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 6751
+        width: 340
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb0c75787c917230800000000000000
+      internalID: 3634858415445773306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_25
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 6743
+        width: 313
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff5f8022d763b10800000000000000
+      internalID: 1960892272899129161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_26
+      rect:
+        serializedVersion: 2
+        x: 4782
+        y: 6732
+        width: 321
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8637136090bd87a0800000000000000
+      internalID: -6373243763475138934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_27
+      rect:
+        serializedVersion: 2
+        x: 6653
+        y: 6719
+        width: 355
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0219de505a1b1a0e0800000000000000
+      internalID: -2260330215636102880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_28
+      rect:
+        serializedVersion: 2
+        x: 8538
+        y: 6706
+        width: 375
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafe3e272e67a70f0800000000000000
+      internalID: -1118450842485919826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_29
+      rect:
+        serializedVersion: 2
+        x: 10439
+        y: 6702
+        width: 375
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0719ad2a744b51bb0800000000000000
+      internalID: -4965864794338193040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_30
+      rect:
+        serializedVersion: 2
+        x: 12357
+        y: 6697
+        width: 351
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c8635c9b3c6b830800000000000000
+      internalID: 4086668914530356347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_31
+      rect:
+        serializedVersion: 2
+        x: 14287
+        y: 6689
+        width: 315
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e8c6842b6059b00800000000000000
+      internalID: 834580668736114185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_32
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 5609
+        width: 270
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd7f363d745f1600800000000000000
+      internalID: 441164185263373773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_33
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 5609
+        width: 230
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3d40d875510cf0800000000000000
+      internalID: -287854923795841757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_34
+      rect:
+        serializedVersion: 2
+        x: 4745
+        y: 5609
+        width: 200
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c068df1d2e7380800000000000000
+      internalID: -8971683792877993313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_35
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 5609
+        width: 183
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ecd60d59ba2450800000000000000
+      internalID: 6064863657406032380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_36
+      rect:
+        serializedVersion: 2
+        x: 8577
+        y: 5609
+        width: 175
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5926c52c86102cb0800000000000000
+      internalID: -4890884404139382434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_37
+      rect:
+        serializedVersion: 2
+        x: 10488
+        y: 5609
+        width: 180
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c00d39cf82f0e0800000000000000
+      internalID: -2237567970375056016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_38
+      rect:
+        serializedVersion: 2
+        x: 12397
+        y: 5609
+        width: 187
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9d0a67094bebe0800000000000000
+      internalID: -1446982559076607488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_39
+      rect:
+        serializedVersion: 2
+        x: 14294
+        y: 5613
+        width: 208
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd14f01206333770800000000000000
+      internalID: 8589268296827936200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_40
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4535
+        width: 242
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6846a37d74dc050800000000000000
+      internalID: 5822388882983126749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_41
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 4535
+        width: 284
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d64b22c9a16390800000000000000
+      internalID: -7826788025978398556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_42
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 4537
+        width: 313
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf2124dc7d79ad0800000000000000
+      internalID: -2695448575381144071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_43
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 4540
+        width: 341
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e1263b84fcec550800000000000000
+      internalID: 6183107249580416576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_44
+      rect:
+        serializedVersion: 2
+        x: 8440
+        y: 4544
+        width: 394
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32650bc72ed28b550800000000000000
+      internalID: 6176737339716425251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_45
+      rect:
+        serializedVersion: 2
+        x: 10355
+        y: 4542
+        width: 467
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c4ac8b1a3d76d0800000000000000
+      internalID: -2991170687506003491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_46
+      rect:
+        serializedVersion: 2
+        x: 12260
+        y: 4542
+        width: 523
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe55125b493838a0800000000000000
+      internalID: -6325242680979398921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_47
+      rect:
+        serializedVersion: 2
+        x: 14182
+        y: 4538
+        width: 536
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bb81bd296184ac0800000000000000
+      internalID: -3870819059728073884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_48
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3453
+        width: 482
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773bb80ec06bae310800000000000000
+      internalID: 1435159597694038903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_49
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 3453
+        width: 392
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c84e6816f93eaa0800000000000000
+      internalID: -6132883026324714488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_50
+      rect:
+        serializedVersion: 2
+        x: 4767
+        y: 3451
+        width: 298
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b595a7ec64b222100800000000000000
+      internalID: 81675326357920091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_51
+      rect:
+        serializedVersion: 2
+        x: 6648
+        y: 3451
+        width: 349
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d519b77bca75bffe0800000000000000
+      internalID: -1154232480166080163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_52
+      rect:
+        serializedVersion: 2
+        x: 8534
+        y: 3453
+        width: 443
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e045904d933c4f110800000000000000
+      internalID: 1293873646100108302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_53
+      rect:
+        serializedVersion: 2
+        x: 10426
+        y: 3453
+        width: 574
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5088423c647d8b190800000000000000
+      internalID: -7946364843573606395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_54
+      rect:
+        serializedVersion: 2
+        x: 12325
+        y: 3451
+        width: 632
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f803ba263921e0800000000000000
+      internalID: -2222185384110394870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_55
+      rect:
+        serializedVersion: 2
+        x: 14232
+        y: 3449
+        width: 649
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c02d8882d29f2590800000000000000
+      internalID: -7696771805221150524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_56
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2369
+        width: 643
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5217083eecd3a7820800000000000000
+      internalID: 2916711667465220389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_57
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2371
+        width: 618
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ba77a72ca49f570800000000000000
+      internalID: 8500907970777295725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_58
+      rect:
+        serializedVersion: 2
+        x: 4657
+        y: 2378
+        width: 586
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a722b590baca80800000000000000
+      internalID: -8445743994194385722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_59
+      rect:
+        serializedVersion: 2
+        x: 6601
+        y: 2390
+        width: 547
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2dd92f9d33ca880800000000000000
+      internalID: -8598440577385770303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_60
+      rect:
+        serializedVersion: 2
+        x: 8551
+        y: 2403
+        width: 497
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9b185299c3fed80800000000000000
+      internalID: -8219284166470944301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_61
+      rect:
+        serializedVersion: 2
+        x: 10501
+        y: 2412
+        width: 442
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f55a637c86fb740800000000000000
+      internalID: 5169966102069206841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_62
+      rect:
+        serializedVersion: 2
+        x: 12451
+        y: 2420
+        width: 386
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5476771c374141910800000000000000
+      internalID: 1807091837882033989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_63
+      rect:
+        serializedVersion: 2
+        x: 14397
+        y: 2418
+        width: 340
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc725980ae4f15590800000000000000
+      internalID: -7687093802941208628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_64
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1330
+        width: 315
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a866a8f3bf82070800000000000000
+      internalID: 8081985781639842436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_65
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1317
+        width: 330
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200acaaa7d37ac870800000000000000
+      internalID: 8703896599965507586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_66
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 1304
+        width: 373
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bab6446addf7fc50800000000000000
+      internalID: 6699102085163956917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_67
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 1289
+        width: 392
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84e37f216f6efe40800000000000000
+      internalID: 5692109442241520781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_68
+      rect:
+        serializedVersion: 2
+        x: 8502
+        y: 1285
+        width: 388
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852b10ad5a1f4c030800000000000000
+      internalID: 3514199303885271640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_69
+      rect:
+        serializedVersion: 2
+        x: 10424
+        y: 1285
+        width: 358
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1ef7c4260c5260800000000000000
+      internalID: 7087546668618226643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_70
+      rect:
+        serializedVersion: 2
+        x: 12358
+        y: 1285
+        width: 320
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7145026cae65ec40800000000000000
+      internalID: 5540956603207205243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_71
+      rect:
+        serializedVersion: 2
+        x: 14300
+        y: 1285
+        width: 272
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb469931ea8ea59a0800000000000000
+      internalID: -6243422099044997956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_72
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 207
+        width: 232
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae395ed2744425b60800000000000000
+      internalID: 7733318582651950058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_73
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 205
+        width: 200
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d968a1a878bda550800000000000000
+      internalID: 6173793492442573265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_74
+      rect:
+        serializedVersion: 2
+        x: 4743
+        y: 207
+        width: 182
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ad5c14ce4b03010800000000000000
+      internalID: 1166631230297725498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_75
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 207
+        width: 177
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e74dd9e1fd6f20800000000000000
+      internalID: 3417653678986224572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_76
+      rect:
+        serializedVersion: 2
+        x: 8566
+        y: 207
+        width: 182
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657ab12cbff2eb070800000000000000
+      internalID: 8123983536162842454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_77
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 211
+        width: 191
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056bf3c8de09bbec0800000000000000
+      internalID: -3550084531316869552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Attack_78
+      rect:
+        serializedVersion: 2
+        x: 12374
+        y: 215
+        width: 208
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38494a907036c170800000000000000
+      internalID: 8198293431857530942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

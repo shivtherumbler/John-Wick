@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: 3e631611cf676fe429ae5eb89db670e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7192704614810926956
+    second: Travis Death_0
+  - first:
+      213: -5488115088335164186
+    second: Travis Death_1
+  - first:
+      213: -7159639106663818108
+    second: Travis Death_2
+  - first:
+      213: -3436970960575031658
+    second: Travis Death_3
+  - first:
+      213: 2333469303911534759
+    second: Travis Death_4
+  - first:
+      213: -2420212812636076385
+    second: Travis Death_5
+  - first:
+      213: -1949009951070709970
+    second: Travis Death_6
+  - first:
+      213: 8089248972428344953
+    second: Travis Death_7
+  - first:
+      213: 6833653909860449050
+    second: Travis Death_8
+  - first:
+      213: -3184817748276903019
+    second: Travis Death_9
+  - first:
+      213: 2520067581047180595
+    second: Travis Death_10
+  - first:
+      213: -6819904688323539271
+    second: Travis Death_11
+  - first:
+      213: -6248247392998214719
+    second: Travis Death_12
+  - first:
+      213: 2815045260705043831
+    second: Travis Death_13
+  - first:
+      213: 3104997682194372037
+    second: Travis Death_14
+  - first:
+      213: 9040019085536570520
+    second: Travis Death_15
+  - first:
+      213: -1185809373406796861
+    second: Travis Death_16
+  - first:
+      213: 2072499721836006791
+    second: Travis Death_17
+  - first:
+      213: -5587961744925699983
+    second: Travis Death_18
+  - first:
+      213: -3421560045972577161
+    second: Travis Death_19
+  - first:
+      213: -7990150096940983927
+    second: Travis Death_20
+  - first:
+      213: -3551570983724086129
+    second: Travis Death_21
+  - first:
+      213: 4511802804108245640
+    second: Travis Death_22
+  - first:
+      213: 8563736253788245341
+    second: Travis Death_23
+  - first:
+      213: -2470816312397875238
+    second: Travis Death_24
+  - first:
+      213: 6878060334260033816
+    second: Travis Death_25
+  - first:
+      213: 353796168976134407
+    second: Travis Death_26
+  - first:
+      213: 291510559873364115
+    second: Travis Death_27
+  - first:
+      213: 1976323890677475107
+    second: Travis Death_28
+  - first:
+      213: -6193935987870797179
+    second: Travis Death_29
+  - first:
+      213: -347749602601769076
+    second: Travis Death_30
+  - first:
+      213: -10361845805260084
+    second: Travis Death_31
+  - first:
+      213: -528324948668705374
+    second: Travis Death_32
+  - first:
+      213: -8052744436983261877
+    second: Travis Death_33
+  - first:
+      213: 7595585368635633446
+    second: Travis Death_34
+  - first:
+      213: -2145558585998617239
+    second: Travis Death_35
+  - first:
+      213: -3640617678288032654
+    second: Travis Death_36
+  - first:
+      213: 1400027367159774848
+    second: Travis Death_37
+  - first:
+      213: -2845195684251755124
+    second: Travis Death_38
+  - first:
+      213: 8092885616807343702
+    second: Travis Death_39
+  - first:
+      213: 3542059692739520182
+    second: Travis Death_40
+  - first:
+      213: 3579286030900394487
+    second: Travis Death_41
+  - first:
+      213: -5990391041148270560
+    second: Travis Death_42
+  - first:
+      213: -5752239835674034639
+    second: Travis Death_43
+  - first:
+      213: 3508150217044987930
+    second: Travis Death_44
+  - first:
+      213: 1646106717788422858
+    second: Travis Death_45
+  - first:
+      213: -399422133188360076
+    second: Travis Death_46
+  - first:
+      213: -5170492629932438585
+    second: Travis Death_47
+  - first:
+      213: 4003853082581519633
+    second: Travis Death_48
+  - first:
+      213: 8924868206013326198
+    second: Travis Death_49
+  - first:
+      213: -6339626735441605317
+    second: Travis Death_50
+  - first:
+      213: 5064378188460581505
+    second: Travis Death_51
+  - first:
+      213: 5131189259608085354
+    second: Travis Death_52
+  - first:
+      213: -187473219999659761
+    second: Travis Death_53
+  - first:
+      213: -7490019680865573847
+    second: Travis Death_54
+  - first:
+      213: 3704574330288516531
+    second: Travis Death_55
+  - first:
+      213: 3905794890620063618
+    second: Travis Death_56
+  - first:
+      213: 1561174951946886721
+    second: Travis Death_57
+  - first:
+      213: -8600172044905821297
+    second: Travis Death_58
+  - first:
+      213: -5550861764959991608
+    second: Travis Death_59
+  - first:
+      213: 1953079868555289882
+    second: Travis Death_60
+  - first:
+      213: -715142397720495092
+    second: Travis Death_61
+  - first:
+      213: -3313670432257486807
+    second: Travis Death_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Travis Death_0
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 8835
+        width: 230
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f3e141dbe91d360800000000000000
+      internalID: 7192704614810926956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_1
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 8835
+        width: 212
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec2259876c46d3b0800000000000000
+      internalID: -5488115088335164186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_2
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 8835
+        width: 203
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cde477a2ad3ac90800000000000000
+      internalID: -7159639106663818108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_3
+      rect:
+        serializedVersion: 2
+        x: 6649
+        y: 8835
+        width: 206
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69697970f1d6d40d0800000000000000
+      internalID: -3436970960575031658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_4
+      rect:
+        serializedVersion: 2
+        x: 8560
+        y: 8835
+        width: 213
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0dce9f7f5226020800000000000000
+      internalID: 2333469303911534759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_5
+      rect:
+        serializedVersion: 2
+        x: 10442
+        y: 8835
+        width: 259
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f964afd054da96ed0800000000000000
+      internalID: -2420212812636076385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_6
+      rect:
+        serializedVersion: 2
+        x: 12340
+        y: 8835
+        width: 282
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e279aba96c9b3f4e0800000000000000
+      internalID: -1949009951070709970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 7756
+        width: 303
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef84de419c24070800000000000000
+      internalID: 8089248972428344953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_8
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 7756
+        width: 344
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bf037560406de50800000000000000
+      internalID: 6833653909860449050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_9
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 7756
+        width: 380
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593889fb1214dc3d0800000000000000
+      internalID: -3184817748276903019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_10
+      rect:
+        serializedVersion: 2
+        x: 6506
+        y: 7756
+        width: 402
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d8b42fc1419f220800000000000000
+      internalID: 2520067581047180595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_11
+      rect:
+        serializedVersion: 2
+        x: 8396
+        y: 7756
+        width: 397
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4472c1d4da51a0800000000000000
+      internalID: -6819904688323539271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_12
+      rect:
+        serializedVersion: 2
+        x: 10286
+        y: 7756
+        width: 388
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b497c914c949a0800000000000000
+      internalID: -6248247392998214719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_13
+      rect:
+        serializedVersion: 2
+        x: 12201
+        y: 7756
+        width: 364
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77598f6ffbc011720800000000000000
+      internalID: 2815045260705043831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6676
+        width: 326
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c55b93e0fa271b20800000000000000
+      internalID: 3104997682194372037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_15
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 6676
+        width: 284
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca8245679947d70800000000000000
+      internalID: 9040019085536570520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_16
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 6676
+        width: 230
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c362c658a82b8fe0800000000000000
+      internalID: -1185809373406796861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_17
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 6677
+        width: 256
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8125348ff2cc10800000000000000
+      internalID: 2072499721836006791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_18
+      rect:
+        serializedVersion: 2
+        x: 8380
+        y: 6686
+        width: 280
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1705b3736629372b0800000000000000
+      internalID: -5587961744925699983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_19
+      rect:
+        serializedVersion: 2
+        x: 10289
+        y: 6689
+        width: 292
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a222344d2480d0800000000000000
+      internalID: -3421560045972577161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_20
+      rect:
+        serializedVersion: 2
+        x: 12132
+        y: 6696
+        width: 355
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98997c902d84d1190800000000000000
+      internalID: -7990150096940983927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 5625
+        width: 359
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8a80e10946bec0800000000000000
+      internalID: -3551570983724086129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_22
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 5628
+        width: 344
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88abb7beeb42d9e30800000000000000
+      internalID: 4511802804108245640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_23
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 5628
+        width: 334
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dce2d00c088d670800000000000000
+      internalID: 8563736253788245341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_24
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 5613
+        width: 323
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b842a7a5e5bdd0800000000000000
+      internalID: -2470816312397875238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_25
+      rect:
+        serializedVersion: 2
+        x: 8298
+        y: 5595
+        width: 306
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8191647be67c37f50800000000000000
+      internalID: 6878060334260033816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_26
+      rect:
+        serializedVersion: 2
+        x: 10228
+        y: 5595
+        width: 288
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70177bebdbfe8e400800000000000000
+      internalID: 353796168976134407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_27
+      rect:
+        serializedVersion: 2
+        x: 12132
+        y: 5597
+        width: 285
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390f6894f47ab0400800000000000000
+      internalID: 291510559873364115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_28
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 4519
+        width: 323
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e2f88b105d6b10800000000000000
+      internalID: 1976323890677475107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_29
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 4520
+        width: 348
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f3713908ba0aa0800000000000000
+      internalID: -6193935987870797179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_30
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 4520
+        width: 340
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c876322349b8c2bf0800000000000000
+      internalID: -347749602601769076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_31
+      rect:
+        serializedVersion: 2
+        x: 6268
+        y: 4521
+        width: 353
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc26f85c4ff2bdff0800000000000000
+      internalID: -10361845805260084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_32
+      rect:
+        serializedVersion: 2
+        x: 8173
+        y: 4521
+        width: 369
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a510a422430ba8f0800000000000000
+      internalID: -528324948668705374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_33
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 4522
+        width: 382
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b451c9e8997ee3090800000000000000
+      internalID: -8052744436983261877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_34
+      rect:
+        serializedVersion: 2
+        x: 11987
+        y: 4524
+        width: 392
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6eae46a0f86960800000000000000
+      internalID: 7595585368635633446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_35
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3448
+        width: 397
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96553cc65d17932e0800000000000000
+      internalID: -2145558585998617239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_36
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 3449
+        width: 398
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c62aaa28de97dc0800000000000000
+      internalID: -3640617678288032654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_37
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 3461
+        width: 413
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e32670975ed6310800000000000000
+      internalID: 1400027367159774848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_38
+      rect:
+        serializedVersion: 2
+        x: 6127
+        y: 3436
+        width: 454
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d13b38995d388d0800000000000000
+      internalID: -2845195684251755124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_39
+      rect:
+        serializedVersion: 2
+        x: 7999
+        y: 3426
+        width: 494
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6567bad2794bf4070800000000000000
+      internalID: 8092885616807343702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_40
+      rect:
+        serializedVersion: 2
+        x: 9914
+        y: 3426
+        width: 490
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6e7fe168ce72130800000000000000
+      internalID: 3542059692739520182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_41
+      rect:
+        serializedVersion: 2
+        x: 11853
+        y: 3433
+        width: 475
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f5556ead2ca130800000000000000
+      internalID: 3579286030900394487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2346
+        width: 477
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028cca6261bdddca0800000000000000
+      internalID: -5990391041148270560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_43
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2355
+        width: 492
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e3ccb9850fb20b0800000000000000
+      internalID: -5752239835674034639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_44
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 2354
+        width: 522
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a101da119047fa030800000000000000
+      internalID: 3508150217044987930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_45
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 2350
+        width: 551
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2c920a65528d610800000000000000
+      internalID: 1646106717788422858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_46
+      rect:
+        serializedVersion: 2
+        x: 7979
+        y: 2350
+        width: 573
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47801e3afa7f47af0800000000000000
+      internalID: -399422133188360076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_47
+      rect:
+        serializedVersion: 2
+        x: 9899
+        y: 2348
+        width: 576
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0a17f858be38b0800000000000000
+      internalID: -5170492629932438585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_48
+      rect:
+        serializedVersion: 2
+        x: 11822
+        y: 2350
+        width: 573
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dcf105a2b809730800000000000000
+      internalID: 4003853082581519633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_49
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1272
+        width: 572
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6732a9ee8508bdb70800000000000000
+      internalID: 8924868206013326198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_50
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1274
+        width: 571
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0f69a21f1508a0800000000000000
+      internalID: -6339626735441605317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_51
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 1274
+        width: 571
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182ed635129484640800000000000000
+      internalID: 5064378188460581505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_52
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 1274
+        width: 569
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a635d360275a53740800000000000000
+      internalID: 5131189259608085354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_53
+      rect:
+        serializedVersion: 2
+        x: 7986
+        y: 1274
+        width: 569
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0985058916f56df0800000000000000
+      internalID: -187473219999659761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_54
+      rect:
+        serializedVersion: 2
+        x: 9907
+        y: 1274
+        width: 569
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924a259b8ca1e0890800000000000000
+      internalID: -7490019680865573847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_55
+      rect:
+        serializedVersion: 2
+        x: 11826
+        y: 1272
+        width: 570
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda0e8c9ba496330800000000000000
+      internalID: 3704574330288516531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 193
+        width: 569
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fc1fc52cb243630800000000000000
+      internalID: 3905794890620063618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_57
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 193
+        width: 569
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e180be8586aa510800000000000000
+      internalID: 1561174951946886721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_58
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 194
+        width: 568
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bc420471d06a880800000000000000
+      internalID: -8600172044905821297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_59
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 194
+        width: 569
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8034e62a067f2b0800000000000000
+      internalID: -5550861764959991608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_60
+      rect:
+        serializedVersion: 2
+        x: 7986
+        y: 194
+        width: 569
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a156437eacbba1b10800000000000000
+      internalID: 1953079868555289882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_61
+      rect:
+        serializedVersion: 2
+        x: 9905
+        y: 194
+        width: 570
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7c0c37cd4316f0800000000000000
+      internalID: -715142397720495092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Travis Death_62
+      rect:
+        serializedVersion: 2
+        x: 11826
+        y: 194
+        width: 570
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d3966c4a7302d0800000000000000
+      internalID: -3313670432257486807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

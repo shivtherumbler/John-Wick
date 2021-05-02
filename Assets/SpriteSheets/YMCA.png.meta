@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: be284dd66996cf54c8572cb04e3a1369
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4326275031198690924
+    second: YMCA_0
+  - first:
+      213: -4426606845301875240
+    second: YMCA_1
+  - first:
+      213: 400550512603778166
+    second: YMCA_2
+  - first:
+      213: -5875157330301841033
+    second: YMCA_3
+  - first:
+      213: 7600469023628390978
+    second: YMCA_4
+  - first:
+      213: -3691837536350234679
+    second: YMCA_5
+  - first:
+      213: -2640945025558694145
+    second: YMCA_6
+  - first:
+      213: 3878368153156274710
+    second: YMCA_7
+  - first:
+      213: 1032652318826366747
+    second: YMCA_8
+  - first:
+      213: -2940628151220237986
+    second: YMCA_9
+  - first:
+      213: 5294419380573110778
+    second: YMCA_10
+  - first:
+      213: 1687282554070941900
+    second: YMCA_11
+  - first:
+      213: 9086717660801269078
+    second: YMCA_12
+  - first:
+      213: 799277201458013135
+    second: YMCA_13
+  - first:
+      213: -7764104424286894135
+    second: YMCA_14
+  - first:
+      213: -8868491625692694697
+    second: YMCA_15
+  - first:
+      213: -5254301788934906074
+    second: YMCA_16
+  - first:
+      213: 4381969857494660873
+    second: YMCA_17
+  - first:
+      213: -1780722486721108070
+    second: YMCA_18
+  - first:
+      213: 8431629960678514933
+    second: YMCA_19
+  - first:
+      213: -6421265681909804544
+    second: YMCA_20
+  - first:
+      213: -752706986198211790
+    second: YMCA_21
+  - first:
+      213: -8402983916679809739
+    second: YMCA_22
+  - first:
+      213: -4572579379138712694
+    second: YMCA_23
+  - first:
+      213: -2431420233490401471
+    second: YMCA_24
+  - first:
+      213: -2710578179151909986
+    second: YMCA_25
+  - first:
+      213: 7057412083773601768
+    second: YMCA_26
+  - first:
+      213: 463730892730660812
+    second: YMCA_27
+  - first:
+      213: 7053770851183474035
+    second: YMCA_28
+  - first:
+      213: 1889936230584968030
+    second: YMCA_29
+  - first:
+      213: 2982745815108420023
+    second: YMCA_30
+  - first:
+      213: -7425314788940155996
+    second: YMCA_31
+  - first:
+      213: 7601604604664132271
+    second: YMCA_32
+  - first:
+      213: 7846339542232340485
+    second: YMCA_33
+  - first:
+      213: -8503430583706974248
+    second: YMCA_34
+  - first:
+      213: 287994018868691871
+    second: YMCA_35
+  - first:
+      213: 806303467763172260
+    second: YMCA_36
+  - first:
+      213: -6966819784906491796
+    second: YMCA_37
+  - first:
+      213: -2301299302375338911
+    second: YMCA_38
+  - first:
+      213: -3618926391217080973
+    second: YMCA_39
+  - first:
+      213: -4744997698437239811
+    second: YMCA_40
+  - first:
+      213: 9197499360610415845
+    second: YMCA_41
+  - first:
+      213: 6497729181764070521
+    second: YMCA_42
+  - first:
+      213: 789043958704646592
+    second: YMCA_43
+  - first:
+      213: -3800933444021122208
+    second: YMCA_44
+  - first:
+      213: 2762426807974051516
+    second: YMCA_45
+  - first:
+      213: 4174019993631495225
+    second: YMCA_46
+  - first:
+      213: -330686693753788167
+    second: YMCA_47
+  - first:
+      213: 7645116286742944954
+    second: YMCA_48
+  - first:
+      213: 348577718307281424
+    second: YMCA_49
+  - first:
+      213: 4454821206927986517
+    second: YMCA_50
+  - first:
+      213: -2324235366505827566
+    second: YMCA_51
+  - first:
+      213: -3897075846642316208
+    second: YMCA_52
+  - first:
+      213: 8954570532042803652
+    second: YMCA_53
+  - first:
+      213: 1500488440048060282
+    second: YMCA_54
+  - first:
+      213: 3642056330285391256
+    second: YMCA_55
+  - first:
+      213: -6120611603026105086
+    second: YMCA_56
+  - first:
+      213: -8715384988719388638
+    second: YMCA_57
+  - first:
+      213: 8163397781062281933
+    second: YMCA_58
+  - first:
+      213: 1713329218213876159
+    second: YMCA_59
+  - first:
+      213: -3713227066498337892
+    second: YMCA_60
+  - first:
+      213: -8709016365415803843
+    second: YMCA_61
+  - first:
+      213: 5332196651778426007
+    second: YMCA_62
+  - first:
+      213: -7012000444016503769
+    second: YMCA_63
+  - first:
+      213: -4676297830419245037
+    second: YMCA_64
+  - first:
+      213: -2136818506578086293
+    second: YMCA_65
+  - first:
+      213: -4329138026272078597
+    second: YMCA_66
+  - first:
+      213: 8764837018592325647
+    second: YMCA_67
+  - first:
+      213: -6904588149604202717
+    second: YMCA_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YMCA_0
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 8847
+        width: 388
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49192ccd7cbf5f3c0800000000000000
+      internalID: -4326275031198690924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_1
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 8847
+        width: 395
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd187107888192c0800000000000000
+      internalID: -4426606845301875240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_2
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 8847
+        width: 419
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c495aa19a0f8500800000000000000
+      internalID: 400550512603778166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_3
+      rect:
+        serializedVersion: 2
+        x: 6483
+        y: 8847
+        width: 433
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77193d7398f377ea0800000000000000
+      internalID: -5875157330301841033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_4
+      rect:
+        serializedVersion: 2
+        x: 8401
+        y: 8847
+        width: 435
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242fab7de4a4a7960800000000000000
+      internalID: 7600469023628390978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_5
+      rect:
+        serializedVersion: 2
+        x: 10323
+        y: 8851
+        width: 427
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c714652255f3ccc0800000000000000
+      internalID: -3691837536350234679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_6
+      rect:
+        serializedVersion: 2
+        x: 12243
+        y: 8851
+        width: 418
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff63d38dd7a795bd0800000000000000
+      internalID: -2640945025558694145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_7
+      rect:
+        serializedVersion: 2
+        x: 14159
+        y: 8847
+        width: 414
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a411d694bb2d530800000000000000
+      internalID: 3878368153156274710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 7767
+        width: 417
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17012010d7b45e00800000000000000
+      internalID: 1032652318826366747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_9
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 7767
+        width: 435
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59010ec64ac037d0800000000000000
+      internalID: -2940628151220237986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_10
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 7767
+        width: 435
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10107206e897940800000000000000
+      internalID: 5294419380573110778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_11
+      rect:
+        serializedVersion: 2
+        x: 6490
+        y: 7767
+        width: 370
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0cc171b8e6a6710800000000000000
+      internalID: 1687282554070941900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_12
+      rect:
+        serializedVersion: 2
+        x: 8463
+        y: 7767
+        width: 283
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df35aa1918a1e70800000000000000
+      internalID: 9086717660801269078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_13
+      rect:
+        serializedVersion: 2
+        x: 10405
+        y: 7767
+        width: 261
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc329f5416a971b00800000000000000
+      internalID: 799277201458013135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_14
+      rect:
+        serializedVersion: 2
+        x: 12333
+        y: 7767
+        width: 260
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7475f792c504490800000000000000
+      internalID: -7764104424286894135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_15
+      rect:
+        serializedVersion: 2
+        x: 14255
+        y: 7767
+        width: 266
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577f0d8ad9cce480800000000000000
+      internalID: -8868491625692694697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 6687
+        width: 266
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fd5d78c58f417b0800000000000000
+      internalID: -5254301788934906074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_17
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 6687
+        width: 266
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90730746e52efcc30800000000000000
+      internalID: 4381969857494660873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_18
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 6687
+        width: 269
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97207f355a9947e0800000000000000
+      internalID: -1780722486721108070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_19
+      rect:
+        serializedVersion: 2
+        x: 6605
+        y: 6687
+        width: 273
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a8cbc6ca230570800000000000000
+      internalID: 8431629960678514933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_20
+      rect:
+        serializedVersion: 2
+        x: 8525
+        y: 6687
+        width: 305
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021c5532e413e6a0800000000000000
+      internalID: -6421265681909804544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_21
+      rect:
+        serializedVersion: 2
+        x: 10448
+        y: 6687
+        width: 329
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23363bbebf8dd85f0800000000000000
+      internalID: -752706986198211790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_22
+      rect:
+        serializedVersion: 2
+        x: 12372
+        y: 6687
+        width: 351
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535baf016aa926b80800000000000000
+      internalID: -8402983916679809739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_23
+      rect:
+        serializedVersion: 2
+        x: 14292
+        y: 6689
+        width: 360
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b292ff74fea80c0800000000000000
+      internalID: -4572579379138712694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_24
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 5609
+        width: 358
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1477b1b0e2cd14ed0800000000000000
+      internalID: -2431420233490401471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_25
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 5609
+        width: 372
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ba9bfd187126ad0800000000000000
+      internalID: -2710578179151909986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_26
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 5609
+        width: 381
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7ffdef5e6f0f160800000000000000
+      internalID: 7057412083773601768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_27
+      rect:
+        serializedVersion: 2
+        x: 6610
+        y: 5609
+        width: 379
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7f59c3ac08f6600800000000000000
+      internalID: 463730892730660812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_28
+      rect:
+        serializedVersion: 2
+        x: 8530
+        y: 5609
+        width: 368
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375bbc7773704e160800000000000000
+      internalID: 7053770851183474035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_29
+      rect:
+        serializedVersion: 2
+        x: 10450
+        y: 5609
+        width: 336
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5368280df66a3a10800000000000000
+      internalID: 1889936230584968030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_30
+      rect:
+        serializedVersion: 2
+        x: 12368
+        y: 5607
+        width: 299
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b102dcf387d46920800000000000000
+      internalID: 2982745815108420023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_31
+      rect:
+        serializedVersion: 2
+        x: 14285
+        y: 5607
+        width: 280
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a374cb5a8bf3f890800000000000000
+      internalID: -7425314788940155996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_32
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 4527
+        width: 262
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2baf7ec135e7960800000000000000
+      internalID: 7601604604664132271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_33
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 4527
+        width: 242
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081cd1fd3cc3ec60800000000000000
+      internalID: 7846339542232340485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_34
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 4527
+        width: 232
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d704fdefeebdf980800000000000000
+      internalID: -8503430583706974248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_35
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 4527
+        width: 230
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930b18c8092ff300800000000000000
+      internalID: 287994018868691871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_36
+      rect:
+        serializedVersion: 2
+        x: 8523
+        y: 4527
+        width: 230
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a380316bb0903b00800000000000000
+      internalID: 806303467763172260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_37
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 4527
+        width: 229
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683c724152e05f90800000000000000
+      internalID: -6966819784906491796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_38
+      rect:
+        serializedVersion: 2
+        x: 12363
+        y: 4527
+        width: 227
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c40103a742010e0800000000000000
+      internalID: -2301299302375338911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_39
+      rect:
+        serializedVersion: 2
+        x: 14275
+        y: 4527
+        width: 229
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375383ffe9df6cdc0800000000000000
+      internalID: -3618926391217080973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_40
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3447
+        width: 238
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2a9cbbb1662eb0800000000000000
+      internalID: -4744997698437239811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_41
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 3447
+        width: 236
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4f01320f414af70800000000000000
+      internalID: 9197499360610415845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_42
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 3447
+        width: 227
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cacbda3429c2a50800000000000000
+      internalID: 6497729181764070521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_43
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 3447
+        width: 232
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c922c6cc4f33fa00800000000000000
+      internalID: 789043958704646592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_44
+      rect:
+        serializedVersion: 2
+        x: 8502
+        y: 3447
+        width: 233
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b083ebb2f504bc0800000000000000
+      internalID: -3800933444021122208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_45
+      rect:
+        serializedVersion: 2
+        x: 10418
+        y: 3447
+        width: 237
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3f4fbb8c165620800000000000000
+      internalID: 2762426807974051516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_46
+      rect:
+        serializedVersion: 2
+        x: 12325
+        y: 3447
+        width: 248
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93498cdb1191de930800000000000000
+      internalID: 4174019993631495225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_47
+      rect:
+        serializedVersion: 2
+        x: 14208
+        y: 3447
+        width: 283
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86bde343a296bf0800000000000000
+      internalID: -330686693753788167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_48
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2367
+        width: 339
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcddd9d1c8e81a60800000000000000
+      internalID: 7645116286742944954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_49
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 2367
+        width: 394
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5254869566d400800000000000000
+      internalID: 348577718307281424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_50
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 2367
+        width: 382
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fc1d8f844b2dd30800000000000000
+      internalID: 4454821206927986517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_51
+      rect:
+        serializedVersion: 2
+        x: 6425
+        y: 2367
+        width: 378
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213350d9f38aebfd0800000000000000
+      internalID: -2324235366505827566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_52
+      rect:
+        serializedVersion: 2
+        x: 8375
+        y: 2367
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c41224a2ecae9c0800000000000000
+      internalID: -3897075846642316208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_53
+      rect:
+        serializedVersion: 2
+        x: 10338
+        y: 2367
+        width: 307
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9879e9476054c70800000000000000
+      internalID: 8954570532042803652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_54
+      rect:
+        serializedVersion: 2
+        x: 12277
+        y: 2367
+        width: 285
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7705aa494ec2d410800000000000000
+      internalID: 1500488440048060282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_55
+      rect:
+        serializedVersion: 2
+        x: 14189
+        y: 2367
+        width: 326
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d9f9a9fee2b8230800000000000000
+      internalID: 3642056330285391256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_56
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1287
+        width: 360
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dae79ec283f0ba0800000000000000
+      internalID: -6120611603026105086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_57
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 1287
+        width: 375
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228eb92678bbc0780800000000000000
+      internalID: -8715384988719388638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_58
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 1287
+        width: 372
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaed64c7073a4170800000000000000
+      internalID: 8163397781062281933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_59
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 1287
+        width: 322
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb19feaa8d7f6c710800000000000000
+      internalID: 1713329218213876159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_60
+      rect:
+        serializedVersion: 2
+        x: 8446
+        y: 1287
+        width: 289
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93300318a7f77cc0800000000000000
+      internalID: -3713227066498337892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_61
+      rect:
+        serializedVersion: 2
+        x: 10388
+        y: 1287
+        width: 272
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d35c02cb532780800000000000000
+      internalID: -8709016365415803843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_62
+      rect:
+        serializedVersion: 2
+        x: 12301
+        y: 1287
+        width: 277
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794c7c58a94cff940800000000000000
+      internalID: 5332196651778426007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_63
+      rect:
+        serializedVersion: 2
+        x: 14210
+        y: 1287
+        width: 303
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724d3815fbe50be90800000000000000
+      internalID: -7012000444016503769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 207
+        width: 317
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185ee936e37a1fb0800000000000000
+      internalID: -4676297830419245037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_65
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 207
+        width: 339
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66beedb3ee7852e0800000000000000
+      internalID: -2136818506578086293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_66
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 207
+        width: 373
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ca60e6efcbe3c0800000000000000
+      internalID: -4329138026272078597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_67
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 207
+        width: 386
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00b36f84d4f2a970800000000000000
+      internalID: 8764837018592325647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YMCA_68
+      rect:
+        serializedVersion: 2
+        x: 8427
+        y: 207
+        width: 388
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3274876f8a9fd20a0800000000000000
+      internalID: -6904588149604202717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,7 +11,7 @@ public class Enemy : MonoBehaviour
     public float Distance;
     public float CurrentYPosition;
     bool canShoot;
-    private int life;
+    public int life=5;
 
     private bool shoot;
     public GameObject Projectile;
@@ -28,7 +28,6 @@ public class Enemy : MonoBehaviour
         collision2D = GetComponent<BoxCollider2D>();
         targetPlayer = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         CurrentYPosition = transform.position.y;
-        life = 3;
     }
 
     // Update is called once per frame
@@ -126,7 +125,7 @@ public class Enemy : MonoBehaviour
 
         if (collision.gameObject.tag == "Kill")
         {
-            life = life-3;
+            life = life-5;
             if (life <= 0)
             {
                 animator.SetBool("Enemy Death", true);
