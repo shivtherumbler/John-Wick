@@ -300,7 +300,7 @@ public class Player : MonoBehaviour
 
         }
 
-            if (Input.GetKey(KeyCode.B) && h == 0)
+            if (Input.GetKey(KeyCode.B) && h == 0 && v==0)
             {
             //if (IsGrounded())
             //{
@@ -381,7 +381,7 @@ public class Player : MonoBehaviour
         }
         if (other.tag == "Briefcase")
         {
-
+            animator.SetBool("Idle", false);
             animator.SetBool("Pickup Briefcase", true);
             animator.SetBool("Down", false);
             animator.SetBool("Walk", false);
@@ -390,7 +390,7 @@ public class Player : MonoBehaviour
             animator.SetBool("Crouch", false);
             animator.SetBool("Crouch Walk", false);
             animator.SetBool("Hit", false);
-            animator.SetBool("Idle", false);
+            animator.SetBool("Briefcase Idle", true);
 
         }
 
@@ -414,7 +414,7 @@ public class Player : MonoBehaviour
         if (collision.tag == "Briefcase")
         {
 
-            Destroy(Briefcase.gameObject, 0.25f);
+            Destroy(Briefcase.gameObject);
             animator.SetBool("Briefcase Idle", true);
         }
         animator.SetBool("Pickup Briefcase", false);

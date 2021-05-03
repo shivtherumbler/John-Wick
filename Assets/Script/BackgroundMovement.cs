@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class BackgroundMovement : MonoBehaviour
 {
     public GameObject Canvas;
+    public GameObject healthBar;
     private BoxCollider2D collision2D;
     private int collide;
 
@@ -33,6 +34,7 @@ public class BackgroundMovement : MonoBehaviour
                 if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
                 {
                     Canvas.transform.position = new Vector2(Canvas.transform.position.x - i, Canvas.transform.position.y);
+                    healthBar.transform.position = new Vector2(healthBar.transform.position.x + i, healthBar.transform.position.y);
                     collide = 1;
                 }
             }
@@ -41,6 +43,7 @@ public class BackgroundMovement : MonoBehaviour
             if ((Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)))
                 {
                     Canvas.transform.position = new Vector2(Canvas.transform.position.x + i, Canvas.transform.position.y);
+                    healthBar.transform.position = new Vector2(healthBar.transform.position.x - i, healthBar.transform.position.y);
                     collide = 0;
                 }
             }

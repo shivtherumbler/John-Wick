@@ -11,7 +11,8 @@ public class Enemy : MonoBehaviour
     public float Distance;
     public float CurrentYPosition;
     bool canShoot;
-    public int life=5;
+    public int life;
+    public int maxlife=5;
 
     private bool shoot;
     public GameObject Projectile;
@@ -28,6 +29,7 @@ public class Enemy : MonoBehaviour
         collision2D = GetComponent<BoxCollider2D>();
         targetPlayer = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         CurrentYPosition = transform.position.y;
+        life = maxlife;
     }
 
     // Update is called once per frame
@@ -134,6 +136,7 @@ public class Enemy : MonoBehaviour
                     {
                         speed = 0;
                         Destroy(gameObject, 1.5f);
+                        Physics2D.IgnoreCollision(targetPlayer.GetComponent<BoxCollider2D>(), collision2D, true);
                     }
                 }
             }
@@ -148,7 +151,9 @@ public class Enemy : MonoBehaviour
                 {
                     if (animator.GetBool("Enemy Death") == true)
                     {
+                        speed = 0;
                         Destroy(gameObject, 1.5f);
+                        Physics2D.IgnoreCollision(targetPlayer.GetComponent<BoxCollider2D>(), collision2D, true);
                     }
                 }
             }

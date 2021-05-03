@@ -8,21 +8,27 @@ public class PlayerHealthManager : MonoBehaviour
     public float FlashLength;
     private float flashCounter;
     private SpriteRenderer spriteRenderer;
-    private int life;
     private Animator animator;
     public GameObject Damage;
+    public int PlayerMaxHealth;
+    public int PlayerCurrentHealth=20;
 
     // Start is called before the first frame update
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-        life = 10;
+        PlayerCurrentHealth = PlayerMaxHealth;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(PlayerCurrentHealth <=0)
+        {
+            gameObject.SetActive(false);
+        }
+
         if (FlashActive)
         {
             if (flashCounter > FlashLength * .66f)
@@ -57,16 +63,10 @@ public class PlayerHealthManager : MonoBehaviour
         {
             int anime = 0;
 
-            if (animator.GetBool("Block")==true)
+            if (animator.GetBool("Block")==false)
             {
-               
-                    life++;
-                
-            }
 
-            else if (animator.GetBool("Block")==false)
-            {
-                life--;
+                PlayerCurrentHealth--;
                 Damage.GetComponent<SpriteRenderer>().enabled = true;
 
                 FlashActive = true;
@@ -74,7 +74,7 @@ public class PlayerHealthManager : MonoBehaviour
 
                 if (anime == 0)
                 {
-                    if (life <= 0)
+                    if (PlayerCurrentHealth <= 0)
                     {
                         animator.SetBool("Die", true);
                         Destroy(this.gameObject, 5);
@@ -95,8 +95,8 @@ public class PlayerHealthManager : MonoBehaviour
 
         if (collision.tag == "Forward")
         {
-            Debug.Log(life);
-            life = 10;
+            Debug.Log(PlayerCurrentHealth);
+            PlayerCurrentHealth = PlayerMaxHealth;
         }
     }
 }

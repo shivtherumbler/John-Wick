@@ -328,6 +328,8 @@ MonoBehaviour:
   FlashActive: 0
   FlashLength: 0.2
   Damage: {fileID: 0}
+  PlayerMaxHealth: 0
+  PlayerCurrentHealth: 20
 --- !u!1 &5902187584659150829
 GameObject:
   m_ObjectHideFlags: 0

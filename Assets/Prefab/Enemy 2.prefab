@@ -225,7 +225,8 @@ MonoBehaviour:
   speed: 0.1
   Distance: 1.5
   CurrentYPosition: 0
-  life: 5
+  life: 0
+  maxlife: 5
   Projectile: {fileID: 0}
   Shooting: {fileID: 0}
   Velocity: 0
