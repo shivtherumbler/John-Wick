@@ -235,7 +235,7 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.S) && h == 0 || Input.GetKey(KeyCode.DownArrow) && h == 0)
             {
-                float i = 0.2f;
+                float i = 0.3f;
                 // if (IsGrounded())
                 {
                     animator.SetBool("Down", true);
@@ -245,13 +245,13 @@ public class Player : MonoBehaviour
                 if (transform.position.y < CurrentYPosition)
                 {
                     CurrentYPosition = transform.position.y;
-                    if (transform.localScale.y >= 27)
+                    if (transform.localScale.y >= 32)
                 {
                     i = 0;
                 }
                 else
                 {
-                    i = 0.2f;
+                    i = 0.3f;
                 }
                 if (v != 0 || v!=0 && h!=0)
                 {
@@ -265,7 +265,7 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.W) && h == 0 || Input.GetKey(KeyCode.UpArrow) && h == 0)
             {
-                float i = 0.2f;
+                float i = 0.3f;
             // if (IsGrounded())
             {
                 animator.SetBool("Up", true);
@@ -281,7 +281,7 @@ public class Player : MonoBehaviour
                     }
                     else
                     {
-                        i = 0.2f;
+                        i = 0.3f;
                     }
                     if (v != 0 || v!= 0 && h != 0)
                     {
@@ -366,7 +366,7 @@ public class Player : MonoBehaviour
 
         if (other.tag == "Gun")
         {
-
+            animator.SetBool("Idle", false);
             animator.SetBool("Pickup Gun", true);
             animator.SetBool("Down", false);
             animator.SetBool("Walk", false);
@@ -375,7 +375,6 @@ public class Player : MonoBehaviour
             animator.SetBool("Crouch", false);
             animator.SetBool("Crouch Walk", false);
             animator.SetBool("Hit", false);
-            animator.SetBool("Idle", false);
             animator.SetBool("Briefcase Idle", false);
 
         }

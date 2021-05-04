@@ -46,20 +46,20 @@ public class Enemy : MonoBehaviour
 
         if (transform.position.x < targetPlayer.position.x)
         {
-            transform.localScale = new Vector3(0.67f, 0.67f, 1);
+            transform.localScale = new Vector3(0.8f, 0.8f, 1);
         }
         else
         {
-            transform.localScale = new Vector3(-0.67f, 0.67f, 1);
+            transform.localScale = new Vector3(-0.8f, 0.8f, 1);
         }
 
         if (transform.position.y < CurrentYPosition)
         {
             CurrentYPosition = transform.position.y;
-            if (transform.localScale.y >= 0.7)
+            if (transform.localScale.y >= 0.8)
             {
                 float i = 0.005f;
-                if (transform.localScale.y >= 0.7)
+                if (transform.localScale.y >= 0.8)
                 {
                     i = 0;
                 }
