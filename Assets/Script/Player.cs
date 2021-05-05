@@ -235,7 +235,7 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.S) && h == 0 || Input.GetKey(KeyCode.DownArrow) && h == 0)
             {
-                float i = 0.3f;
+                float i = 0.4f;
                 // if (IsGrounded())
                 {
                     animator.SetBool("Down", true);
@@ -245,13 +245,13 @@ public class Player : MonoBehaviour
                 if (transform.position.y < CurrentYPosition)
                 {
                     CurrentYPosition = transform.position.y;
-                    if (transform.localScale.y >= 32)
+                    if (transform.localScale.y >= 40)
                 {
                     i = 0;
                 }
                 else
                 {
-                    i = 0.3f;
+                    i = 0.4f;
                 }
                 if (v != 0 || v!=0 && h!=0)
                 {
@@ -265,7 +265,7 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.W) && h == 0 || Input.GetKey(KeyCode.UpArrow) && h == 0)
             {
-                float i = 0.3f;
+                float i = 0.4f;
             // if (IsGrounded())
             {
                 animator.SetBool("Up", true);
@@ -281,7 +281,7 @@ public class Player : MonoBehaviour
                     }
                     else
                     {
-                        i = 0.3f;
+                        i = 0.4f;
                     }
                     if (v != 0 || v!= 0 && h != 0)
                     {
@@ -375,7 +375,7 @@ public class Player : MonoBehaviour
             animator.SetBool("Crouch", false);
             animator.SetBool("Crouch Walk", false);
             animator.SetBool("Hit", false);
-            animator.SetBool("Briefcase Idle", false);
+            animator.SetBool("Rifle Idle", true);
 
         }
         if (other.tag == "Briefcase")
@@ -405,7 +405,7 @@ public class Player : MonoBehaviour
         if (collision.tag == "Gun")
         {
            
-            Destroy(Gun.gameObject, 0.25f);
+            Destroy(Gun.gameObject);
             animator.SetBool("Rifle Idle", true);
         }
         animator.SetBool("Pickup Gun", false);
