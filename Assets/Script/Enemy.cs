@@ -6,13 +6,13 @@ public class Enemy : MonoBehaviour
 {
     private BoxCollider2D collision2D;
     private Transform targetPlayer;
-    public float speed = 2f;
+    public float Speed = 2f;
     private Animator animator;
     public float Distance;
     public float CurrentYPosition;
     bool canShoot;
-    public int life;
-    public int maxlife=5;
+    public int Life;
+    public int MaxLife=5;
 
     private bool shoot;
     public GameObject Projectile;
@@ -29,7 +29,7 @@ public class Enemy : MonoBehaviour
         collision2D = GetComponent<BoxCollider2D>();
         targetPlayer = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         CurrentYPosition = transform.position.y;
-        life = maxlife;
+        Life = MaxLife;
     }
 
     // Update is called once per frame
@@ -40,26 +40,26 @@ public class Enemy : MonoBehaviour
 
         if (Vector2.Distance(transform.position, targetPlayer.position) >= Distance)
         {
-            transform.position = Vector2.MoveTowards(transform.position, targetPlayer.position, speed * UnityEngine.Time.deltaTime);
+            transform.position = Vector2.MoveTowards(transform.position, targetPlayer.position, Speed * UnityEngine.Time.deltaTime);
 
         }
 
         if (transform.position.x < targetPlayer.position.x)
         {
-            transform.localScale = new Vector3(0.8f, 0.8f, 1);
+            transform.localScale = new Vector3(1f, 1f, 1);
         }
         else
         {
-            transform.localScale = new Vector3(-0.8f, 0.8f, 1);
+            transform.localScale = new Vector3(-1f, 1f, 1);
         }
 
         if (transform.position.y < CurrentYPosition)
         {
             CurrentYPosition = transform.position.y;
-            if (transform.localScale.y >= 0.8)
+            if (transform.localScale.y >= 1)
             {
                 float i = 0.005f;
-                if (transform.localScale.y >= 0.8)
+                if (transform.localScale.y >= 1)
                 {
                     i = 0;
                 }
@@ -93,12 +93,12 @@ public class Enemy : MonoBehaviour
         if (Shoot() == true)
         {
             animator.SetBool("Attack", true);
-            speed = 0.2f;
+            Speed = 0.2f;
         }
         else if (Shoot() == false)
         {
             animator.SetBool("Attack", false);
-            speed = 2f;
+            Speed = 2f;
         }
 
         if (!canShoot)
@@ -127,14 +127,14 @@ public class Enemy : MonoBehaviour
 
         if (collision.gameObject.tag == "Kill")
         {
-            life = life-5;
-            if (life <= 0)
+            Life = Life-5;
+            if (Life <= 0)
             {
                 animator.SetBool("Enemy Death", true);
                 {
                     if (animator.GetBool("Enemy Death") == true)
                     {
-                        speed = 0;
+                        Speed = 0;
                         Destroy(gameObject, 1.5f);
                         Physics2D.IgnoreCollision(targetPlayer.GetComponent<BoxCollider2D>(), collision2D, true);
                     }
@@ -144,14 +144,14 @@ public class Enemy : MonoBehaviour
 
         if(collision.gameObject.tag == "Bullet")
         {
-            life--;
-            if(life<=0)
+            Life--;
+            if(Life<=0)
             {
                 animator.SetBool("Enemy Death", true);
                 {
                     if (animator.GetBool("Enemy Death") == true)
                     {
-                        speed = 0;
+                        Speed = 0;
                         Destroy(gameObject, 1.5f);
                         Physics2D.IgnoreCollision(targetPlayer.GetComponent<BoxCollider2D>(), collision2D, true);
                     }

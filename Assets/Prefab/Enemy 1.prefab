@@ -167,7 +167,7 @@ Transform:
   m_GameObject: {fileID: 1141403940682864857}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -7.02, y: -1.66, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7188064448384309686}
   - {fileID: 306159174140350175}
@@ -282,11 +282,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b3bc09528f39ab419e2ec79d18e6e68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  Speed: 2
   Distance: 4
   CurrentYPosition: 0
-  life: 0
-  maxlife: 100
+  Life: 0
+  MaxLife: 100
   Projectile: {fileID: 3899844598566309113, guid: ff7f85b8513baf64d9cf15ed3df265bf,
     type: 3}
   Shooting: {fileID: 7188064448384309686}
@@ -325,9 +325,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d063f4de9460fa646b08c1e1016308bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBar: {fileID: 1306021202388607251}
+  HealthBar: {fileID: 1306021202388607251}
   HPText: {fileID: 3068271609788983012}
-  enemyHealth: {fileID: 1141403940682864860}
+  EnemyHealth: {fileID: 1141403940682864860}
 --- !u!1 &1848649648849370416
 GameObject:
   m_ObjectHideFlags: 0

@@ -803,11 +803,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b3bc09528f39ab419e2ec79d18e6e68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  Speed: 2
   Distance: 4
   CurrentYPosition: 0
-  life: 0
-  maxlife: 100
+  Life: 0
+  MaxLife: 100
   Projectile: {fileID: 3899844598566309113, guid: ff7f85b8513baf64d9cf15ed3df265bf,
     type: 3}
   Shooting: {fileID: 2452490923332751551}
@@ -825,6 +825,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d063f4de9460fa646b08c1e1016308bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBar: {fileID: 313289281641040640}
+  HealthBar: {fileID: 313289281641040640}
   HPText: {fileID: 2231242353528543773}
-  enemyHealth: {fileID: 9114241743169908666}
+  EnemyHealth: {fileID: 9114241743169908666}

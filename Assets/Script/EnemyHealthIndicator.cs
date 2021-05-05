@@ -5,9 +5,9 @@ using UnityEngine.UI;
 
 public class EnemyHealthIndicator : MonoBehaviour
 {
-    public Slider healthBar;
+    public Slider HealthBar;
     public Text HPText;
-    public Enemy enemyHealth;
+    public Enemy EnemyHealth;
 
     // Start is called before the first frame update
     void Start()
@@ -19,11 +19,11 @@ public class EnemyHealthIndicator : MonoBehaviour
     void Update()
     {
 
-        healthBar.maxValue = enemyHealth.maxlife;
-        healthBar.value = enemyHealth.life;
-        if (enemyHealth.life >= 0)
+        HealthBar.maxValue = EnemyHealth.MaxLife;
+        HealthBar.value = EnemyHealth.Life;
+        if (EnemyHealth.Life >= 0)
         {
-            HPText.text = "HP:" + enemyHealth.life + "/" + enemyHealth.maxlife;
+            HPText.text = "HP:" + EnemyHealth.Life + "/" + EnemyHealth.MaxLife;
         }
     }
 }

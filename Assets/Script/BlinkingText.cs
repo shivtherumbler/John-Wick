@@ -5,11 +5,11 @@ using UnityEngine.UI;
 
 public class BlinkingText : MonoBehaviour
 {
-    public Text text;
+    public Text Text;
 
     private void Start()
     {
-        text = GetComponent<Text>();
+        Text = GetComponent<Text>();
         StartBlinking();
     }
 
@@ -17,15 +17,15 @@ public class BlinkingText : MonoBehaviour
     {
         while (true)
         {
-            switch (text.color.a.ToString())
+            switch (Text.color.a.ToString())
             {
                 case "0":
-                    text.color = new Color(text.color.r, text.color.g, text.color.b, 1);
+                    Text.color = new Color(Text.color.r, Text.color.g, Text.color.b, 1);
                     yield return new WaitForSeconds(0.5f);
                     break;
 
                 case "1":
-                    text.color = new Color(text.color.r, text.color.g, text.color.b, 0);
+                    Text.color = new Color(Text.color.r, Text.color.g, Text.color.b, 0);
                     yield return new WaitForSeconds(0.5f);
                     break;
             }
