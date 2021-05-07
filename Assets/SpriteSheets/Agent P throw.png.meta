@@ -1,0 +1,1712 @@
+fileFormatVersion: 2
+guid: 84ebb11edd9fd194bba175464a7a3054
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8261783505728353331
+    second: Agent P throw_0
+  - first:
+      213: 747683335749018502
+    second: Agent P throw_1
+  - first:
+      213: -8819792744010216509
+    second: Agent P throw_2
+  - first:
+      213: 8043963179118952724
+    second: Agent P throw_3
+  - first:
+      213: -7259883335575055461
+    second: Agent P throw_4
+  - first:
+      213: 4237448649459664342
+    second: Agent P throw_5
+  - first:
+      213: 3194131736065185450
+    second: Agent P throw_6
+  - first:
+      213: 8461278842537794931
+    second: Agent P throw_7
+  - first:
+      213: 7998738729656734457
+    second: Agent P throw_8
+  - first:
+      213: -5803145308492304046
+    second: Agent P throw_9
+  - first:
+      213: 2372689031650664233
+    second: Agent P throw_10
+  - first:
+      213: -7994694552120024472
+    second: Agent P throw_11
+  - first:
+      213: -4152365714796943214
+    second: Agent P throw_12
+  - first:
+      213: 1392300978635658729
+    second: Agent P throw_13
+  - first:
+      213: -2875909941943085601
+    second: Agent P throw_14
+  - first:
+      213: 5229762000834122505
+    second: Agent P throw_15
+  - first:
+      213: -2167319870261117382
+    second: Agent P throw_16
+  - first:
+      213: -4862191652137108948
+    second: Agent P throw_17
+  - first:
+      213: 6598282731568983909
+    second: Agent P throw_18
+  - first:
+      213: -7020686579075414384
+    second: Agent P throw_19
+  - first:
+      213: 797057106215668679
+    second: Agent P throw_20
+  - first:
+      213: -2006347445172945204
+    second: Agent P throw_21
+  - first:
+      213: -9163106044706772521
+    second: Agent P throw_22
+  - first:
+      213: -60159508976643424
+    second: Agent P throw_23
+  - first:
+      213: -6005638790437027569
+    second: Agent P throw_24
+  - first:
+      213: 6685016112176196995
+    second: Agent P throw_25
+  - first:
+      213: -1978335124634484601
+    second: Agent P throw_26
+  - first:
+      213: 1667417943507557667
+    second: Agent P throw_27
+  - first:
+      213: 6966942960116079234
+    second: Agent P throw_28
+  - first:
+      213: 5097318836035545344
+    second: Agent P throw_29
+  - first:
+      213: 6248122268618613339
+    second: Agent P throw_30
+  - first:
+      213: 6028628542389454870
+    second: Agent P throw_31
+  - first:
+      213: 8692006468190439191
+    second: Agent P throw_32
+  - first:
+      213: -6960159199679139330
+    second: Agent P throw_33
+  - first:
+      213: -8163829777553142487
+    second: Agent P throw_34
+  - first:
+      213: 1058433822116148418
+    second: Agent P throw_35
+  - first:
+      213: -1756241206174382032
+    second: Agent P throw_36
+  - first:
+      213: -6858427570311329348
+    second: Agent P throw_37
+  - first:
+      213: -527034883760743020
+    second: Agent P throw_38
+  - first:
+      213: -8157464965870363029
+    second: Agent P throw_39
+  - first:
+      213: -5941748595385419328
+    second: Agent P throw_40
+  - first:
+      213: 1051469624285493412
+    second: Agent P throw_41
+  - first:
+      213: -70177806192848919
+    second: Agent P throw_42
+  - first:
+      213: 6024086261634563454
+    second: Agent P throw_43
+  - first:
+      213: 5928194401240425069
+    second: Agent P throw_44
+  - first:
+      213: 3334914598576169297
+    second: Agent P throw_45
+  - first:
+      213: 7826075395192839789
+    second: Agent P throw_46
+  - first:
+      213: 7592093237557142056
+    second: Agent P throw_47
+  - first:
+      213: -5229510775822270894
+    second: Agent P throw_48
+  - first:
+      213: -94884772812527559
+    second: Agent P throw_49
+  - first:
+      213: 4430446165733800901
+    second: Agent P throw_50
+  - first:
+      213: 6305250179141696252
+    second: Agent P throw_51
+  - first:
+      213: -5423738206428680395
+    second: Agent P throw_52
+  - first:
+      213: 9140271651068301055
+    second: Agent P throw_53
+  - first:
+      213: 3810153935679235018
+    second: Agent P throw_54
+  - first:
+      213: -4027749853489473470
+    second: Agent P throw_55
+  - first:
+      213: 382480027650318342
+    second: Agent P throw_56
+  - first:
+      213: 5594170424133767296
+    second: Agent P throw_57
+  - first:
+      213: 3165726621689185132
+    second: Agent P throw_58
+  - first:
+      213: 21630151023985704
+    second: Agent P throw_59
+  - first:
+      213: -5067014809761583832
+    second: Agent P throw_60
+  - first:
+      213: 755784958021415470
+    second: Agent P throw_61
+  - first:
+      213: 5792597831511482669
+    second: Agent P throw_62
+  - first:
+      213: 2149473567869515824
+    second: Agent P throw_63
+  - first:
+      213: -7938207432182184094
+    second: Agent P throw_64
+  - first:
+      213: -1749633152678155613
+    second: Agent P throw_65
+  - first:
+      213: -4275848812960682544
+    second: Agent P throw_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agent P throw_0
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 8849
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334be1e5350c7a270800000000000000
+      internalID: 8261783505728353331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_1
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 8849
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683accf480e406a00800000000000000
+      internalID: 747683335749018502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_2
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 8849
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb04b48a3dc99580800000000000000
+      internalID: -8819792744010216509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_3
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 8849
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41105b584e5e1af60800000000000000
+      internalID: 8043963179118952724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_4
+      rect:
+        serializedVersion: 2
+        x: 8513
+        y: 8849
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9355402296bf3b90800000000000000
+      internalID: -7259883335575055461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_5
+      rect:
+        serializedVersion: 2
+        x: 10435
+        y: 8849
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5800188117eca30800000000000000
+      internalID: 4237448649459664342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_6
+      rect:
+        serializedVersion: 2
+        x: 12355
+        y: 8849
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa697f504e5d35c20800000000000000
+      internalID: 3194131736065185450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_7
+      rect:
+        serializedVersion: 2
+        x: 14277
+        y: 8849
+        width: 199
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d5efa07408c6570800000000000000
+      internalID: 8461278842537794931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_8
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 7769
+        width: 197
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f25958de7a310f60800000000000000
+      internalID: 7998738729656734457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_9
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 7769
+        width: 191
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251775b9616177fa0800000000000000
+      internalID: -5803145308492304046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_10
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 7769
+        width: 189
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd00e6a1c7de020800000000000000
+      internalID: 2372689031650664233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_11
+      rect:
+        serializedVersion: 2
+        x: 6607
+        y: 7769
+        width: 185
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a22d99a32d0190800000000000000
+      internalID: -7994694552120024472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_12
+      rect:
+        serializedVersion: 2
+        x: 8530
+        y: 7769
+        width: 182
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986400f165df56c0800000000000000
+      internalID: -4152365714796943214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_13
+      rect:
+        serializedVersion: 2
+        x: 10454
+        y: 7769
+        width: 178
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d1040d52725310800000000000000
+      internalID: 1392300978635658729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_14
+      rect:
+        serializedVersion: 2
+        x: 12378
+        y: 7769
+        width: 174
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d7702527b618d0800000000000000
+      internalID: -2875909941943085601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_15
+      rect:
+        serializedVersion: 2
+        x: 14300
+        y: 7769
+        width: 172
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903dd8fc4d8d39840800000000000000
+      internalID: 5229762000834122505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 6689
+        width: 172
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eb07a9f022ce1e0800000000000000
+      internalID: -2167319870261117382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_17
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 6689
+        width: 174
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a7f701476068cb0800000000000000
+      internalID: -4862191652137108948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_18
+      rect:
+        serializedVersion: 2
+        x: 4692
+        y: 6689
+        width: 182
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f63c66f2fc19b50800000000000000
+      internalID: 6598282731568983909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_19
+      rect:
+        serializedVersion: 2
+        x: 6607
+        y: 6689
+        width: 189
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0968bd6e0c2819e90800000000000000
+      internalID: -7020686579075414384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_20
+      rect:
+        serializedVersion: 2
+        x: 8523
+        y: 6691
+        width: 195
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8fa11737bf0b00800000000000000
+      internalID: 797057106215668679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_21
+      rect:
+        serializedVersion: 2
+        x: 10437
+        y: 6691
+        width: 203
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce3472f0a50824e0800000000000000
+      internalID: -2006347445172945204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_22
+      rect:
+        serializedVersion: 2
+        x: 12357
+        y: 6691
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9a40eb99b16d080800000000000000
+      internalID: -9163106044706772521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_23
+      rect:
+        serializedVersion: 2
+        x: 14277
+        y: 6691
+        width: 205
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d59dce354a2ff0800000000000000
+      internalID: -60159508976643424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_24
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 5611
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c1bed65fa7aca0800000000000000
+      internalID: -6005638790437027569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_25
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 5611
+        width: 208
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d660c3cb2f5cc50800000000000000
+      internalID: 6685016112176196995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_26
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 5611
+        width: 227
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780cb719faa8b84e0800000000000000
+      internalID: -1978335124634484601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_27
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 5611
+        width: 218
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d51e609cbd32710800000000000000
+      internalID: 1667417943507557667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_28
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 5611
+        width: 207
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9024b5bd8fa060800000000000000
+      internalID: 6966942960116079234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_29
+      rect:
+        serializedVersion: 2
+        x: 10435
+        y: 5611
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096ec089705db640800000000000000
+      internalID: 5097318836035545344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_30
+      rect:
+        serializedVersion: 2
+        x: 12355
+        y: 5610
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52683e691ac5b650800000000000000
+      internalID: 6248122268618613339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_31
+      rect:
+        serializedVersion: 2
+        x: 14275
+        y: 5611
+        width: 210
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61887efd7bdf9a350800000000000000
+      internalID: 6028628542389454870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_32
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 4531
+        width: 210
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71783e1a4d530a870800000000000000
+      internalID: 8692006468190439191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_33
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 4531
+        width: 210
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef135fa951c886f90800000000000000
+      internalID: -6960159199679139330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_34
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 4531
+        width: 210
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d4036321044be80800000000000000
+      internalID: -8163829777553142487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_35
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 4531
+        width: 212
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4fd7114ff40be00800000000000000
+      internalID: 1058433822116148418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_36
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 4531
+        width: 212
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038821e8de390a7e0800000000000000
+      internalID: -1756241206174382032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_37
+      rect:
+        serializedVersion: 2
+        x: 10435
+        y: 4531
+        width: 212
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb909d95678f1d0a0800000000000000
+      internalID: -6858427570311329348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_38
+      rect:
+        serializedVersion: 2
+        x: 12355
+        y: 4531
+        width: 212
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d9339c0989fa8f0800000000000000
+      internalID: -527034883760743020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_39
+      rect:
+        serializedVersion: 2
+        x: 14275
+        y: 4531
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e5a9965dcdace80800000000000000
+      internalID: -8157464965870363029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_40
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 3451
+        width: 208
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9306b122baa8da0800000000000000
+      internalID: -5941748595385419328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_41
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 3451
+        width: 208
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a876a76d02979e00800000000000000
+      internalID: 1051469624285493412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_42
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 3451
+        width: 208
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef42c638ada60ff0800000000000000
+      internalID: -70177806192848919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_43
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 3451
+        width: 206
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df909b98ad99350800000000000000
+      internalID: 6024086261634563454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_44
+      rect:
+        serializedVersion: 2
+        x: 8517
+        y: 3451
+        width: 206
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d622565266d254250800000000000000
+      internalID: 5928194401240425069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_45
+      rect:
+        serializedVersion: 2
+        x: 10437
+        y: 3449
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151a564882ff74e20800000000000000
+      internalID: 3334914598576169297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_46
+      rect:
+        serializedVersion: 2
+        x: 12355
+        y: 3449
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ed4eb8b1ecb9c60800000000000000
+      internalID: 7826075395192839789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_47
+      rect:
+        serializedVersion: 2
+        x: 14275
+        y: 3449
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8222d3e23988c5960800000000000000
+      internalID: 7592093237557142056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_48
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2369
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e390218ab0d67b0800000000000000
+      internalID: -5229510775822270894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_49
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 2369
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9386ae54dc6eeaef0800000000000000
+      internalID: -94884772812527559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_50
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 2369
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbfd01705b1c7d30800000000000000
+      internalID: 4430446165733800901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_51
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 2369
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa75bb91afb08750800000000000000
+      internalID: 6305250179141696252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_52
+      rect:
+        serializedVersion: 2
+        x: 8513
+        y: 2369
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53faa1366d20bb4b0800000000000000
+      internalID: -5423738206428680395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_53
+      rect:
+        serializedVersion: 2
+        x: 10433
+        y: 2369
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffecf70b3a4c8de70800000000000000
+      internalID: 9140271651068301055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_54
+      rect:
+        serializedVersion: 2
+        x: 12353
+        y: 2369
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3a7b341d260e430800000000000000
+      internalID: 3810153935679235018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_55
+      rect:
+        serializedVersion: 2
+        x: 14273
+        y: 2369
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248d0a229de8a18c0800000000000000
+      internalID: -4027749853489473470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_56
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1289
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60067c50f87de4500800000000000000
+      internalID: 382480027650318342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_57
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1289
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0805d7f8c5c72ad40800000000000000
+      internalID: 5594170424133767296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_58
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 1289
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6308c5f69beeeb20800000000000000
+      internalID: 3165726621689185132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_59
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 1289
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824093cf188dc4000800000000000000
+      internalID: 21630151023985704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_60
+      rect:
+        serializedVersion: 2
+        x: 8513
+        y: 1289
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d648070e85ea9b0800000000000000
+      internalID: -5067014809761583832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_61
+      rect:
+        serializedVersion: 2
+        x: 10433
+        y: 1289
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22337d3a661d7a00800000000000000
+      internalID: 755784958021415470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_62
+      rect:
+        serializedVersion: 2
+        x: 12353
+        y: 1289
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21a0f98901736050800000000000000
+      internalID: 5792597831511482669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_63
+      rect:
+        serializedVersion: 2
+        x: 14273
+        y: 1289
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03834f252d674dd10800000000000000
+      internalID: 2149473567869515824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_64
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 209
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2674a6b1662d5d190800000000000000
+      internalID: -7938207432182184094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_65
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 209
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa2f57eaed08b7e0800000000000000
+      internalID: -1749633152678155613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P throw_66
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 209
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dde336b82229a4c0800000000000000
+      internalID: -4275848812960682544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

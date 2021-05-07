@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: f6ba8c8afe74f6c49ad6b66a943bf38d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1544058836138914172
+    second: Agent P walk_0
+  - first:
+      213: 2161083237585608920
+    second: Agent P walk_1
+  - first:
+      213: 6696670787817182292
+    second: Agent P walk_2
+  - first:
+      213: 8709152680640322312
+    second: Agent P walk_3
+  - first:
+      213: -3322098366932002093
+    second: Agent P walk_4
+  - first:
+      213: -6127641339014018491
+    second: Agent P walk_5
+  - first:
+      213: -7196617527162967220
+    second: Agent P walk_6
+  - first:
+      213: 4875625488300364563
+    second: Agent P walk_7
+  - first:
+      213: 9085518570473683257
+    second: Agent P walk_8
+  - first:
+      213: -1557221080723651328
+    second: Agent P walk_9
+  - first:
+      213: 1771925543260732166
+    second: Agent P walk_10
+  - first:
+      213: 8942829518802913595
+    second: Agent P walk_11
+  - first:
+      213: -6239278420736612031
+    second: Agent P walk_12
+  - first:
+      213: 7199877424674989457
+    second: Agent P walk_13
+  - first:
+      213: 7956035933072825962
+    second: Agent P walk_14
+  - first:
+      213: 4288743104773745396
+    second: Agent P walk_15
+  - first:
+      213: -8525174036724729742
+    second: Agent P walk_16
+  - first:
+      213: -2853034177870300926
+    second: Agent P walk_17
+  - first:
+      213: 7683413439209313325
+    second: Agent P walk_18
+  - first:
+      213: 3688653564831554369
+    second: Agent P walk_19
+  - first:
+      213: 6965036433832143958
+    second: Agent P walk_20
+  - first:
+      213: -3331063829993720619
+    second: Agent P walk_21
+  - first:
+      213: 1305713042777157154
+    second: Agent P walk_22
+  - first:
+      213: 550071510228056253
+    second: Agent P walk_23
+  - first:
+      213: -4410319997570069891
+    second: Agent P walk_24
+  - first:
+      213: 8731733807563496352
+    second: Agent P walk_25
+  - first:
+      213: -4107589327955912041
+    second: Agent P walk_26
+  - first:
+      213: 8654031400162241194
+    second: Agent P walk_27
+  - first:
+      213: -7309208477838136130
+    second: Agent P walk_28
+  - first:
+      213: -6837375916819689949
+    second: Agent P walk_29
+  - first:
+      213: -622042412645660944
+    second: Agent P walk_30
+  - first:
+      213: -1761760774436414237
+    second: Agent P walk_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agent P walk_0
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 4530
+        width: 205
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e03a75ba6629ae0800000000000000
+      internalID: -1544058836138914172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_1
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 4531
+        width: 205
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0675231c5bdfd10800000000000000
+      internalID: 2161083237585608920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_2
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 4531
+        width: 207
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454149dd99a5fec50800000000000000
+      internalID: 6696670787817182292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_3
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 4531
+        width: 206
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b153058302dd870800000000000000
+      internalID: 8709152680640322312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_4
+      rect:
+        serializedVersion: 2
+        x: 8514
+        y: 4530
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dadc12f22985e1d0800000000000000
+      internalID: -3322098366932002093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_5
+      rect:
+        serializedVersion: 2
+        x: 10435
+        y: 4530
+        width: 208
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a0215faae36faa0800000000000000
+      internalID: -6127641339014018491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_6
+      rect:
+        serializedVersion: 2
+        x: 12355
+        y: 4530
+        width: 208
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4be9150d7a702c90800000000000000
+      internalID: -7196617527162967220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 3450
+        width: 209
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313dbf7ac83b9a340800000000000000
+      internalID: 4875625488300364563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_8
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 3450
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9397c41b00f361e70800000000000000
+      internalID: 9085518570473683257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_9
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 3450
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00587b67da3a36ae0800000000000000
+      internalID: -1557221080723651328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_10
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 3450
+        width: 207
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3f7eb4e4279810800000000000000
+      internalID: 1771925543260732166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_11
+      rect:
+        serializedVersion: 2
+        x: 8506
+        y: 3450
+        width: 207
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b390023f0105b1c70800000000000000
+      internalID: 8942829518802913595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_12
+      rect:
+        serializedVersion: 2
+        x: 10427
+        y: 3450
+        width: 207
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149eb3d5551a969a0800000000000000
+      internalID: -6239278420736612031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_13
+      rect:
+        serializedVersion: 2
+        x: 12348
+        y: 3450
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956b140f5a1be360800000000000000
+      internalID: 7199877424674989457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2370
+        width: 206
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9c0b3784896e60800000000000000
+      internalID: 7956035933072825962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_15
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 2370
+        width: 206
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae1fc812da48b30800000000000000
+      internalID: 4288743104773745396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_16
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 2370
+        width: 206
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b3a4c16f70b980800000000000000
+      internalID: -8525174036724729742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_17
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 2372
+        width: 205
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209fdfff78cf768d0800000000000000
+      internalID: -2853034177870300926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_18
+      rect:
+        serializedVersion: 2
+        x: 8514
+        y: 2374
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24988280d7f0aa60800000000000000
+      internalID: 7683413439209313325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_19
+      rect:
+        serializedVersion: 2
+        x: 10435
+        y: 2372
+        width: 208
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b5347bfdab03330800000000000000
+      internalID: 3688653564831554369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_20
+      rect:
+        serializedVersion: 2
+        x: 12356
+        y: 2370
+        width: 209
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce736fbb7c8a060800000000000000
+      internalID: 6965036433832143958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_21
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1290
+        width: 210
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d47219681fa5c1d0800000000000000
+      internalID: -3331063829993720619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_22
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1289
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ea35d2813de1210800000000000000
+      internalID: 1305713042777157154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_23
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 1289
+        width: 210
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b438cf1f32a700800000000000000
+      internalID: 550071510228056253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_24
+      rect:
+        serializedVersion: 2
+        x: 6591
+        y: 1289
+        width: 210
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ac80f34556bc2c0800000000000000
+      internalID: -4410319997570069891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_25
+      rect:
+        serializedVersion: 2
+        x: 8511
+        y: 1291
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5711a2a95d2970800000000000000
+      internalID: 8731733807563496352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_26
+      rect:
+        serializedVersion: 2
+        x: 10429
+        y: 1291
+        width: 208
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a9008e449eef6c0800000000000000
+      internalID: -4107589327955912041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_27
+      rect:
+        serializedVersion: 2
+        x: 12350
+        y: 1291
+        width: 207
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa2fb915bb491870800000000000000
+      internalID: 8654031400162241194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_28
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 211
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc2f218d99709a90800000000000000
+      internalID: -7309208477838136130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_29
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 211
+        width: 207
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ec62264d2cc11a0800000000000000
+      internalID: -6837375916819689949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_30
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 211
+        width: 205
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6470fa8bf0e57f0800000000000000
+      internalID: -622042412645660944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent P walk_31
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 211
+        width: 204
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec108ce8e7fc87e0800000000000000
+      internalID: -1761760774436414237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

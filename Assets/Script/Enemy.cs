@@ -46,11 +46,11 @@ public class Enemy : MonoBehaviour
 
         if (transform.position.x < targetPlayer.position.x)
         {
-            transform.localScale = new Vector3(1f, 1f, 1);
+            transform.localScale = new Vector3(0.9f, 0.9f, 1);
         }
         else
         {
-            transform.localScale = new Vector3(-1f, 1f, 1);
+            transform.localScale = new Vector3(-0.9f, 0.9f, 1);
         }
 
         if (transform.position.y < CurrentYPosition)

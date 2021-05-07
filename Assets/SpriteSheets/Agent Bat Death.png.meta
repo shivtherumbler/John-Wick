@@ -1,0 +1,1712 @@
+fileFormatVersion: 2
+guid: ec4cb1b174b48394a8a8ab240a13e428
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4831420264352352760
+    second: Agent Bat Death_0
+  - first:
+      213: 7439037451969121383
+    second: Agent Bat Death_1
+  - first:
+      213: -6231819705337573639
+    second: Agent Bat Death_2
+  - first:
+      213: 7432956256379073746
+    second: Agent Bat Death_3
+  - first:
+      213: -3363032253007926492
+    second: Agent Bat Death_4
+  - first:
+      213: 966341222494305953
+    second: Agent Bat Death_5
+  - first:
+      213: -7607047849134635518
+    second: Agent Bat Death_6
+  - first:
+      213: -8009910919596958778
+    second: Agent Bat Death_7
+  - first:
+      213: -3921109803925895325
+    second: Agent Bat Death_8
+  - first:
+      213: -8900240376676306507
+    second: Agent Bat Death_9
+  - first:
+      213: 8143106327259634032
+    second: Agent Bat Death_10
+  - first:
+      213: 2910383167054634065
+    second: Agent Bat Death_11
+  - first:
+      213: 4423906631743638936
+    second: Agent Bat Death_12
+  - first:
+      213: -2272033478566879582
+    second: Agent Bat Death_13
+  - first:
+      213: -5815889201124824569
+    second: Agent Bat Death_14
+  - first:
+      213: -7927989782536839138
+    second: Agent Bat Death_15
+  - first:
+      213: -312223019852261510
+    second: Agent Bat Death_16
+  - first:
+      213: -8586283623820026628
+    second: Agent Bat Death_17
+  - first:
+      213: -7253870736042392314
+    second: Agent Bat Death_18
+  - first:
+      213: -2024707359587918808
+    second: Agent Bat Death_19
+  - first:
+      213: 7909391344631521405
+    second: Agent Bat Death_20
+  - first:
+      213: -4997696224005585327
+    second: Agent Bat Death_21
+  - first:
+      213: -2149429512224122272
+    second: Agent Bat Death_22
+  - first:
+      213: 8801442026241171610
+    second: Agent Bat Death_23
+  - first:
+      213: 1890151045972930417
+    second: Agent Bat Death_24
+  - first:
+      213: -7523667142233560940
+    second: Agent Bat Death_25
+  - first:
+      213: 7000962552415737932
+    second: Agent Bat Death_26
+  - first:
+      213: -5607741831723525747
+    second: Agent Bat Death_27
+  - first:
+      213: -4815684142680009051
+    second: Agent Bat Death_28
+  - first:
+      213: -921517877326850981
+    second: Agent Bat Death_29
+  - first:
+      213: 3223921251205923600
+    second: Agent Bat Death_30
+  - first:
+      213: 2200542796373679382
+    second: Agent Bat Death_31
+  - first:
+      213: 6114441754184970653
+    second: Agent Bat Death_32
+  - first:
+      213: -1973953241837955075
+    second: Agent Bat Death_33
+  - first:
+      213: 5719667823445851010
+    second: Agent Bat Death_34
+  - first:
+      213: 4005856281170686511
+    second: Agent Bat Death_35
+  - first:
+      213: 6565938047261573467
+    second: Agent Bat Death_36
+  - first:
+      213: 1230918631414427616
+    second: Agent Bat Death_37
+  - first:
+      213: 8595125238698019201
+    second: Agent Bat Death_38
+  - first:
+      213: 2183642290183736875
+    second: Agent Bat Death_39
+  - first:
+      213: 4074673947052202221
+    second: Agent Bat Death_40
+  - first:
+      213: -4456160915281773683
+    second: Agent Bat Death_41
+  - first:
+      213: -1667893978857975995
+    second: Agent Bat Death_42
+  - first:
+      213: 3662440966716112360
+    second: Agent Bat Death_43
+  - first:
+      213: 7011063750054038743
+    second: Agent Bat Death_44
+  - first:
+      213: -2618667089967428044
+    second: Agent Bat Death_45
+  - first:
+      213: -667710825601303676
+    second: Agent Bat Death_46
+  - first:
+      213: -4601431885897250205
+    second: Agent Bat Death_47
+  - first:
+      213: 3632413812172516387
+    second: Agent Bat Death_48
+  - first:
+      213: 4556764553242013169
+    second: Agent Bat Death_49
+  - first:
+      213: -554457467255492944
+    second: Agent Bat Death_50
+  - first:
+      213: 4520308029225161136
+    second: Agent Bat Death_51
+  - first:
+      213: 5979586600247578063
+    second: Agent Bat Death_52
+  - first:
+      213: 4954363987346084055
+    second: Agent Bat Death_53
+  - first:
+      213: 58866853327582043
+    second: Agent Bat Death_54
+  - first:
+      213: 402729562463238968
+    second: Agent Bat Death_55
+  - first:
+      213: 3415499944427459548
+    second: Agent Bat Death_56
+  - first:
+      213: 6539971360562409612
+    second: Agent Bat Death_57
+  - first:
+      213: 4822109475977791406
+    second: Agent Bat Death_58
+  - first:
+      213: 7191621747717136711
+    second: Agent Bat Death_59
+  - first:
+      213: 3587080215340824627
+    second: Agent Bat Death_60
+  - first:
+      213: 1263056886520159848
+    second: Agent Bat Death_61
+  - first:
+      213: 1889434581951652153
+    second: Agent Bat Death_62
+  - first:
+      213: 7286802149525299788
+    second: Agent Bat Death_63
+  - first:
+      213: 6784462048227363942
+    second: Agent Bat Death_64
+  - first:
+      213: -5572313980248452783
+    second: Agent Bat Death_65
+  - first:
+      213: -7115299458551057863
+    second: Agent Bat Death_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agent Bat Death_0
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 8843
+        width: 358
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80677a61ed853fcb0800000000000000
+      internalID: -4831420264352352760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_1
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 8843
+        width: 358
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c427b1625cc3760800000000000000
+      internalID: 7439037451969121383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_2
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 8843
+        width: 358
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe031fdef02489a0800000000000000
+      internalID: -6231819705337573639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_3
+      rect:
+        serializedVersion: 2
+        x: 6554
+        y: 8843
+        width: 358
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4fd7c655a272760800000000000000
+      internalID: 7432956256379073746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_4
+      rect:
+        serializedVersion: 2
+        x: 8473
+        y: 8842
+        width: 359
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42be747ebfb1451d0800000000000000
+      internalID: -3363032253007926492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_5
+      rect:
+        serializedVersion: 2
+        x: 10392
+        y: 8842
+        width: 360
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef692d832296d00800000000000000
+      internalID: 966341222494305953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_6
+      rect:
+        serializedVersion: 2
+        x: 12312
+        y: 8842
+        width: 360
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2064eeaf8465e6690800000000000000
+      internalID: -7607047849134635518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_7
+      rect:
+        serializedVersion: 2
+        x: 14232
+        y: 8843
+        width: 360
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb96eaf47417d090800000000000000
+      internalID: -8009910919596958778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 7765
+        width: 360
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36702b3886b6599c0800000000000000
+      internalID: -3921109803925895325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_9
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 7765
+        width: 354
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1be9c688efb7480800000000000000
+      internalID: -8900240376676306507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_10
+      rect:
+        serializedVersion: 2
+        x: 4632
+        y: 7767
+        width: 360
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079db848f00220170800000000000000
+      internalID: 8143106327259634032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_11
+      rect:
+        serializedVersion: 2
+        x: 6531
+        y: 7775
+        width: 387
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c51901212c36820800000000000000
+      internalID: 2910383167054634065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_12
+      rect:
+        serializedVersion: 2
+        x: 8438
+        y: 7773
+        width: 409
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d039884afd46d30800000000000000
+      internalID: 4423906631743638936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_13
+      rect:
+        serializedVersion: 2
+        x: 10347
+        y: 7763
+        width: 420
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aed938c69d1870e0800000000000000
+      internalID: -2272033478566879582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_14
+      rect:
+        serializedVersion: 2
+        x: 12258
+        y: 7760
+        width: 427
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aace1e59fc94fa0800000000000000
+      internalID: -5815889201124824569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_15
+      rect:
+        serializedVersion: 2
+        x: 14170
+        y: 7765
+        width: 427
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1027fc0c4f1af190800000000000000
+      internalID: -7927989782536839138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_16
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 6685
+        width: 428
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77910351d2caabf0800000000000000
+      internalID: -312223019852261510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_17
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 6683
+        width: 443
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1475498467d880800000000000000
+      internalID: -8586283623820026628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_18
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 6683
+        width: 452
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605879b8ff2155b90800000000000000
+      internalID: -7253870736042392314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_19
+      rect:
+        serializedVersion: 2
+        x: 6398
+        y: 6685
+        width: 456
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c94a1426bc6e3e0800000000000000
+      internalID: -2024707359587918808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_20
+      rect:
+        serializedVersion: 2
+        x: 8298
+        y: 6685
+        width: 465
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70af4ea58dc3cd60800000000000000
+      internalID: 7909391344631521405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_21
+      rect:
+        serializedVersion: 2
+        x: 10203
+        y: 6687
+        width: 474
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15606d063cd94aab0800000000000000
+      internalID: -4997696224005585327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_22
+      rect:
+        serializedVersion: 2
+        x: 12130
+        y: 6700
+        width: 463
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ad32e2f31bb22e0800000000000000
+      internalID: -2149429512224122272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_23
+      rect:
+        serializedVersion: 2
+        x: 14045
+        y: 6680
+        width: 480
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90ac4d04e0052a70800000000000000
+      internalID: 8801442026241171610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 5600
+        width: 502
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fac03ac5a2b3a10800000000000000
+      internalID: 1890151045972930417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_25
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 5603
+        width: 515
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498e3e2a890969790800000000000000
+      internalID: -7523667142233560940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_26
+      rect:
+        serializedVersion: 2
+        x: 4390
+        y: 5596
+        width: 499
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c485d86495a682160800000000000000
+      internalID: 7000962552415737932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_27
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 5590
+        width: 500
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d895500e38c4d22b0800000000000000
+      internalID: -5607741831723525747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_28
+      rect:
+        serializedVersion: 2
+        x: 8217
+        y: 5598
+        width: 497
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6931d69c04b2db0800000000000000
+      internalID: -4815684142680009051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_29
+      rect:
+        serializedVersion: 2
+        x: 10132
+        y: 5602
+        width: 496
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d2cb7f5c1633f0800000000000000
+      internalID: -921517877326850981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_30
+      rect:
+        serializedVersion: 2
+        x: 12050
+        y: 5605
+        width: 497
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01346f10c4badbc20800000000000000
+      internalID: 3223921251205923600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_31
+      rect:
+        serializedVersion: 2
+        x: 13966
+        y: 5603
+        width: 499
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd5eaa306e98e10800000000000000
+      internalID: 2200542796373679382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4522
+        width: 501
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f206316cdad450800000000000000
+      internalID: 6114441754184970653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_33
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 4520
+        width: 506
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df794092cfb1b94e0800000000000000
+      internalID: -1973953241837955075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_34
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 4518
+        width: 510
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb8b1d497506f40800000000000000
+      internalID: 5719667823445851010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_35
+      rect:
+        serializedVersion: 2
+        x: 6267
+        y: 4518
+        width: 514
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2232745019a79730800000000000000
+      internalID: 4005856281170686511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_36
+      rect:
+        serializedVersion: 2
+        x: 8185
+        y: 4520
+        width: 512
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518f3cbdd5ee1b50800000000000000
+      internalID: 6565938047261573467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_37
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 4520
+        width: 515
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efeddc39f9151110800000000000000
+      internalID: 1230918631414427616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_38
+      rect:
+        serializedVersion: 2
+        x: 12018
+        y: 4518
+        width: 515
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189079c9dd4084770800000000000000
+      internalID: 8595125238698019201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_39
+      rect:
+        serializedVersion: 2
+        x: 13938
+        y: 4516
+        width: 514
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e0ceee71bdd4e10800000000000000
+      internalID: 2183642290183736875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_40
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3434
+        width: 512
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8d595cd562c8830800000000000000
+      internalID: 4074673947052202221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_41
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 3434
+        width: 510
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b76aed1498822c0800000000000000
+      internalID: -4456160915281773683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_42
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 3434
+        width: 506
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f482b53437ad8e0800000000000000
+      internalID: -1667893978857975995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_43
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 3438
+        width: 502
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb3ff97aa93d230800000000000000
+      internalID: 3662440966716112360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_44
+      rect:
+        serializedVersion: 2
+        x: 8180
+        y: 3442
+        width: 504
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc69f955d4c4160800000000000000
+      internalID: 7011063750054038743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_45
+      rect:
+        serializedVersion: 2
+        x: 10102
+        y: 3443
+        width: 502
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e4c7de720a8abd0800000000000000
+      internalID: -2618667089967428044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_46
+      rect:
+        serializedVersion: 2
+        x: 12023
+        y: 3440
+        width: 499
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bf953ba80dbb6f0800000000000000
+      internalID: -667710825601303676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_47
+      rect:
+        serializedVersion: 2
+        x: 13947
+        y: 3438
+        width: 495
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a40f6441e6420c0800000000000000
+      internalID: -4601431885897250205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2358
+        width: 491
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ce3c7ed1de86230800000000000000
+      internalID: 3632413812172516387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_49
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 2358
+        width: 493
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fde419e731ec3f30800000000000000
+      internalID: 4556764553242013169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_50
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 2358
+        width: 497
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be6c250fdb2e48f0800000000000000
+      internalID: -554457467255492944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_51
+      rect:
+        serializedVersion: 2
+        x: 6267
+        y: 2358
+        width: 497
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1df45f33c5bbe30800000000000000
+      internalID: 4520308029225161136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_52
+      rect:
+        serializedVersion: 2
+        x: 8185
+        y: 2356
+        width: 499
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd417be452cbf250800000000000000
+      internalID: 5979586600247578063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_53
+      rect:
+        serializedVersion: 2
+        x: 10105
+        y: 2356
+        width: 499
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d050c11ccf61c440800000000000000
+      internalID: 4954363987346084055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_54
+      rect:
+        serializedVersion: 2
+        x: 12023
+        y: 2356
+        width: 501
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b2a9571321d000800000000000000
+      internalID: 58866853327582043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_55
+      rect:
+        serializedVersion: 2
+        x: 13943
+        y: 2354
+        width: 501
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b7b2f3768c69500800000000000000
+      internalID: 402729562463238968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_56
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1274
+        width: 502
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd317f57a1b466f20800000000000000
+      internalID: 3415499944427459548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_57
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1272
+        width: 502
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80fc8b5d45a2ca50800000000000000
+      internalID: 6539971360562409612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_58
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 1272
+        width: 502
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea783bf05039be240800000000000000
+      internalID: 4822109475977791406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_59
+      rect:
+        serializedVersion: 2
+        x: 6262
+        y: 1272
+        width: 502
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74167af60e5cdc360800000000000000
+      internalID: 7191621747717136711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_60
+      rect:
+        serializedVersion: 2
+        x: 8182
+        y: 1273
+        width: 502
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b830637ed7c130800000000000000
+      internalID: 3587080215340824627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_61
+      rect:
+        serializedVersion: 2
+        x: 10102
+        y: 1274
+        width: 502
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e152cdb87478110800000000000000
+      internalID: 1263056886520159848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_62
+      rect:
+        serializedVersion: 2
+        x: 12022
+        y: 1274
+        width: 502
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931219bddbe983a10800000000000000
+      internalID: 1889434581951652153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_63
+      rect:
+        serializedVersion: 2
+        x: 13943
+        y: 1275
+        width: 501
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c422207a2fbef1560800000000000000
+      internalID: 7286802149525299788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_64
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 196
+        width: 501
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c06b88940472e50800000000000000
+      internalID: 6784462048227363942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_65
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 196
+        width: 501
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151195655f92ba2b0800000000000000
+      internalID: -5572313980248452783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Death_66
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 196
+        width: 501
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932f88647d0614d90800000000000000
+      internalID: -7115299458551057863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

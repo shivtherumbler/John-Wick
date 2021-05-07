@@ -61,7 +61,7 @@ public class PlayerHealthManager : MonoBehaviour
     {
         if (other.tag == "Hurt")
         {
-            int anime = 0;
+            
 
             if (animator.GetBool("Block")==false)
             {
@@ -72,17 +72,16 @@ public class PlayerHealthManager : MonoBehaviour
                 FlashActive = true;
                 flashCounter = FlashLength;
 
-                if (anime == 0)
-                {
+                
                     if (PlayerCurrentHealth <= 0)
                     {
-                        animator.SetBool("Die", true);
-                        Destroy(this.gameObject, 5);
-                        anime++;
+
+                    Die();
+                        
                     }
 
                 }
-            }
+            
 
         }
         else
@@ -99,4 +98,19 @@ public class PlayerHealthManager : MonoBehaviour
             PlayerCurrentHealth = PlayerMaxHealth;
         }
     }
+
+void Die()
+{
+    Debug.Log("Player died!");
+
+    //Die anim
+    animator.SetBool("Death", true);
+
+    //Disable the player
+    this.enabled = false;
+
+    //Delete after 3 seconds
+    Destroy(gameObject, 5f);
+
+}
 }

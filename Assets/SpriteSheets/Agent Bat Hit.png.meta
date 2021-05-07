@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 78d1d3ec399ae4245b89798e4faffeb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6570997407527909448
+    second: Agent Bat Hit_0
+  - first:
+      213: 3060179145637526418
+    second: Agent Bat Hit_1
+  - first:
+      213: -1672482219183536696
+    second: Agent Bat Hit_2
+  - first:
+      213: 4694305514501064308
+    second: Agent Bat Hit_3
+  - first:
+      213: 6681070018184280488
+    second: Agent Bat Hit_4
+  - first:
+      213: -8761463200782832976
+    second: Agent Bat Hit_5
+  - first:
+      213: 6695379936553737823
+    second: Agent Bat Hit_6
+  - first:
+      213: 1591955955368222527
+    second: Agent Bat Hit_7
+  - first:
+      213: -3665567263475441183
+    second: Agent Bat Hit_8
+  - first:
+      213: -1409894354178713907
+    second: Agent Bat Hit_9
+  - first:
+      213: 3095956284937410760
+    second: Agent Bat Hit_10
+  - first:
+      213: -8225116508990476721
+    second: Agent Bat Hit_11
+  - first:
+      213: 852131723511441176
+    second: Agent Bat Hit_12
+  - first:
+      213: -3423456110039051431
+    second: Agent Bat Hit_13
+  - first:
+      213: -1716479921152098066
+    second: Agent Bat Hit_14
+  - first:
+      213: -8448540327736025674
+    second: Agent Bat Hit_15
+  - first:
+      213: -8935302775500572796
+    second: Agent Bat Hit_16
+  - first:
+      213: 1343584425344824306
+    second: Agent Bat Hit_17
+  - first:
+      213: -4773628553986383723
+    second: Agent Bat Hit_18
+  - first:
+      213: 5746186050479180744
+    second: Agent Bat Hit_19
+  - first:
+      213: 2644912969933144270
+    second: Agent Bat Hit_20
+  - first:
+      213: 8378391099009150866
+    second: Agent Bat Hit_21
+  - first:
+      213: 799907142568280758
+    second: Agent Bat Hit_22
+  - first:
+      213: -4909305228886690574
+    second: Agent Bat Hit_23
+  - first:
+      213: 6053415169871290759
+    second: Agent Bat Hit_24
+  - first:
+      213: -2884883146810765148
+    second: Agent Bat Hit_25
+  - first:
+      213: 3681159841623141104
+    second: Agent Bat Hit_26
+  - first:
+      213: 8716684002829997523
+    second: Agent Bat Hit_27
+  - first:
+      213: 8574696970231591079
+    second: Agent Bat Hit_28
+  - first:
+      213: 6958449021181642250
+    second: Agent Bat Hit_29
+  - first:
+      213: 7524666339022023396
+    second: Agent Bat Hit_30
+  - first:
+      213: -8854300853976659673
+    second: Agent Bat Hit_31
+  - first:
+      213: 5844428368325241570
+    second: Agent Bat Hit_32
+  - first:
+      213: 3516445923965760195
+    second: Agent Bat Hit_33
+  - first:
+      213: -4002638628812737601
+    second: Agent Bat Hit_34
+  - first:
+      213: -7206844417900905887
+    second: Agent Bat Hit_35
+  - first:
+      213: 955312425098822756
+    second: Agent Bat Hit_36
+  - first:
+      213: 3482884330114218101
+    second: Agent Bat Hit_37
+  - first:
+      213: 3606559685023880464
+    second: Agent Bat Hit_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agent Bat Hit_0
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 5603
+        width: 330
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b749482ca02fc4a0800000000000000
+      internalID: -6570997407527909448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_1
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 5603
+        width: 342
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b78cc28b0f77a20800000000000000
+      internalID: 3060179145637526418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_2
+      rect:
+        serializedVersion: 2
+        x: 4721
+        y: 5603
+        width: 359
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5886868462ac8e0800000000000000
+      internalID: -1672482219183536696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_3
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 5603
+        width: 368
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4764ef27ef5852140800000000000000
+      internalID: 4694305514501064308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_4
+      rect:
+        serializedVersion: 2
+        x: 8562
+        y: 5603
+        width: 357
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9f261a8cde7bc50800000000000000
+      internalID: 6681070018184280488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_5
+      rect:
+        serializedVersion: 2
+        x: 10483
+        y: 5603
+        width: 298
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baaeac93a7096680800000000000000
+      internalID: -8761463200782832976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_6
+      rect:
+        serializedVersion: 2
+        x: 12402
+        y: 5603
+        width: 217
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e10922494caec50800000000000000
+      internalID: 6695379936553737823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_7
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 4524
+        width: 225
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f5ac1c183c71610800000000000000
+      internalID: 1591955955368222527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_8
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 4524
+        width: 333
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1ee30bef9412dc0800000000000000
+      internalID: -3665567263475441183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_9
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 4524
+        width: 389
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc659580e8c0f6ce0800000000000000
+      internalID: -1409894354178713907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_10
+      rect:
+        serializedVersion: 2
+        x: 6481
+        y: 4525
+        width: 397
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c815db86db07fa20800000000000000
+      internalID: 3095956284937410760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_11
+      rect:
+        serializedVersion: 2
+        x: 8422
+        y: 4527
+        width: 376
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eeb651d148add80800000000000000
+      internalID: -8225116508990476721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_12
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 4529
+        width: 367
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817adb9a94163db00800000000000000
+      internalID: 852131723511441176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_13
+      rect:
+        serializedVersion: 2
+        x: 12315
+        y: 4528
+        width: 356
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9535bf06ec07d70d0800000000000000
+      internalID: -3423456110039051431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_14
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3448
+        width: 325
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee083a32b96dd28e0800000000000000
+      internalID: -1716479921152098066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_15
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 3449
+        width: 299
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5bbe8551c0ca80800000000000000
+      internalID: -8448540327736025674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_16
+      rect:
+        serializedVersion: 2
+        x: 4734
+        y: 3448
+        width: 331
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487f9b9877d6ff380800000000000000
+      internalID: -8935302775500572796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_17
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 3450
+        width: 382
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fc6e8aee55a210800000000000000
+      internalID: 1343584425344824306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_18
+      rect:
+        serializedVersion: 2
+        x: 8575
+        y: 3452
+        width: 372
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590eaf53f1aa0cdb0800000000000000
+      internalID: -4773628553986383723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_19
+      rect:
+        serializedVersion: 2
+        x: 10495
+        y: 3454
+        width: 443
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbcd10b4cd8ebf40800000000000000
+      internalID: 5746186050479180744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_20
+      rect:
+        serializedVersion: 2
+        x: 12414
+        y: 3454
+        width: 488
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec040b2355e94b420800000000000000
+      internalID: 2644912969933144270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_21
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2373
+        width: 460
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f2cbd5056064470800000000000000
+      internalID: 8378391099009150866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_22
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 2373
+        width: 394
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2841ede47d91b00800000000000000
+      internalID: 799907142568280758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_23
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 2373
+        width: 333
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4bd3aa7e4aedbb0800000000000000
+      internalID: -4909305228886690574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_24
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 2373
+        width: 307
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a32e460d020450800000000000000
+      internalID: 6053415169871290759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_25
+      rect:
+        serializedVersion: 2
+        x: 8570
+        y: 2373
+        width: 315
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a055df0016d6f7d0800000000000000
+      internalID: -2884883146810765148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_26
+      rect:
+        serializedVersion: 2
+        x: 10491
+        y: 2373
+        width: 336
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa61615f5b161330800000000000000
+      internalID: 3681159841623141104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_27
+      rect:
+        serializedVersion: 2
+        x: 12411
+        y: 2373
+        width: 362
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d51308eae1e7f870800000000000000
+      internalID: 8716684002829997523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_28
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1292
+        width: 372
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b547b6717ff670800000000000000
+      internalID: 8574696970231591079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_29
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 1292
+        width: 364
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06423f6480619060800000000000000
+      internalID: 6958449021181642250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_30
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 1291
+        width: 351
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea2fbefa2cfc6860800000000000000
+      internalID: 7524666339022023396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_31
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 1289
+        width: 341
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729884019443f1580800000000000000
+      internalID: -8854300853976659673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_32
+      rect:
+        serializedVersion: 2
+        x: 8565
+        y: 1289
+        width: 343
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaed39c2a49b1150800000000000000
+      internalID: 5844428368325241570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_33
+      rect:
+        serializedVersion: 2
+        x: 10483
+        y: 1287
+        width: 351
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c279d9dfececc030800000000000000
+      internalID: 3516445923965760195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_34
+      rect:
+        serializedVersion: 2
+        x: 12402
+        y: 1287
+        width: 355
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb33c5dbf55c378c0800000000000000
+      internalID: -4002638628812737601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_35
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 206
+        width: 351
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a72877f252cfb90800000000000000
+      internalID: -7206844417900905887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_36
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 204
+        width: 343
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644883d693f14d00800000000000000
+      internalID: 955312425098822756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_37
+      rect:
+        serializedVersion: 2
+        x: 4721
+        y: 204
+        width: 336
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5787b3a58d0b55030800000000000000
+      internalID: 3482884330114218101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent Bat Hit_38
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 204
+        width: 330
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d717dce21d0230800000000000000
+      internalID: 3606559685023880464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

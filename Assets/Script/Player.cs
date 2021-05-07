@@ -9,8 +9,11 @@ public class Player : MonoBehaviour
     public float Speed = 4.0f;
     //public float Jumpspeed = 4.0f;
     public GameObject Spawn;
+    public GameObject Camera;
     public GameObject Gun;
     public GameObject Briefcase;
+    public GameObject BackWall;
+    public GameObject HealthBar;
     public float CurrentYPosition;
     bool canShoot;
     public GameObject Projectile;
@@ -18,6 +21,7 @@ public class Player : MonoBehaviour
     public float Velocity;
     public float Time = 1f;
     float Timer;
+    
 
     private Rigidbody2D rigidBody2D;
     private BoxCollider2D collision2D;
@@ -34,6 +38,51 @@ public class Player : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         CurrentYPosition = transform.position.y;
+
+        var x = PlayerPrefs.GetFloat("x", -7.4f);
+        var y = PlayerPrefs.GetFloat("y", -1.64f);
+
+        Debug.Log(x);
+        Debug.Log(y);
+
+        if (x != 0.0f && y != 0.0f)
+        {
+            transform.position = new Vector3(x, y, transform.position.z);
+        }
+        if(x<=91f)
+        {
+            transform.position = new Vector3(-7.4f, -1.64f, transform.position.z);
+            Camera.transform.position = new Vector3(0, 0, -10);
+            BackWall.transform.position = new Vector3(-14.85f, 0, 1);
+            HealthBar.transform.position = new Vector3(-5.33f, 4.22f, 0);
+
+        }
+        else if (x>91f && x<=191f)
+        {
+            Camera.transform.position = new Vector3(100, 0, -10);
+            BackWall.transform.position = new Vector3(90f, 0, 1);
+            HealthBar.transform.position = new Vector3(94.67f, 4.22f, 0);
+        }
+
+        else if (x > 191f && x <= 316f)
+        {
+            Camera.transform.position = new Vector3(200, 0, -10);
+            BackWall.transform.position = new Vector3(190f, 0, 1);
+            HealthBar.transform.position = new Vector3(194.67f, 4.22f, 0);
+        }
+
+        else if( x>316f && x <=516f)
+        {
+            Camera.transform.position = new Vector3(325, 0, -10);
+            BackWall.transform.position = new Vector3(315, 0, 1);
+            HealthBar.transform.position = new Vector3(319.67f, 4.22f, 0);
+        }    
+        else if(x>516f)
+        {
+            Camera.transform.position = new Vector3(525, 0, -10);
+            BackWall.transform.position = new Vector3(515, 0, 1);
+            HealthBar.transform.position = new Vector3(519.67f, 4.22f, 0);
+        }
     }
 
     // Update is called once per frame
@@ -235,7 +284,7 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.S) && h == 0 || Input.GetKey(KeyCode.DownArrow) && h == 0)
             {
-                float i = 0.4f;
+                float i = 0.01f;
                 // if (IsGrounded())
                 {
                     animator.SetBool("Down", true);
@@ -245,13 +294,13 @@ public class Player : MonoBehaviour
                 if (transform.position.y < CurrentYPosition)
                 {
                     CurrentYPosition = transform.position.y;
-                    if (transform.localScale.y >= 40)
+                    if (transform.localScale.y >= 0.9)
                 {
                     i = 0;
                 }
                 else
                 {
-                    i = 0.4f;
+                    i = 0.01f;
                 }
                 if (v != 0 || v!=0 && h!=0)
                 {
@@ -265,7 +314,7 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.W) && h == 0 || Input.GetKey(KeyCode.UpArrow) && h == 0)
             {
-                float i = 0.4f;
+                float i = 0.01f;
             // if (IsGrounded())
             {
                 animator.SetBool("Up", true);
@@ -275,13 +324,13 @@ public class Player : MonoBehaviour
                 if (transform.position.y > CurrentYPosition)
                 {
                     CurrentYPosition = transform.position.y;
-                    if (transform.localScale.y <= 20)
+                    if (transform.localScale.y <= 0.5)
                     {
                         i = 0;
                     }
                     else
                     {
-                        i = 0.4f;
+                        i = 0.01f;
                     }
                     if (v != 0 || v!= 0 && h != 0)
                     {
