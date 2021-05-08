@@ -199,7 +199,7 @@ MonoBehaviour:
   Distance: 4
   CurrentYPosition: 0
   Life: 0
-  MaxLife: 15
+  MaxLife: 20
   Projectile: {fileID: 3899844598566309113, guid: ff7f85b8513baf64d9cf15ed3df265bf,
     type: 3}
   Shooting: {fileID: 5428935021709418580}

@@ -8,7 +8,6 @@ public class Player : MonoBehaviour
 
     public float Speed = 4.0f;
     //public float Jumpspeed = 4.0f;
-    public GameObject Spawn;
     public GameObject Camera;
     public GameObject Gun;
     public GameObject Briefcase;
@@ -407,11 +406,6 @@ public class Player : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        // enable script on GameObject when player enters trigger
-        if (other.tag == "Enemy")
-        {
-            Spawn.GetComponent<WaveSpawnner>().enabled = true;
-        }
 
         if (other.tag == "Gun")
         {

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealthManager : MonoBehaviour
 {
@@ -77,8 +78,8 @@ public class PlayerHealthManager : MonoBehaviour
                     {
 
                     Die();
-                        
-                    }
+
+                }
 
                 }
             
@@ -106,11 +107,16 @@ void Die()
     //Die anim
     animator.SetBool("Death", true);
 
-    //Disable the player
-    this.enabled = false;
+        //Disable the player
+        this.enabled = false;
 
     //Delete after 3 seconds
     Destroy(gameObject, 5f);
-
+       
 }
+
+    void GameOver()
+    {
+        SceneManager.LoadScene("Game Over Scene");
+    }
 }

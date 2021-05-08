@@ -98,7 +98,7 @@ public class Enemy : MonoBehaviour
         else if (Shoot() == false)
         {
             animator.SetBool("Attack", false);
-            Speed = 2f;
+            Speed = 3f;
         }
 
         if (!canShoot)

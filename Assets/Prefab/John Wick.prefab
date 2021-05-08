@@ -305,9 +305,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 4
-  Spawn: {fileID: 0}
+  Camera: {fileID: 0}
   Gun: {fileID: 0}
   Briefcase: {fileID: 0}
+  BackWall: {fileID: 0}
+  HealthBar: {fileID: 0}
   CurrentYPosition: 0
   Projectile: {fileID: 1458818127621929951, guid: d0c2234f5036c6a4cb9c82835773c243,
     type: 3}
@@ -330,7 +332,7 @@ MonoBehaviour:
   FlashLength: 0.2
   Damage: {fileID: 0}
   PlayerMaxHealth: 20
-  PlayerCurrentHealth: 20
+  PlayerCurrentHealth: 0
 --- !u!1 &5902187584659150829
 GameObject:
   m_ObjectHideFlags: 0
