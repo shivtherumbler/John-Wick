@@ -62,9 +62,9 @@ public class PlayerHealthManager : MonoBehaviour
     {
         if (other.tag == "Hurt")
         {
-            
 
-            if (animator.GetBool("Block")==false)
+
+            if (animator.GetBool("Block") == false)
             {
 
                 PlayerCurrentHealth--;
@@ -73,21 +73,43 @@ public class PlayerHealthManager : MonoBehaviour
                 FlashActive = true;
                 flashCounter = FlashLength;
 
-                
-                    if (PlayerCurrentHealth <= 0)
-                    {
+
+                if (PlayerCurrentHealth <= 0)
+                {
 
                     Die();
 
                 }
 
-                }
-            
+            }
+
 
         }
         else
         {
             Damage.GetComponent<SpriteRenderer>().enabled = false;
+        }
+
+        if (other.tag == "PowerUp")
+        {
+            if (PlayerMaxHealth == 20)
+            {
+                PlayerMaxHealth = 29;
+            }
+            if(PlayerMaxHealth == 31)
+            {
+                PlayerMaxHealth = 39;
+            }
+            if (PlayerMaxHealth == 41)
+            {
+                PlayerMaxHealth = 49;
+            }
+            if (PlayerMaxHealth == 51)
+            {
+                PlayerMaxHealth = 59;
+            }
+
+
         }
     }
     private void OnTriggerExit2D(Collider2D collision)
@@ -97,7 +119,25 @@ public class PlayerHealthManager : MonoBehaviour
         {
             Debug.Log(PlayerCurrentHealth);
             PlayerCurrentHealth = PlayerMaxHealth;
+
+            if (PlayerMaxHealth == 29)
+            {
+                PlayerMaxHealth = 30;
+            }
+            if (PlayerMaxHealth == 39)
+            {
+                PlayerMaxHealth = 40;
+            }
+            if (PlayerMaxHealth == 49)
+            {
+                PlayerMaxHealth = 50;
+            }
+            if (PlayerMaxHealth == 59)
+            {
+                PlayerMaxHealth = 60;
+            }
         }
+
     }
 
 void Die()
@@ -119,4 +159,5 @@ void Die()
     {
         SceneManager.LoadScene("Game Over Scene");
     }
+
 }

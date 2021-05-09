@@ -222,11 +222,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b3bc09528f39ab419e2ec79d18e6e68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.1
+  Speed: 2
   Distance: 1.5
   CurrentYPosition: 0
-  life: 0
-  maxlife: 5
+  Life: 0
+  MaxLife: 5
   Projectile: {fileID: 0}
   Shooting: {fileID: 0}
   Velocity: 0

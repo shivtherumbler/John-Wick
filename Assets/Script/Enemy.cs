@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
 {
     private BoxCollider2D collision2D;
     private Transform targetPlayer;
-    public float Speed = 2f;
+    public float Speed = 3f;
     private Animator animator;
     public float Distance;
     public float CurrentYPosition;

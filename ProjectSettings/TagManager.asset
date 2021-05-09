@@ -18,6 +18,7 @@ TagManager:
   - Shield
   - Briefcase
   - Wave
+  - PowerUp
   layers:
   - Default
   - TransparentFX

@@ -283,14 +283,14 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.S) && h == 0 || Input.GetKey(KeyCode.DownArrow) && h == 0)
             {
-                float i = 0.01f;
+                //float i = 0.01f;
                 // if (IsGrounded())
                 {
                     animator.SetBool("Down", true);
                     animator.SetBool("Up", false);
                     animator.SetBool("Block", false);
 
-                if (transform.position.y < CurrentYPosition)
+               /* if (transform.position.y < CurrentYPosition)
                 {
                     CurrentYPosition = transform.position.y;
                     if (transform.localScale.y >= 0.9)
@@ -306,21 +306,21 @@ public class Player : MonoBehaviour
                     transform.localScale = new Vector3(transform.localScale.x + i, transform.localScale.y + i, 1);
                 }
                 //animator.SetBool("Jump", false);
-                }
+                }*/
                 }
 
             }
 
             if (Input.GetKey(KeyCode.W) && h == 0 || Input.GetKey(KeyCode.UpArrow) && h == 0)
             {
-                float i = 0.01f;
+               // float i = 0.01f;
             // if (IsGrounded())
             {
                 animator.SetBool("Up", true);
                 animator.SetBool("Down", false);
                 animator.SetBool("Block", false);
 
-                if (transform.position.y > CurrentYPosition)
+              /*  if (transform.position.y > CurrentYPosition)
                 {
                     CurrentYPosition = transform.position.y;
                     if (transform.localScale.y <= 0.5)
@@ -336,7 +336,7 @@ public class Player : MonoBehaviour
                         transform.localScale = new Vector3(transform.localScale.x - i, transform.localScale.y - i, 1);
                     }
                     //animator.SetBool("Jump", false);
-                }
+                }*/
             }
 
             }
