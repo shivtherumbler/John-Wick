@@ -96,15 +96,15 @@ public class PlayerHealthManager : MonoBehaviour
             {
                 PlayerMaxHealth = 29;
             }
-            if(PlayerMaxHealth == 31)
+            if(PlayerMaxHealth == 30)
             {
                 PlayerMaxHealth = 39;
             }
-            if (PlayerMaxHealth == 41)
+            if (PlayerMaxHealth == 40)
             {
                 PlayerMaxHealth = 49;
             }
-            if (PlayerMaxHealth == 51)
+            if (PlayerMaxHealth == 50)
             {
                 PlayerMaxHealth = 59;
             }

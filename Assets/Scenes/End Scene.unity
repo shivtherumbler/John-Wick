@@ -466,7 +466,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PRESS ENTER TO CONTINUE
+  m_Text: PRESS ENTER TO SKIP
 --- !u!222 &2115000251
 CanvasRenderer:
   m_ObjectHideFlags: 0
