@@ -314,7 +314,7 @@ MonoBehaviour:
   Projectile: {fileID: 1458818127621929951, guid: d0c2234f5036c6a4cb9c82835773c243,
     type: 3}
   Shooting: {fileID: 6415167045689773155}
-  Velocity: 2
+  Velocity: 50
   Time: 0
 --- !u!114 &2796517947532826326
 MonoBehaviour:

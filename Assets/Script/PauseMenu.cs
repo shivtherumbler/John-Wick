@@ -61,4 +61,10 @@ public class PauseMenu : MonoBehaviour
         SceneManager.LoadScene("Main Scene");
         Resume();
     }
+
+    public void HowtoPlay()
+    {
+        SceneManager.LoadScene("Controls Scene");
+        Resume();
+    }
 }

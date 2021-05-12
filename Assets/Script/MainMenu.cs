@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public GameObject pauseMenu;
+    public GameObject Main;
 
     // Start is called before the first frame update
     void Start()
@@ -56,5 +56,10 @@ public class MainMenu : MonoBehaviour
     public void Menu()
     {
         SceneManager.LoadScene("Main Menu");
+    }
+
+    public void BonusClip()
+    {
+        SceneManager.LoadScene("Bonus Scene");
     }
 }
