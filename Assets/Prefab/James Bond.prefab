@@ -804,7 +804,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 2
-  Distance: 4
+  Distance: 3
   CurrentYPosition: 0
   Life: 0
   MaxLife: 100

@@ -159,6 +159,11 @@ public class Enemy : MonoBehaviour
             }
         }
 
+        if(collision.gameObject.tag == "Back Wall")
+        {
+            Destroy(gameObject);
+        }
+
     }
 
     private void OnTriggerExit2D(Collider2D collision)

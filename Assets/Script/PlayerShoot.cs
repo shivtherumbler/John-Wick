@@ -12,7 +12,7 @@ public class PlayerShoot : MonoBehaviour
 			Destroy(this.gameObject);
 		}
 
-		if(other.gameObject.tag == "Base")
+		if(other.gameObject.tag == "Back Wall")
         {
 			Destroy(this.gameObject);
 		}

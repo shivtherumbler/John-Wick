@@ -19,6 +19,7 @@ TagManager:
   - Briefcase
   - Wave
   - PowerUp
+  - Back Wall
   layers:
   - Default
   - TransparentFX

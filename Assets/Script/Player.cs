@@ -7,7 +7,6 @@ public class Player : MonoBehaviour
 {
 
     public float Speed = 4.0f;
-    //public float Jumpspeed = 4.0f;
     public GameObject Camera;
     public GameObject Gun;
     public GameObject Briefcase;
@@ -27,7 +26,6 @@ public class Player : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private bool isGrounded;
     private Animator animator;
-    //public Sprite jump;
 
     // Start is called before the first frame update
     void Start()
@@ -93,6 +91,33 @@ public class Player : MonoBehaviour
 
         Movement();
 
+        var x = PlayerPrefs.GetFloat("x", -7.4f);
+        var y = PlayerPrefs.GetFloat("y", -1.64f);
+
+        if (x <= 91f)
+        {
+            BackWall.transform.position = new Vector3(-14.85f, 0, 1);
+
+        }
+        else if (x > 91f && x <= 191f)
+        {
+            BackWall.transform.position = new Vector3(90f, 0, 1);
+        }
+
+        else if (x > 191f && x <= 316f)
+        {
+            BackWall.transform.position = new Vector3(190f, 0, 1);
+        }
+
+        else if (x > 316f && x <= 516f)
+        {
+            BackWall.transform.position = new Vector3(315, 0, 1);
+        }
+        else if (x > 516f)
+        {
+            BackWall.transform.position = new Vector3(515, 0, 1);
+        }
+
     }
 
     private void Movement()
@@ -107,7 +132,6 @@ public class Player : MonoBehaviour
             {
                 spriteRenderer.flipX = true;
 
-                // if (IsGrounded())
                 {
 
                     animator.enabled = true;
@@ -147,7 +171,6 @@ public class Player : MonoBehaviour
             {
                 spriteRenderer.flipX = false;
 
-                // if (IsGrounded())
                 {
 
                     animator.enabled = true;
@@ -208,27 +231,11 @@ public class Player : MonoBehaviour
 
             }
 
-                //if (IsGrounded())
-                //{
-                //    animator.SetBool("Jump", false);
-                // }
-
             }
 
-            // if (Input.GetKey(KeyCode.Space) && IsGrounded())
-            //{
-            /*
-                    animator.SetBool("Jump", true);
-                    animator.SetBool("Walk", false);
-                    animator.SetBool("Crouch", false);
-
-                    //rigidBody2D.velocity = new Vector2(rigidBody2D.velocity.x, Jumpspeed);
-
-            }*/
 
             if (Input.GetKey(KeyCode.LeftShift) && h != 0)
             {
-                // if (IsGrounded())
                 {
                     animator.SetBool("Run", true);
                     animator.SetBool("Walk", false);
@@ -236,7 +243,6 @@ public class Player : MonoBehaviour
                     animator.SetBool("Down", false);
                     animator.SetBool("Crouch Walk", false);
                     animator.SetBool("Briefcase Walk", false);
-                //animator.SetBool("Jump", false);
             }
                 Speed = 6;
 
@@ -248,20 +254,17 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.C) && h == 0 && v==0)
             {
-                // if (IsGrounded())
                 {
                     animator.SetBool("Crouch", true);
                     animator.SetBool("Walk", false);
 
-                //animator.SetBool("Jump", false);
             }
 
             }
 
             if (Input.GetKey(KeyCode.C) && h != 0)
             {
-                // if (IsGrounded())
-                //{
+
                 animator.SetBool("Crouch Walk", true);
                 animator.SetBool("Walk", false);
                 animator.SetBool("Crouch", false);
@@ -276,67 +279,30 @@ public class Player : MonoBehaviour
             {
                 animator.SetBool("Briefcase Walk", false);
             }
-                //animator.SetBool("Jump", false);
-                // }
+
                 Speed = 3;
             }
 
             if (Input.GetKey(KeyCode.S) && h == 0 || Input.GetKey(KeyCode.DownArrow) && h == 0)
             {
-                //float i = 0.01f;
-                // if (IsGrounded())
+
                 {
                     animator.SetBool("Down", true);
                     animator.SetBool("Up", false);
                     animator.SetBool("Block", false);
 
-               /* if (transform.position.y < CurrentYPosition)
-                {
-                    CurrentYPosition = transform.position.y;
-                    if (transform.localScale.y >= 0.9)
-                {
-                    i = 0;
-                }
-                else
-                {
-                    i = 0.01f;
-                }
-                if (v != 0 || v!=0 && h!=0)
-                {
-                    transform.localScale = new Vector3(transform.localScale.x + i, transform.localScale.y + i, 1);
-                }
-                //animator.SetBool("Jump", false);
-                }*/
                 }
 
             }
 
             if (Input.GetKey(KeyCode.W) && h == 0 || Input.GetKey(KeyCode.UpArrow) && h == 0)
             {
-               // float i = 0.01f;
-            // if (IsGrounded())
+
             {
                 animator.SetBool("Up", true);
                 animator.SetBool("Down", false);
                 animator.SetBool("Block", false);
 
-              /*  if (transform.position.y > CurrentYPosition)
-                {
-                    CurrentYPosition = transform.position.y;
-                    if (transform.localScale.y <= 0.5)
-                    {
-                        i = 0;
-                    }
-                    else
-                    {
-                        i = 0.01f;
-                    }
-                    if (v != 0 || v!= 0 && h != 0)
-                    {
-                        transform.localScale = new Vector3(transform.localScale.x - i, transform.localScale.y - i, 1);
-                    }
-                    //animator.SetBool("Jump", false);
-                }*/
             }
 
             }
@@ -350,16 +316,12 @@ public class Player : MonoBehaviour
 
             if (Input.GetKey(KeyCode.B) && h == 0 && v==0)
             {
-            //if (IsGrounded())
-            //{
+            
             if (animator.GetBool("Idle") == false)
             {
                 animator.SetBool("Block", true);
                 animator.SetBool("Walk", false);
             }
-
-            //animator.SetBool("Jump", false);
-            // }
 
         }
 
@@ -384,25 +346,6 @@ public class Player : MonoBehaviour
         }
 
     }
-
-    /* private bool IsGrounded()
-     {
-         //return rigidBody2D.velocity.y == 0.0f;
-         return isGrounded;
-     }
-
-     private void OnCollisionEnter2D(Collision2D collision)
-     {
-         if (collision.gameObject.tag == "Base")
-             isGrounded = true;
-
-     }
-
-     private void OnCollisionExit2D(Collision2D collision)
-     {
-         if (collision.gameObject.tag == "Base")
-             isGrounded = false;
-     }*/
 
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -461,17 +404,6 @@ public class Player : MonoBehaviour
         }
         animator.SetBool("Pickup Briefcase", false);
 
-        // if (collision.CompareTag("Pillar"))
-        //{
-        //     spriteRenderer.enabled = true;
-        // }
-
-    }
-
-    private void OnTriggerStay2D(Collider2D collision)
-    {
-        // if (collision.gameObject.tag == "Move")
-        // isGrounded = true;
     }
 
     private void KillEnemy()

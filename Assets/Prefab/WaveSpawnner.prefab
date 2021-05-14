@@ -124,6 +124,7 @@ GameObject:
   - component: {fileID: 4018635883727312772}
   - component: {fileID: 4018635883727312775}
   - component: {fileID: 6852918130656565953}
+  - component: {fileID: 2973481654867609402}
   m_Layer: 0
   m_Name: SpawnPoints
   m_TagString: Wave
@@ -186,3 +187,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Wave: {fileID: 4018635882445505480}
+--- !u!114 &2973481654867609402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4018635883727312773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19ec8a86dc585594a8dcbf4f806b35a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: John Wick
+    sentences:
+    - Hello! How are you

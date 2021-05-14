@@ -18,7 +18,7 @@ public class EnemyShoot : MonoBehaviour
 			Destroy(this.gameObject, 0.05f);
 		}
 
-		if (other.gameObject.tag == "Base")
+		if (other.gameObject.tag == "Back Wall")
 		{
 			Destroy(this.gameObject);
 		}
