@@ -20,6 +20,14 @@ public class PlayerHealthManager : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         PlayerCurrentHealth = PlayerMaxHealth;
+
+
+        if (PlayerCurrentHealth <= 0)
+        {
+
+            Die();
+
+        }
     }
 
     // Update is called once per frame
@@ -56,6 +64,7 @@ public class PlayerHealthManager : MonoBehaviour
 
             flashCounter -= Time.deltaTime;
         }
+
     }
 
     void OnTriggerEnter2D(Collider2D other)

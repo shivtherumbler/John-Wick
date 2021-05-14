@@ -20,6 +20,8 @@ TagManager:
   - Wave
   - PowerUp
   - Back Wall
+  - Music
+  - Game Music
   layers:
   - Default
   - TransparentFX
