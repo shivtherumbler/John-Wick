@@ -408,17 +408,18 @@ public class Player : MonoBehaviour
 
     private void KillEnemy()
     {
+       
         if (animator.GetBool("Shoot") == true)
         {
             if (spriteRenderer.flipX == true)
             {
-                GameObject bullet = (GameObject)Instantiate(Projectile, Shooting.position, Quaternion.identity);
+                GameObject bullet = (GameObject)Instantiate(Projectile, new Vector3(Shooting.position.x - 2f, Shooting.position.y), Quaternion.identity);
                 bullet.GetComponent<Rigidbody2D>().velocity = new Vector2(-Velocity * gameObject.transform.localScale.x, 0);
                 canShoot = false;
             }
             else
             {
-                GameObject bullet = (GameObject)Instantiate(Projectile, Shooting.position, Quaternion.identity);
+                GameObject bullet = (GameObject)Instantiate(Projectile, new Vector3(Shooting.position.x + 2f, Shooting.position.y), Quaternion.identity);
                 bullet.GetComponent<Rigidbody2D>().velocity = new Vector2(Velocity * gameObject.transform.localScale.x, 0);
                 canShoot = false;
             }

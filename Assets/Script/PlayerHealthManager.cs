@@ -11,8 +11,12 @@ public class PlayerHealthManager : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private Animator animator;
     public GameObject Damage;
+    public AudioClip Hurt;
+    private AudioSource Injure;
     public int PlayerMaxHealth;
     public int PlayerCurrentHealth=20;
+    public AudioClip Death;
+    private AudioSource Dying;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +24,8 @@ public class PlayerHealthManager : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         PlayerCurrentHealth = PlayerMaxHealth;
+        Injure = gameObject.GetComponent<AudioSource>();
+        Dying = gameObject.GetComponent<AudioSource>();
 
 
         if (PlayerCurrentHealth <= 0)
@@ -78,6 +84,8 @@ public class PlayerHealthManager : MonoBehaviour
 
                 PlayerCurrentHealth--;
                 Damage.GetComponent<SpriteRenderer>().enabled = true;
+                Injure.PlayOneShot(Hurt);
+
 
                 FlashActive = true;
                 flashCounter = FlashLength;
@@ -153,20 +161,37 @@ void Die()
 {
     Debug.Log("Player died!");
 
+        Dying.PlayOneShot(Death);
     //Die anim
     animator.SetBool("Death", true);
+
 
         //Disable the player
         this.enabled = false;
 
-    //Delete after 3 seconds
+    //Delete after 5 seconds
     Destroy(gameObject, 5f);
-       
-}
+        StartCoroutine(NextLevelAfterWait());
+
+    }
+
+    IEnumerator NextLevelAfterWait()
+    {
+        yield return new WaitForSeconds(8.0f);
+
+        GameOver();
+    }
 
     void GameOver()
     {
-        SceneManager.LoadScene("Game Over Scene");
+        if (SceneManager.GetActiveScene().name == "Main Scene")
+        {
+            SceneManager.LoadScene("Game Over Scene");
+        }
+        else
+        {
+            SceneManager.LoadScene("Arcade Death");
+        }
     }
 
 }

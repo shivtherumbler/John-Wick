@@ -59,13 +59,19 @@ public class InGameMusic : MonoBehaviour
             AudioBegin = false;
         }
 
+        if (Application.loadedLevelName == "Story Scene")
+        {
+            music.Stop();
+            AudioBegin = false;
+        }
+
         if (Application.loadedLevelName == "Game Over Scene")
         {
             music.Stop();
             AudioBegin = false;
         }
 
-        if (Application.loadedLevelName == "Story Scene")
+        if (Application.loadedLevelName == "Arcade Death")
         {
             music.Stop();
             AudioBegin = false;

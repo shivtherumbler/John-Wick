@@ -35,6 +35,8 @@ public class MainMenu : MonoBehaviour
 
     public void Arcade()
     {
+        PlayerPrefs.DeleteKey("x");
+        PlayerPrefs.DeleteKey("y");
         SceneManager.LoadScene("Infinite Scene");
     }
 
@@ -62,4 +64,5 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Bonus Scene");
     }
+
 }

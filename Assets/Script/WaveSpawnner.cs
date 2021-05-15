@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 [System.Serializable]
 
@@ -14,6 +15,7 @@ public class WaveSpawnner : MonoBehaviour
 {
     public Wave[] Waves;
     public Transform[] SpawnPoints;
+    public Text waveName;
 
     private Wave currentWave;
     private int currentWaveNumber;
@@ -30,6 +32,7 @@ public class WaveSpawnner : MonoBehaviour
             if (currentWaveNumber + 1 != Waves.Length)
             {
                 {
+                    waveName.text = Waves[currentWaveNumber + 1].WaveName;
                     currentWaveNumber++;
                     canSpawn = true;
                 }
