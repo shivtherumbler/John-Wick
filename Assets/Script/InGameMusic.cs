@@ -3,12 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using UnityEngine.Audio;
 
 public class InGameMusic : MonoBehaviour
 {
     static bool AudioBegin = false;
     private AudioSource music;
     public AudioClip clip;
+    public AudioMixer audioMixer;
+    public AudioMixerGroup mixerGroup;
+    public Slider slide;
 
     [System.Obsolete]
     void Awake()
@@ -23,7 +27,16 @@ public class InGameMusic : MonoBehaviour
             int randomStartTime = Random.Range(0, clip.samples - 1); //clip.samples is the lengh of the clip in samples
             music.timeSamples = randomStartTime;
            
-        } 
+        }
+            if (Application.loadedLevelName == "Infinite Scene")
+            {
+                music = gameObject.AddComponent<AudioSource>();
+                music.clip = clip;
+                int randomStartTime = Random.Range(0, clip.samples - 1); //clip.samples is the lengh of the clip in samples
+                music.timeSamples = randomStartTime;
+
+            }
+
             music.Play();
             DontDestroyOnLoad(gameObject);
             AudioBegin = true;
@@ -52,6 +65,12 @@ public class InGameMusic : MonoBehaviour
             AudioBegin = false;
         }
 
+        if (Application.loadedLevelName == "Story Scene")
+        {
+            music.Stop();
+            AudioBegin = false;
+        }
+
     }
 
     void Start()
@@ -66,11 +85,16 @@ public class InGameMusic : MonoBehaviour
         }
 
         music = GetComponent<AudioSource>();
+        music.outputAudioMixerGroup = mixerGroup;
+
+        float volume = PlayerPrefs.GetFloat("MusicVolume", 0.75f);
+        slide.value = volume;
 
     }
 
-    public void Sound()
-    {
-        AudioListener.pause = !AudioListener.pause;
+    public void SetVolume (float volume)
+        {
+        audioMixer.SetFloat("volume", volume);
+        PlayerPrefs.SetFloat("MusicVolume", volume);
     }
 }

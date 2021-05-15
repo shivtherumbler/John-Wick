@@ -68,4 +68,10 @@ public class PauseMenu : MonoBehaviour
         Resume();
     }
 
+    public void Story()
+    {
+        SceneManager.LoadScene("Story Scene");
+        Resume();
+    }
+
 }

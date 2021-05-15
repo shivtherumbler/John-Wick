@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 [System.Serializable]
 
 public class Wave
@@ -24,6 +25,15 @@ public class WaveSpawnner : MonoBehaviour
     {
         currentWave = Waves[currentWaveNumber];
         SpawnWave();
+        GameObject[] totalEnemies = GameObject.FindGameObjectsWithTag("Enemy");
+        if (totalEnemies.Length == 0 && !canSpawn)
+            if (currentWaveNumber + 1 != Waves.Length)
+            {
+                {
+                    currentWaveNumber++;
+                    canSpawn = true;
+                }
+            }
  
     }
 

@@ -33,9 +33,9 @@ public class MainMenu : MonoBehaviour
         Time.timeScale = 1;
     }
 
-    public void Story()
+    public void Arcade()
     {
-        SceneManager.LoadScene("Story Scene");
+        SceneManager.LoadScene("Infinite Scene");
     }
 
     public void Controls()

@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Bonus Scene.unity
     guid: 29bf86dc0308270479348d41753e2716
+  - enabled: 1
+    path: Assets/Scenes/Infinite Scene.unity
+    guid: 6e58b33e45a02644db9eb8638b7cc35f
   m_configObjects: {}

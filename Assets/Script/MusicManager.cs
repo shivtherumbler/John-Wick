@@ -40,6 +40,12 @@ public class MusicManager : MonoBehaviour
             music.Stop();
             AudioBegin = false;
             }
+
+            if (Application.loadedLevelName == "Infinite Scene")
+            {
+            music.Stop();
+            AudioBegin = false;
+            }
     }
 
     void Start()
@@ -48,10 +54,11 @@ public class MusicManager : MonoBehaviour
         {
             Instantiate(music);
         }
-        if(GameObject.FindGameObjectsWithTag("Music").Length>2)
+        if(GameObject.FindGameObjectsWithTag("Music").Length>3)
             {
             Destroy(GameObject.Find("Music"));
         }
+
     }
 }
 
