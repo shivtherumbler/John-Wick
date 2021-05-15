@@ -842,7 +842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37dcb2ea4705ceb4bb753f99f5eb0d18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Attack: {fileID: 0}
+  Attack: {fileID: 8300000, guid: 2a38217374b00fa4f83ad36374acf412, type: 3}
   PowerUp: {fileID: 0}
   Fire: {fileID: 8300000, guid: 6b6ffc9885bd5984dacffdc83a251b58, type: 3}
 --- !u!82 &155228928729199975
