@@ -41,4 +41,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Arcade Death.unity
     guid: 4356e47c9691e60429c435f98b1c492b
+  - enabled: 1
+    path: Assets/Scenes/Loading Scene.unity
+    guid: 1cfbdf7fd378d644f96b87e7451cd9cf
+  - enabled: 1
+    path: Assets/Scenes/Loading Scene 2.unity
+    guid: 5e4c77151dce7c148afc4b6a44c48dd1
   m_configObjects: {}
