@@ -16,6 +16,8 @@ public class WaveSpawnner : MonoBehaviour
     public Wave[] Waves;
     public Transform[] SpawnPoints;
     public Text waveName;
+    public Text score;
+    public GameObject ScoreText;
 
     private Wave currentWave;
     private int currentWaveNumber;
@@ -37,7 +39,8 @@ public class WaveSpawnner : MonoBehaviour
                     canSpawn = true;
                 }
             }
- 
+        score.text = ("You survived till  " + waveName.text);
+
     }
 
     void SpawnWave()
@@ -54,6 +57,13 @@ public class WaveSpawnner : MonoBehaviour
                 canSpawn = false;
             }
         }
+
+    }
+
+    private void Awake()
+    {
+        
+        DontDestroyOnLoad(ScoreText);
 
     }
 

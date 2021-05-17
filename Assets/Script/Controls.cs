@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Controls : MonoBehaviour
 {
@@ -10,6 +11,11 @@ public class Controls : MonoBehaviour
     public GameObject ControlScheme;
     public Sprite Coin;
     public Sprite Jonesy;
+
+    public GameObject Main;
+    public GameObject slider;
+    public GameObject buttons;
+    public Text loading;
 
     // Start is called before the first frame update
     void Start()
@@ -26,7 +32,16 @@ public class Controls : MonoBehaviour
 
     public void LoadGame()
     {
-        SceneManager.LoadScene("Main Scene");
+        //SceneManager.LoadScene("Main Scene");
+        slider.SetActive(true);
+        loading.enabled = true;
+        buttons.SetActive(false);
+        if (SceneManager.GetActiveScene().name == "Controls Scene")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Main Scene"));
+
+        }
         Time.timeScale = 1;
     }
 
@@ -134,5 +149,16 @@ public class Controls : MonoBehaviour
         animator.SetBool("Run", false);
         animator.SetBool("Fight", false);
         animator.SetBool("Block", false);
+    }
+
+    IEnumerator LoadYourAsyncScene(string SceneName)
+    {
+
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(SceneName);
+        while (asyncLoad.progress < 1)
+        {
+            slider.GetComponent<Slider>().value = asyncLoad.progress;
+            yield return new WaitForEndOfFrame();
+        }
     }
 }
