@@ -18,6 +18,7 @@ public class WaveSpawnner : MonoBehaviour
     public Text waveName;
     public Text score;
     public Text deathno;
+    public Text points;
     public GameObject ScoreText;
 
     private Wave currentWave;
@@ -25,6 +26,7 @@ public class WaveSpawnner : MonoBehaviour
     private float nextSpawnTime;
     public Enemy enemy;
     public int Deaths;
+    public int Points;
 
     private bool canSpawn = true;
 
@@ -42,8 +44,9 @@ public class WaveSpawnner : MonoBehaviour
                     canSpawn = true;
                 }
             }
-        score.text = ("You survived till  " + waveName.text);
-        //deathno.text = ("Enemies killed: " + Deaths);
+        score.text = ("You survived till " + waveName.text);
+        deathno.text = ("Enemies killed: " + Deaths);
+        points.text = ("Final Score: " + Points);
 
     }
 
@@ -54,7 +57,7 @@ public class WaveSpawnner : MonoBehaviour
             GameObject randomEnemy = currentWave.TypeOfEnemies[Random.Range(0, currentWave.TypeOfEnemies.Length)];
             Transform randomPoint = SpawnPoints[Random.Range(0, SpawnPoints.Length)];
             Instantiate(randomEnemy, randomPoint.position, Quaternion.identity);
-            //randomEnemy.GetComponent<Enemy>().kills = this;
+            randomEnemy.GetComponent<Enemy>().kills = this;
             currentWave.NoOfEnemies--;
             nextSpawnTime = Time.time + currentWave.SpawnInterval;
             if(currentWave.NoOfEnemies == 0)

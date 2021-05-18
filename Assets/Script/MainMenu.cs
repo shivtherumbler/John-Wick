@@ -80,6 +80,7 @@ public class MainMenu : MonoBehaviour
         if (SceneManager.GetActiveScene().name == "Main Menu")
         {
             //StartCoroutine(ArcadeScene());
+            Destroy(GameObject.Find("Scores"));
             StartCoroutine(LoadYourAsyncScene("Infinite Scene"));
 
         }
@@ -87,6 +88,7 @@ public class MainMenu : MonoBehaviour
         if (SceneManager.GetActiveScene().name == "Arcade Death")
         {
             //StartCoroutine(MainScene());
+            Destroy(GameObject.Find("Scores"));
             StartCoroutine(LoadYourAsyncScene("Infinite Scene"));
 
         }

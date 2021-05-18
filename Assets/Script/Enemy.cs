@@ -20,6 +20,7 @@ public class Enemy : MonoBehaviour
     public float Velocity;
     public float Time = 2f;
     float Timer;
+    public WaveSpawnner kills;
 
     // Start is called before the first frame update
     void Start()
@@ -190,5 +191,11 @@ public class Enemy : MonoBehaviour
             }
         }
 
+    }
+
+    void Killno()
+    {
+        kills.Deaths++;
+        kills.Points = kills.Points + 25;
     }
 }
