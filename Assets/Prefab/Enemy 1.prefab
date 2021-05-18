@@ -294,6 +294,7 @@ MonoBehaviour:
   Shooting: {fileID: 7188064448384309686}
   Velocity: 30
   Time: 1
+  kills: {fileID: 0}
 --- !u!50 &4559290877433656576
 Rigidbody2D:
   serializedVersion: 4

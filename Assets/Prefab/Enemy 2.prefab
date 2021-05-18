@@ -233,6 +233,7 @@ MonoBehaviour:
   Shooting: {fileID: 0}
   Velocity: 0
   Time: 2
+  kills: {fileID: 0}
 --- !u!114 &-1214435273594687818
 MonoBehaviour:
   m_ObjectHideFlags: 0

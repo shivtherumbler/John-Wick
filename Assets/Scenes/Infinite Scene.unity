@@ -7095,6 +7095,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   score: {fileID: 1067246858}
+  kills: {fileID: 0}
 --- !u!1 &612194709
 GameObject:
   m_ObjectHideFlags: 0
@@ -12783,7 +12784,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Score
+  m_Text: 'Score:'
 --- !u!222 &1067246861
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -29665,6 +29666,11 @@ PrefabInstance:
       propertyPath: score
       value: 
       objectReference: {fileID: 1067246860}
+    - target: {fileID: 4018635882445505483, guid: 934fbde6eacd033478d4408002fed476,
+        type: 3}
+      propertyPath: deathno
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4018635882445505483, guid: 934fbde6eacd033478d4408002fed476,
         type: 3}
       propertyPath: waveName
