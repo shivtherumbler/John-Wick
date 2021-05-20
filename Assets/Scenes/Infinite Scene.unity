@@ -29199,9 +29199,24 @@ PrefabInstance:
       objectReference: {fileID: 98108493}
     - target: {fileID: 5902187584374751898, guid: 2d9c6b5cf282cd74dac73d3d044593c9,
         type: 3}
+      propertyPath: points
+      value: 
+      objectReference: {fileID: 1080541497}
+    - target: {fileID: 5902187584374751898, guid: 2d9c6b5cf282cd74dac73d3d044593c9,
+        type: 3}
+      propertyPath: deathno
+      value: 
+      objectReference: {fileID: 1149461148}
+    - target: {fileID: 5902187584374751898, guid: 2d9c6b5cf282cd74dac73d3d044593c9,
+        type: 3}
       propertyPath: HealthBar
       value: 
       objectReference: {fileID: 58160570}
+    - target: {fileID: 5902187584374751898, guid: 2d9c6b5cf282cd74dac73d3d044593c9,
+        type: 3}
+      propertyPath: ScoreText
+      value: 
+      objectReference: {fileID: 601282435}
     - target: {fileID: 5902187584374751901, guid: 2d9c6b5cf282cd74dac73d3d044593c9,
         type: 3}
       propertyPath: m_RootOrder
