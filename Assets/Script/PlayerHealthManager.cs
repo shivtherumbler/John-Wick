@@ -41,6 +41,7 @@ public class PlayerHealthManager : MonoBehaviour
     {
         if(PlayerCurrentHealth <=0)
         {
+            FlashActive = false;
             gameObject.SetActive(false);
         }
 
@@ -93,7 +94,7 @@ public class PlayerHealthManager : MonoBehaviour
 
                 if (PlayerCurrentHealth <= 0)
                 {
-
+                    FlashActive = false;
                     Die();
 
                 }
@@ -160,7 +161,7 @@ public class PlayerHealthManager : MonoBehaviour
 void Die()
 {
     Debug.Log("Player died!");
-
+        FlashActive = false;
         Dying.PlayOneShot(Death);
     //Die anim
     animator.SetBool("Death", true);
@@ -188,16 +189,23 @@ void Die()
         {
             SceneManager.LoadScene("Game Over Scene");
         }
-        else
+        else if(SceneManager.GetActiveScene().name == "Infinite Scene")
         {
             SceneManager.LoadScene("Arcade Death");
+        }
+
+        else if(SceneManager.GetActiveScene().name == "Timer Mode")
+        {
+            SceneManager.LoadScene("Timer Mode Lose");
+            Time.timeScale = 0f;
         }
     }
 
     void Sprite()
     {
-        spriteRenderer.color = new Color(spriteRenderer.color.r, spriteRenderer.color.g, spriteRenderer.color.b, 1f);
         FlashActive = false;
+        spriteRenderer.color = new Color(spriteRenderer.color.r, spriteRenderer.color.g, spriteRenderer.color.b, 1f);
+        
     }
 
 }

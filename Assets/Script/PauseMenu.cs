@@ -49,6 +49,8 @@ public class PauseMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Main Menu");
         Resume();
+        Destroy(GameObject.Find("Select Time"));
+        Destroy(GameObject.Find("Scores"));
     }
 
     public void QuitGame()

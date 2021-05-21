@@ -8,7 +8,11 @@ public class MainMenu : MonoBehaviour
 {
     public GameObject Main;
     public GameObject slider;
+    public GameObject NewGame;
+    public GameObject Select;
     public GameObject buttons;
+    public GameObject modes;
+    public GameObject back;
     public Text loading;
 
     // Start is called before the first frame update
@@ -30,6 +34,8 @@ public class MainMenu : MonoBehaviour
         slider.SetActive(true);
         loading.enabled = true;
         buttons.SetActive(false);
+        modes.SetActive(false);
+        back.SetActive(false);
         //SceneManager.LoadScene("Loading Scene");
         if (SceneManager.GetActiveScene().name == "Main Menu")
         {
@@ -46,6 +52,8 @@ public class MainMenu : MonoBehaviour
         slider.SetActive(true);
         loading.enabled = true;
         buttons.SetActive(false);
+        modes.SetActive(false);
+        back.SetActive(false);
         if (SceneManager.GetActiveScene().name == "Main Menu")
         {
             //StartCoroutine(MainScene());
@@ -132,14 +140,61 @@ public class MainMenu : MonoBehaviour
     public void Menu()
     {
         SceneManager.LoadScene("Main Menu");
+        Destroy(GameObject.Find("Scores"));
+        Destroy(GameObject.Find("Select Time"));
     }
 
     public void BonusClip()
     {
         SceneManager.LoadScene("Bonus Scene");
     }
- 
-IEnumerator MainScene()
+
+    public void SelectMode()
+    {
+        modes.SetActive(true);
+        buttons.SetActive(false);
+
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(NewGame);
+
+    }
+
+    public void Back()
+    {
+        modes.SetActive(false);
+        buttons.SetActive(true);
+
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Select);
+
+    }
+
+    public void TimeTrial()
+    {
+        PlayerPrefs.DeleteKey("x");
+        PlayerPrefs.DeleteKey("y");
+        slider.SetActive(true);
+        loading.enabled = true;
+        buttons.SetActive(false);
+        if (SceneManager.GetActiveScene().name == "Main Menu")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Timer Mode"));
+
+        }
+
+        if (SceneManager.GetActiveScene().name == "Timer Mode Lose")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Timer Mode"));
+
+        }
+        Destroy(GameObject.Find("Select Time"));
+
+        Time.timeScale = 1;
+    }
+
+    IEnumerator MainScene()
     {
         yield return new WaitForSeconds(1.0f);
 

@@ -243,7 +243,7 @@ public class Player : MonoBehaviour
                     animator.SetBool("Down", false);
                     animator.SetBool("Crouch Walk", false);
                     animator.SetBool("Briefcase Walk", false);
-            }
+                }
                 Speed = 6;
 
             }
@@ -280,7 +280,7 @@ public class Player : MonoBehaviour
                 animator.SetBool("Briefcase Walk", false);
             }
 
-                Speed = 3;
+                Speed = 4;
             }
 
             if (Input.GetKey(KeyCode.S) && h == 0 || Input.GetKey(KeyCode.DownArrow) && h == 0)

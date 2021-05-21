@@ -318,6 +318,7 @@ MonoBehaviour:
   Shooting: {fileID: 6415167045689773155}
   Velocity: 40
   Time: 0
+  Attack: 304
 --- !u!114 &2796517947532826326
 MonoBehaviour:
   m_ObjectHideFlags: 0

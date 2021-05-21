@@ -37,6 +37,15 @@ public class InGameMusic : MonoBehaviour
 
             }
 
+            if (Application.loadedLevelName == "Timer Mode")
+            {
+                music = gameObject.AddComponent<AudioSource>();
+                music.clip = clip;
+                int randomStartTime = Random.Range(0, clip.samples - 1); //clip.samples is the lengh of the clip in samples
+                music.timeSamples = randomStartTime;
+
+            }
+
             music.Play();
             DontDestroyOnLoad(gameObject);
             AudioBegin = true;
@@ -72,6 +81,18 @@ public class InGameMusic : MonoBehaviour
         }
 
         if (Application.loadedLevelName == "Arcade Death")
+        {
+            music.Stop();
+            AudioBegin = false;
+        }
+
+        if (Application.loadedLevelName == "Timer Mode Lose")
+        {
+            music.Stop();
+            AudioBegin = false;
+        }
+
+        if (Application.loadedLevelName == "Timer Win")
         {
             music.Stop();
             AudioBegin = false;

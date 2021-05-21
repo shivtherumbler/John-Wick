@@ -41,4 +41,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Arcade Death.unity
     guid: 4356e47c9691e60429c435f98b1c492b
+  - enabled: 1
+    path: Assets/Scenes/Timer Mode.unity
+    guid: e92e468e342c78545ac6aaf2abf03745
+  - enabled: 1
+    path: Assets/Scenes/Timer Mode Lose.unity
+    guid: 01da99e7dc6747b48821050e16ab8073
+  - enabled: 1
+    path: Assets/Scenes/Timer Win.unity
+    guid: a33633ba64803634d8d61f6a1345a2f9
   m_configObjects: {}

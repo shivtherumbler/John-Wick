@@ -21,94 +21,125 @@ public class ArcadeLevel : MonoBehaviour
     public GameObject Street2;
     public GameObject Lifts2;
     public GameObject NightClub;
+    public GameObject Pause;
 
     public void ParkingLot()
     {
         Parking1.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void Roof()
     {
         Rooftop.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void NightStreet()
     {
         Street.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void Weaponry()
     {
         Armory.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }    
 
     public void Train()
     {
         Subway.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void Home()
     {
         House.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void ParkingLot2()
     {
         Parking2.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void Entrance()
     {
         EnterHome.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }    
 
     public void Theatre()
     {
         MovieHall.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void Roof2()
     {
         Rooftop2.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void Lift()
     {
         Lifts.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void CyberRoom()
     {
         CameraRoom.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void LightStreet()
     {
         Street2.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void Lift2()
     {
         Lifts2.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 
     public void Club()
     {
         NightClub.SetActive(true);
         Select.SetActive(false);
+        GameObject myEventSystem = GameObject.Find("EventSystem");
+        myEventSystem.GetComponent<UnityEngine.EventSystems.EventSystem>().SetSelectedGameObject(Pause);
     }
 }
