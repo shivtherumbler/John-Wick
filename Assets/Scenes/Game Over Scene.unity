@@ -1376,8 +1376,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Main: {fileID: 663602996}
   slider: {fileID: 1068150067}
+  NewGame: {fileID: 0}
+  Select: {fileID: 0}
   buttons: {fileID: 663602996}
-  modes: {fileID: 0}
+  modes: {fileID: 663602996}
+  back: {fileID: 663602996}
   loading: {fileID: 931562992}
 --- !u!114 &1643350032
 MonoBehaviour:
