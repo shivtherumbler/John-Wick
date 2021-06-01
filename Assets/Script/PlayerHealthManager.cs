@@ -42,7 +42,7 @@ public class PlayerHealthManager : MonoBehaviour
         if(PlayerCurrentHealth <=0)
         {
             FlashActive = false;
-            gameObject.SetActive(false);
+            //gameObject.SetActive(false);
         }
 
         if (FlashActive)

@@ -43,6 +43,13 @@ public class MainMenu : MonoBehaviour
             StartCoroutine(LoadYourAsyncScene("Main Scene"));
 
         }
+
+        if (SceneManager.GetActiveScene().name == "Story Scene")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Main Scene"));
+
+        }
         Time.timeScale = 1;
     }
 
@@ -130,6 +137,20 @@ public class MainMenu : MonoBehaviour
             StartCoroutine(LoadYourAsyncScene("Credits Scene"));
 
         }
+
+        if (SceneManager.GetActiveScene().name == "Win Scene")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Credits Scene"));
+
+        }
+
+        if (SceneManager.GetActiveScene().name == "Timer Win")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Credits Scene"));
+
+        }
     }
 
     public void QuitGame()
@@ -147,6 +168,11 @@ public class MainMenu : MonoBehaviour
     public void BonusClip()
     {
         SceneManager.LoadScene("Bonus Scene");
+    }
+
+    public void Story()
+    {
+        SceneManager.LoadScene("Story Scene");
     }
 
     public void SelectMode()
