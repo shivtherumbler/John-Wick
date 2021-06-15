@@ -153,6 +153,30 @@ public class MainMenu : MonoBehaviour
         }
     }
 
+    public void DLC()
+    {
+        PlayerPrefs.DeleteKey("x");
+        PlayerPrefs.DeleteKey("y");
+        //SceneManager.LoadScene("Credits Scene");
+        slider.SetActive(true);
+        loading.enabled = true;
+        buttons.SetActive(false);
+        if (SceneManager.GetActiveScene().name == "Main Menu")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("DLC Story"));
+
+        }
+
+        if (SceneManager.GetActiveScene().name == "Win Scene")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("DLC Story"));
+
+        }
+
+    }
+
     public void QuitGame()
     {
         Application.Quit();

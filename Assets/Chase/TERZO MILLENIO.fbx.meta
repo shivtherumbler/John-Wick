@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: ec207500eed6d1342bff22e06f39014f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1680143732066380197
+    second: detach_wing_10_carpaint_custom03_LOD2|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: -831627050705014464
+    second: detach_wing_10_carpaint_custom03_LOD2|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: -7479829151194862101
+    second: detach_wing_10_carpaint_custom03_LOD2|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -7500729273985714452
+    second: detach_wing_10_carpaint_custom03_LOD2|top_wing_L_animAction
+  - first:
+      74: 6590986272613313881
+    second: detach_wing_10_carpaint_custom03_LOD2|top_wing_R_animAction
+  - first:
+      74: -8527725496170603903
+    second: top_wing_L_anim|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: -7808053016314931601
+    second: top_wing_L_anim|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: -7352899633321101479
+    second: top_wing_L_anim|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -8428231138450509810
+    second: top_wing_L_anim|top_wing_L_animAction
+  - first:
+      74: -3961297269773292243
+    second: top_wing_L_anim|top_wing_R_animAction
+  - first:
+      74: 5504138514443122245
+    second: top_wing_R_anim|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: 368054647015612286
+    second: top_wing_R_anim|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: -3909577646970013610
+    second: top_wing_R_anim|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -7035820201503624117
+    second: top_wing_R_anim|top_wing_L_animAction
+  - first:
+      74: -1964073103447171190
+    second: top_wing_R_anim|top_wing_R_animAction
+  - first:
+      74: 720353624922364395
+    second: detach_anim04_LOD_tiled_carbon_LOD16|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: -6401377373155923713
+    second: detach_anim04_LOD_tiled_carbon_LOD16|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: 3775388253932284801
+    second: detach_anim04_LOD_tiled_carbon_LOD16|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -3789363260727052862
+    second: detach_anim04_LOD_tiled_carbon_LOD16|top_wing_L_animAction
+  - first:
+      74: -6310615710850558786
+    second: detach_anim04_LOD_tiled_carbon_LOD16|top_wing_R_animAction
+  - first:
+      74: -5689184262407107292
+    second: detach_03_5_details_orange_accents_LOD2|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: 8285309155093395037
+    second: detach_03_5_details_orange_accents_LOD2|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: 1711963938172083611
+    second: detach_03_5_details_orange_accents_LOD2|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: 1378441862176223452
+    second: detach_03_5_details_orange_accents_LOD2|top_wing_L_animAction
+  - first:
+      74: 7316876013197946665
+    second: detach_03_5_details_orange_accents_LOD2|top_wing_R_animAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -50,4 +50,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Timer Win.unity
     guid: a33633ba64803634d8d61f6a1345a2f9
+  - enabled: 1
+    path: Assets/Scenes/Car Scene.unity
+    guid: 080a7a34756c4414c95d32734a6b167b
+  - enabled: 1
+    path: Assets/Scenes/DLC Scene.unity
+    guid: d163e8d5a6653cb42bf0b45965dfdc0a
+  - enabled: 1
+    path: Assets/Scenes/DLC Story.unity
+    guid: 23b712ef636848347bf91c463a0a1801
   m_configObjects: {}

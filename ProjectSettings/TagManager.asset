@@ -22,6 +22,7 @@ TagManager:
   - Back Wall
   - Music
   - Game Music
+  - Car
   layers:
   - Default
   - TransparentFX

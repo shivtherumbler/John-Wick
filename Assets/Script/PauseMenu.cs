@@ -76,4 +76,60 @@ public class PauseMenu : MonoBehaviour
         Resume();
     }
 
+    public void RestartScene()
+    {
+        PlayerPrefs.DeleteKey("x");
+        PlayerPrefs.DeleteKey("y");
+        if (SceneManager.GetActiveScene().name == "Main Scene")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Main Scene"));
+            Resume();
+
+        }
+
+        if (SceneManager.GetActiveScene().name == "DLC Scene")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("DLC Scene"));
+            Resume();
+
+        }
+
+        if (SceneManager.GetActiveScene().name == "Car Scene")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Car Scene"));
+            Resume();
+
+        }
+
+        if (SceneManager.GetActiveScene().name == "Infinite Scene")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Infinite Scene"));
+            Resume();
+
+        }
+
+        if (SceneManager.GetActiveScene().name == "Timer Mode")
+        {
+            //StartCoroutine(MainScene());
+            StartCoroutine(LoadYourAsyncScene("Timer Mode"));
+            Resume();
+
+        }
+    }
+
+        IEnumerator LoadYourAsyncScene(string SceneName)
+    {
+
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(SceneName);
+        while (asyncLoad.progress < 1)
+        {
+            
+            yield return new WaitForEndOfFrame();
+        }
+    }
+
 }

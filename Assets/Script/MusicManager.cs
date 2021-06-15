@@ -52,6 +52,12 @@ public class MusicManager : MonoBehaviour
             music.Stop();
             AudioBegin = false;
             }
+
+            if (Application.loadedLevelName == "Car Scene")
+            {
+            music.Stop();
+            AudioBegin = false;
+            }
     }
 
     void Start()

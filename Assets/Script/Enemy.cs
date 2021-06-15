@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Enemy : MonoBehaviour
 {
@@ -197,5 +198,10 @@ public class Enemy : MonoBehaviour
     {
         kills.Deaths++;
         kills.Points = kills.Points + 25;
+    }
+
+    void Win()
+    {
+        SceneManager.LoadScene("Win Scene");
     }
 }

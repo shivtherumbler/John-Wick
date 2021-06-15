@@ -53,6 +53,14 @@ MonoBehaviour:
   SpawnPoints:
   - {fileID: 4018635882738427142}
   - {fileID: 4018635883162321804}
+  waveName: {fileID: 0}
+  score: {fileID: 0}
+  deathno: {fileID: 0}
+  points: {fileID: 0}
+  ScoreText: {fileID: 0}
+  enemy: {fileID: 0}
+  Deaths: 0
+  Points: 0
 --- !u!1 &4018635882738427143
 GameObject:
   m_ObjectHideFlags: 0

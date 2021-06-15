@@ -46,6 +46,24 @@ public class InGameMusic : MonoBehaviour
 
             }
 
+            if (Application.loadedLevelName == "DLC Scene")
+            {
+                music = gameObject.AddComponent<AudioSource>();
+                music.clip = clip;
+                int randomStartTime = Random.Range(0, clip.samples - 1); //clip.samples is the lengh of the clip in samples
+                music.timeSamples = randomStartTime;
+
+            }
+
+            if (Application.loadedLevelName == "Car Scene")
+            {
+                music = gameObject.AddComponent<AudioSource>();
+                music.clip = clip;
+                int randomStartTime = Random.Range(0, clip.samples - 1); //clip.samples is the lengh of the clip in samples
+                music.timeSamples = randomStartTime;
+
+            }
+
             music.Play();
             DontDestroyOnLoad(gameObject);
             AudioBegin = true;
@@ -93,6 +111,13 @@ public class InGameMusic : MonoBehaviour
         }
 
         if (Application.loadedLevelName == "Timer Win")
+        {
+            music.Stop();
+            AudioBegin = false;
+        }
+
+
+        if (Application.loadedLevelName == "Win Scene")
         {
             music.Stop();
             AudioBegin = false;
