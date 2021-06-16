@@ -5615,6 +5615,12 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1344204230582535939, guid: e344d043e0d0b4c479f29dc6144fa22a,
+        type: 3}
+      propertyPath: Waves.Array.data[0].TypeOfEnemies.Array.data[0]
+      value: 
+      objectReference: {fileID: 1141403940682864857, guid: 7ac59d7189fade44db9838d4c7809659,
+        type: 3}
     - target: {fileID: 1354609620114300303, guid: e344d043e0d0b4c479f29dc6144fa22a,
         type: 3}
       propertyPath: Camera
@@ -7235,6 +7241,7 @@ PrefabInstance:
     - {fileID: 5002291147715571730, guid: e344d043e0d0b4c479f29dc6144fa22a, type: 3}
     - {fileID: 2753639898890532671, guid: e344d043e0d0b4c479f29dc6144fa22a, type: 3}
     - {fileID: 5686217112845397557, guid: e344d043e0d0b4c479f29dc6144fa22a, type: 3}
+    - {fileID: 4420534282977620271, guid: e344d043e0d0b4c479f29dc6144fa22a, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: e344d043e0d0b4c479f29dc6144fa22a, type: 3}
 --- !u!1001 &5726136551876249827
 PrefabInstance:

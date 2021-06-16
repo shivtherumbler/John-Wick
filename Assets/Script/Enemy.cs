@@ -202,6 +202,19 @@ public class Enemy : MonoBehaviour
 
     void Win()
     {
-        SceneManager.LoadScene("Win Scene");
+        if (SceneManager.GetActiveScene().name == "Main Scene")
+        {
+            //StartCoroutine(MainScene());
+            SceneManager.LoadScene("Win Scene");
+
+        }
+
+        if (SceneManager.GetActiveScene().name == "Timer Mode")
+        {
+            //StartCoroutine(MainScene());
+            SceneManager.LoadScene("Timer Win");
+
+        }
     }
+
 }
